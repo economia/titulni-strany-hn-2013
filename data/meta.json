@@ -1,0 +1,64 @@
+[
+	{
+		"file":"0102.pdf",
+		"events":[
+			"Krize",
+			"Amnestie"
+			],
+		"people":[
+			"Václav Klaus"
+			],
+		"entities": [
+			"Prezident"
+			],
+		"dds":"Petr Šabata",
+		"links": [
+			"http://hn.ihned.cz/c1-59047600-2013-firmy-cekaji-mene-zakazek-a-nizsi-mzdy",
+			"http://hn.ihned.cz/c1-59047590-klaus-pomohl-uplatnemu-politikovi-i-byvalemu-sefovi-fotbalu-chvalovskemu",
+			"http://hn.ihned.cz/c1-59047580-99-slov"
+			]
+	},
+	{
+		"file":"0103.pdf",
+		"events":[
+			"Amnestie",
+			"Akciové trhy"
+			],
+		"people":[
+			"Václav Klaus",
+			"Petr Nečas"
+			],
+		"entities": [
+			"Prezident",
+			"Vláda"
+			],
+		"dds":"Petr Kamberský",
+		"links": [
+			"http://hn.ihned.cz/c1-59055310-klausova-tecka-velci-tunelari-uniknou-trestu",
+			"http://hn.ihned.cz/c1-59055300-svetove-akcie-se-diky-dohode-v-usa-vysplhaly-nejvyse-za-rok-a-pul",
+			"http://hn.ihned.cz/c1-59055290-99-slov"
+			]
+	},{
+		"file":"0104.pdf",
+		"events":[
+			"Amnestie",
+			"Oslabení koruny"
+			],
+		"people":[
+			"Václav Klaus",
+			"Petr Nečas"
+			],
+		"entities": [
+			"Prezident",
+			"Vláda",
+			"ČNB"
+			],
+		"dds":"Adam Černý",
+		"links": [
+			"http://hn.ihned.cz/c1-59061520-obeti-tunelaru-ztratily-nadeji-na-odskodne",
+			"http://hn.ihned.cz/c1-59061510-centralni-banker-tomsik-tlaci-na-trhy-i-vladu-hrozi-ze-posle-korunu-dolu",
+			"http://hn.ihned.cz/c1-59061490-navrat-k-ceskoslovensku",
+			"http://hn.ihned.cz/c1-59061500-99-slov"
+			]
+	}
+]

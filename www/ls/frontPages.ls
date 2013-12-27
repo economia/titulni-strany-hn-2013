@@ -29,7 +29,6 @@ window.FrontPages = class FrontPages
                 ..transition!
                     ..delay 1
                     ..attr \class "page active"
-
         sel.exit!
             ..attr \class "page fadingOut"
             ..transition!
@@ -39,4 +38,4 @@ window.FrontPages = class FrontPages
         @parentElement.selectAll "div.page.active"
             ..style "left" ({index}) -> "#{index % 3 * (width + margin_x)}px"
             ..style "top" ({index}) -> "#{(Math.floor (index / 3)) * (height + margin_y)}px"
-
+        @parentElement.style \height "#{((Math.floor(data.length / 3)) + 1) * ((height + margin_y))}px"

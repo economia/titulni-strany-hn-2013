@@ -15,7 +15,7 @@ dds = for tag of dds_assoc => {tag}
 tags.sort (a, b) -> b.count - a.count
 
 frontPages = new FrontPages do
-    d3.select \.frontPages
+    d3.select ".frontPages .content"
     data
 
 leftMenu = new LeftMenu do

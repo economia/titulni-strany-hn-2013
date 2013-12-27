@@ -26,4 +26,3 @@ leftMenu = new LeftMenu do
     frontPages
     tags
     dds
-

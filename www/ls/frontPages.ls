@@ -1,5 +1,5 @@
 window.FrontPages = class FrontPages
-    (@parentElement, @data) ->
+    (@parentElement, @detail, @data) ->
         @update!
 
     update: (term) ->
@@ -26,6 +26,7 @@ window.FrontPages = class FrontPages
                         "../data/thumb/#src"
                     ..attr \width "#{width}px"
                     ..attr \height "#{height}px"
+                ..on \click ~> @detail.display it
                 ..transition!
                     ..delay 1
                     ..attr \class "page active"

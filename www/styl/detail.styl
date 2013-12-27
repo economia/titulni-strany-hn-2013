@@ -1,0 +1,58 @@
+&
+    position absolute
+    top 0px
+    bottom 0px
+    width 100%
+    left 0px
+    background rgba(255,255,255,0.8)
+    padding 20px
+    display none
+    &.active
+        display block
+    .content
+        border 1px solid HNBlue
+        width 100%
+        background white
+        float left
+        position relative
+        .close
+            position absolute
+            top 0px
+            right 0px
+            line-height 0px
+            padding 12px 10px
+            background #f1f1f1
+            border-left 1px solid darken(HNBlue, 20%)
+            border-bottom 1px solid darken(HNBlue, 20%)
+            font-size 0.7em
+            &:hover
+                background #dedede
+                cursor pointer
+            &:active
+                background #d0d0d0
+
+        .left
+            line-height 0px
+            float left
+            img
+                height 660px
+                width 0.7 * @height
+                float left
+        .right
+            float left
+            width 406px
+        h1
+            margin 27px 30px 20px 30px
+            padding-bottom
+        ul
+            list-style-type none
+            padding 0px
+            margin 27px 30px
+            li
+                margin-bottom 22px
+                a
+                    text-decoration none
+                    font-size 1.2em
+                    color black
+                    &:hover
+                        text-decoration underline

@@ -5,7 +5,9 @@ data.forEach ->
     it.tags = it.events ++ it.people ++ it.entities
     it.tags.forEach (tag) ->
         tags_assoc[tag] = (tags_assoc[tag] + 1) || 1
-    dds_assoc[it.dds] = 1 if it.dds
+    if it.dds
+        dds_assoc[it.dds] = 1
+        it.tags.push it.dds
 tags = []
 for tag, count of tags_assoc
     tags.push {tag, count}

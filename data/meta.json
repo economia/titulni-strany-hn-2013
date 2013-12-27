@@ -1,811 +1,988 @@
 [
-    {
-        "file": "0102.pdf",
-        "events": [
-            "Krize",
-            "Amnestie"
-        ],
-        "people": [
-            "Václav Klaus"
-        ],
-        "entities": [
-            "Prezident"
-        ],
-        "dds": "Petr Šabata",
-        "links": [
-            "http://hn.ihned.cz/c1-59047600-2013-firmy-cekaji-mene-zakazek-a-nizsi-mzdy",
-            "http://hn.ihned.cz/c1-59047590-klaus-pomohl-uplatnemu-politikovi-i-byvalemu-sefovi-fotbalu-chvalovskemu",
-            "http://hn.ihned.cz/c1-59047580-99-slov"
-        ]
-    },
-    {
-        "file": "0103.pdf",
-        "events": [
-            "Amnestie",
-            "Investice"
-        ],
-        "people": [
-            "Václav Klaus",
-            "Petr Nečas"
-        ],
-        "entities": [
-            "Prezident",
-            "Vláda"
-        ],
-        "dds": "Petr Kamberský",
-        "links": [
-            "http://hn.ihned.cz/c1-59055310-klausova-tecka-velci-tunelari-uniknou-trestu",
-            "http://hn.ihned.cz/c1-59055300-svetove-akcie-se-diky-dohode-v-usa-vysplhaly-nejvyse-za-rok-a-pul",
-            "http://hn.ihned.cz/c1-59055290-99-slov"
-        ]
-    },
-    {
-        "file": "0104.pdf",
-        "events": [
-            "Amnestie",
-            "Oslabení koruny"
-        ],
-        "people": [
-            "Václav Klaus",
-            "Petr Nečas"
-        ],
-        "entities": [
-            "Prezident",
-            "Vláda",
-            "ČNB"
-        ],
-        "dds": "Adam Černý",
-        "links": [
-            "http://hn.ihned.cz/c1-59061520-obeti-tunelaru-ztratily-nadeji-na-odskodne",
-            "http://hn.ihned.cz/c1-59061510-centralni-banker-tomsik-tlaci-na-trhy-i-vladu-hrozi-ze-posle-korunu-dolu",
-            "http://hn.ihned.cz/c1-59061490-navrat-k-ceskoslovensku",
-            "http://hn.ihned.cz/c1-59061500-99-slov"
-        ]
-    },
-    {
-        "file": "0107.pdf",
-        "events": [
-            "Investice",
-            "Big Deal"
-        ],
-        "people": [],
-        "entities": [],
-        "dds": "Petr Honzejk",
-        "links": [
-            "http://hn.ihned.cz/c1-59073810-stamiliony-za-softwarovou-firmu-z-ceska",
-            "http://hn.ihned.cz/c1-59073800-zlato-spanelske-dluhopisy-nebo-turecka-burza-experti-radi-kam-letos-investovat",
-            "http://hn.ihned.cz/c1-59073780-nhl-se-zpozdenim-zacne-kluby-a-hraci-se-dohodli",
-            "http://hn.ihned.cz/c1-59073790-99-slov"
-        ]
-    },
-    {
-        "file": "0108.pdf",
-        "events": [
-            "Investice",
-            "Krize",
-            "Inovace a technologie"
-        ],
-        "people": [],
-        "entities": [
-            "ČNB",
-            "ČSÚ"
-        ],
-        "dds": "Adam Černý",
-        "links": [
-            "http://hn.ihned.cz/c1-59081300-vlastni-bydleni-bude-dostupnejsi-nez-loni",
-            "http://hn.ihned.cz/c1-59081290-u-prahy-bude-vedecky-areal-za-miliardy-hlasi-se-badatele-z-ciny",
-            "http://hn.ihned.cz/c1-59081280-99-slov"
-        ]
-    },
-    {
-        "file": "0109.pdf",
-        "events": [
-            "Big Deal",
-            "Krize"
-        ],
-        "people": [
-            "Petr Kellner"
-        ],
-        "entities": [
-            "PPF",
-            "Generali"
-        ],
-        "dds": "Petr Šabata",
-        "links": [
-            "http://hn.ihned.cz/c1-59088050-svazek-ppf-s-generali-rozveden-za-70-miliard",
-            "http://hn.ihned.cz/c1-59088040-experti-se-obavaji-tri-cernych-ran-pro-svetovou-ekonomiku",
-            "http://hn.ihned.cz/c1-59088030-99-slov"
-        ]
-    },
-    {
-        "file": "0110.pdf",
-        "events": [
-            "Amnestie",
-            "Krize",
-            "Inovace a technologie"
-        ],
-        "people": [
-            "Pavel Rychetský",
-            "Václav Klaus",
-            "Petr Nečas"
-        ],
-        "entities": [
-            "Ústavní soud"
-        ],
-        "dds": "Petr Kamberský",
-        "links": [
-            "http://hn.ihned.cz/c1-59095330-rychetsky-takto-delaji-amnestii-jen-diletanti",
-            "http://hn.ihned.cz/c1-59095320-nezamestnanost-roste-a-odnaseji-to-hlavne-muzi",
-            "http://hn.ihned.cz/c1-59095300-hi-tech-svatek-v-las-vegas",
-            "http://hn.ihned.cz/c1-59095310-99-slov"
-        ]
-    },
-    {
-        "file": "0111.pdf",
-        "events": [
-            "Prezidentské volby"
-        ],
-        "people": [
-            "Karel Schwarzenberg",
-            "Miloš Zeman"
-        ],
-        "entities": [
-            "Prezident"
-        ],
-        "dds": null,
-        "links": [
-            "http://hn.ihned.cz/c1-59104520-zvolme-prezidenta-ktery-spojuje-ne-rozdeluje"
-        ]
-    },
-    {
-        "file": "0114.pdf",
-        "events": [
-            "Prezidentské volby"
-        ],
-        "people": [
-            "Karel Schwarzenberg",
-            "Miloš Zeman"
-        ],
-        "entities": [
-            "Prezident"
-        ],
-        "dds": null,
-        "links": [
-            "http://hn.ihned.cz/c1-59116220-o-hrad-se-stretnou-tezke-vahy-ruznych-kultur"
-        ]
-    },
-    {
-        "file": "0115.pdf",
-        "events": [
-            "Prezidentské volby",
-            "Krize"
-        ],
-        "people": [
-            "Karel Schwarzenberg",
-            "Miloš Zeman"
-        ],
-        "entities": [
-            "Prezident",
-            "ČNB"
-        ],
-        "dds": "Petr Šabata",
-        "links": [
-            "http://hn.ihned.cz/c1-59123960-knize-ziskal-starosty-zeman-bude-vlidny",
-            "http://hn.ihned.cz/c1-59123950-cena-rychlych-pujcek-roste-banky-se-boji-narustu-lidi-bez-prace",
-            "http://hn.ihned.cz/c1-59123940-99-slov"
-        ]
-    },
-    {
-        "file": "0116.pdf",
-        "events": [
-            "Prezidentské volby",
-            "Big Deal",
-            "Reformy"
-        ],
-        "people": [
-            "Karel Schwarzenberg",
-            "Miloš Zeman",
-            "Daniel Křetínský"
-        ],
-        "entities": [
-            "Prezident",
-            "VZP",
-            "Vláda"
-        ],
-        "dds": "Jiří Leschtina",
-        "links": [
-            "http://hn.ihned.cz/c1-59131120-vzp-pohrbila-plan-na-ruseni-nemocnic",
-            "http://hn.ihned.cz/c1-59131110-schwarzenberg-ovladl-web-a-to-ho-muze-i-poskodit",
-            "http://hn.ihned.cz/c1-59131100-souboj-kretinskeho-o-teplarny-alpiq-se-zapise-mezi-obchody-roku",
-            "http://hn.ihned.cz/c1-59131090-99-slov"
-        ]
-    },
-    {
-        "file": "0117.pdf",
-        "events": [
-            "Prezidentské volby",
-            "Reformy"
-        ],
-        "people": [
-            "Karel Schwarzenberg",
-            "Miloš Zeman"
-        ],
-        "entities": [
-            "Prezident",
-            "Vláda",
-            "JP Morgan"
-        ],
-        "dds": "Adam Černý",
-        "links": [
-            "http://hn.ihned.cz/c1-59138830-trestu-za-cizi-danove-dluhy-se-pujde-vyhnout",
-            "http://hn.ihned.cz/c1-59139010-velky-trest-za-ztratu-pro-sefa-jpmorgan-v-londyne",
-            "http://hn.ihned.cz/c1-59138820-duel-dvou-kultivovanych-gentlemanu",
-            "http://hn.ihned.cz/c1-59138810-99-slov"
-        ]
-    },
-    {
-        "file": "0118.pdf",
-        "events": [
-            "Prezidentské volby",
-            "Krize"
-        ],
-        "people": [
-            "Karel Schwarzenberg",
-            "Miloš Zeman"
-        ],
-        "entities": [
-            "Prezident"
-        ],
-        "dds": "Petr Šabata",
-        "links": [
-            "http://hn.ihned.cz/c1-59146080-zemana-sponzoruji-pratele-z-byznysu",
-            "http://hn.ihned.cz/c1-59146070-cesti-restaurateri-se-brani-krizi-v-sitich-zavedenych-znacek",
-            "http://hn.ihned.cz/c1-59146060-99-slov"
-        ]
-    },
-    {
-        "file": "0121.pdf",
-        "events": [
-            "Prezidentské volby",
-            "Reformy"
-        ],
-        "people": [
-            "Miloš Zeman",
-            "Barack Obama",
-            "Vratislav Mynář"
-        ],
-        "entities": [
-            "Prezident"
-        ],
-        "dds": "Petr Šabata",
-        "links": [
-            "http://hn.ihned.cz/c1-59161150-start-penzijni-reformy-zatim-drhne-tvrdi-fondy",
-            "http://hn.ihned.cz/c1-59161140-zeman-uz-mezi-lidi-jezdit-nebude-nahradi-ho-jeho-volebni-tym",
-            "http://hn.ihned.cz/c1-59161120-obamuv-ukol-pro-druhy-prezidentsky-polocas-zoufaly-stav-statnich-financi",
-            "http://hn.ihned.cz/c1-59161130-99-slov"
-        ]
-    },
-    {
-        "file": "0122.pdf",
-        "events": [
-            "Prezidentské volby",
-            "Reformy",
-            "Korupce"
-        ],
-        "people": [
-            "Miloš Zeman",
-            "Karel Schwarzenberg",
-            "Jan Fischer",
-            "Barack Obama"
-        ],
-        "entities": [
-            "Prezident",
-            "Vláda",
-            "Lesy ČR"
-        ],
-        "dds": "Jindřich Šídlo",
-        "links": [
-            "http://hn.ihned.cz/c1-59168110-kampan-vstoupila-do-sve-spinave-faze",
-            "http://hn.ihned.cz/c1-59168100-vstupni-prohlidky-brigadniku-skonci",
-            "http://hn.ihned.cz/c1-59168080-policie-vtrhla-do-lesu-zabavila-smlouvy",
-            "http://hn.ihned.cz/c1-59168070-obama-pro-snatky-homosexualu",
-            "http://hn.ihned.cz/c1-59168090-99-slov"
-        ]
-    },
-    {
-        "file": "0123.pdf",
-        "events": [
-            "Prezidentské volby",
-            "Energetika"
-        ],
-        "people": [
-            "Miloš Zeman",
-            "Karel Schwarzenberg",
-            "Daniel Křetínský"
-        ],
-        "entities": [
-            "Prezident",
-            "Energetický průmyslový holding"
-        ],
-        "dds": "Petr Šabata",
-        "links": [
-            "http://hn.ihned.cz/c1-59174100-zemanuv-finis-zmylena-historie-a-diry-v-uctech",
-            "http://hn.ihned.cz/c1-59174090-kretinsky-planuje-za-rok-zvysit-provozni-zisky-eph-na-50-miliard",
-            "http://hn.ihned.cz/c1-59174080-99-slov"
-        ]
-    },
-    {
-        "file": "0124.pdf",
-        "events": [
-            "Prezidentské volby",
-            "Vzdělání"
-        ],
-        "people": [
-            "Miloš Zeman",
-            "Karel Schwarzenberg"
-        ],
-        "entities": [
-            "Prezident"
-        ],
-        "dds": "Petr Honzejk",
-        "links": [
-            "http://hn.ihned.cz/c1-59183210-ostre-finale-kampane-primeje-volit-navic-statisice-lidi",
-            "http://hn.ihned.cz/c1-59183200-prava-se-nejlepe-studuji-v-brne-v-ekonomii-vitezi-praha",
-            "http://hn.ihned.cz/c1-59183190-99-slov"
-        ]
-    },
-    {
-        "file": "0125.pdf",
-        "events": [
-            "Prezidentské volby"
-        ],
-        "people": [
-            "Miloš Zeman",
-            "Karel Schwarzenberg"
-        ],
-        "entities": [
-            "Prezident"
-        ],
-        "dds": "Petr Šabata",
-        "links": [
-            "http://hn.ihned.cz/c1-59189940-dva-svety-jedna-volba",
-            "http://hn.ihned.cz/c1-59189930-editorial"
-        ]
-    },
-    {
-        "file": "0128.pdf",
-        "events": [
-            "Prezidentské volby"
-        ],
-        "people": [
-            "Miloš Zeman"
-        ],
-        "entities": [
-            "Prezident"
-        ],
-        "dds": null,
-        "links": [
-            "http://hn.ihned.cz/c1-59203620-zeman",
-            "http://hn.ihned.cz/c1-59189930-editorial"
-        ]
-    },
-    {
-        "file": "0129.pdf",
-        "events": [
-            "Prezidentské volby"
-        ],
-        "people": [
-            "Miloš Zeman"
-        ],
-        "entities": [
-            "Prezident",
-            "ČSSD",
-            "Ústavní soud",
-            "TV Nova"
-        ],
-        "dds": "Petr Honzejk",
-        "links": [
-            "http://hn.ihned.cz/c1-59210490-zemanovcum-uz-cssd-nabizi-spolupraci",
-            "http://hn.ihned.cz/c1-59210480-nova-zdrazuje-v-lednu-prodala-o-polovinu-mene-reklamy-nez-loni",
-            "http://hn.ihned.cz/c1-59210470-99-slov"
-        ]
-    },
-    {
-        "file": "0130.pdf",
-        "events": [
-            "Amnestie"
-        ],
-        "people": [
-            "Petr Kellner",
-            "Karel Komárek"
-        ],
-        "entities": [
-            "PPF",
-            "KKCD",
-            "Prezident"
-        ],
-        "dds": "Petr Šabata",
-        "links": [
-            "http://hn.ihned.cz/c1-59218450-utek-do-karibiku-pomohl-podvodnikovi-k-amnestii",
-            "http://hn.ihned.cz/c1-59218440-prazske-vitezne-namesti-si-parceluji-miliardari-postavi-tam-kancelare",
-            "http://hn.ihned.cz/c1-59218420-prodej-elektromobilu-se-v-cesku-pomalu-probouzi",
-            "http://hn.ihned.cz/c1-59218430-99-slov"
-        ]
-    },
-    {
-        "file": "0131.pdf",
-        "events": [],
-        "people": [
-            "Andrej Babiš"
-        ],
-        "entities": [
-            "Agrofesrt",
-            "ANO"
-        ],
-        "dds": "Petr Kamberský",
-        "links": [
-            "http://hn.ihned.cz/c1-59226430-babis-do-dvou-let-se-z-agrofertu-stahnu",
-            "http://hn.ihned.cz/c1-59226420-firmy-rekordne-utraceji-za-sponzoring-letos-trh-opet-poroste",
-            "http://hn.ihned.cz/c1-59226410-99-slov"
-        ]
-    },
-    {
-        "file": "0204.pdf",
-        "events": [
-            "Reformy"
-        ],
-        "people": [
-            "Miroslav Kalousek"
-        ],
-        "entities": [
-            "Vláda",
-            "Armáda"
-        ],
-        "dds": "Petr Kamberský",
-        "links": [
-            "http://hn.ihned.cz/c1-59247480-kalousek-pohorel-s-novou-dani-pro-firmy",
-            "http://hn.ihned.cz/c1-59247470-amerika-se-zastavila-hral-se-super-bowl",
-            "http://hn.ihned.cz/c1-59247460-vojensti-vyzkumnici-hodlaji-svoje-napady-prodavat-i-mimo-armadu",
-            "http://hn.ihned.cz/c1-59247450-99-slov"
-        ]
-    },
-    {
-        "file": "0205.pdf",
-        "events": [
-            "Korupce",
-            "Energetika"
-        ],
-        "people": [],
-        "entities": [
-            "Vláda",
-            "ERÚ",
-            "VZP"
-        ],
-        "dds": "Petr Fischer",
-        "links": [
-            "http://hn.ihned.cz/c1-59255920-policie-prosetri-puvod-zisku-solarniho-byznysu",
-            "http://hn.ihned.cz/c1-59255890-europol-odhalil-stovky-uplacenych-fotbalovych-zapasu",
-            "http://hn.ihned.cz/c1-59255910-pojistovny-rozjizdeji-experiment-cast-leku-budou-vyrobci-dotovat",
-            "http://hn.ihned.cz/c1-59255900-99-slov"
-        ]
-    },
-    {
-        "file": "0206.pdf",
-        "events": [
-            "Investice",
-            "Sport",
-            "Telekomunikace"
-        ],
-        "people": [],
-        "entities": [
-            "T-Mobile",
-            "Rusko",
-            "Equa bank"
-        ],
-        "dds": "Petr Šabata",
-        "links": [
-            "http://hn.ihned.cz/c1-59263570-hypoteky-zlevni-pro-vic-nez-sto-tisic-klientu",
-            "http://hn.ihned.cz/c1-59263540-do-nejdrazsi-olympiady-zbyva-rok-soci-uz-spolklo-38-miliard-dolaru",
-            "http://hn.ihned.cz/c1-59263560-t-mobile-musi-dat-klientovi-vsechny-udaje-ktere-o-nem-shromazdil",
-            "http://hn.ihned.cz/c1-59263550-99-slov"
-        ]
-    },
-    {
-        "file": "0207.pdf",
-        "events": [
-            "Reformy",
-            "Amnestie"
-        ],
-        "people": [
-            "Petr Nečas",
-            "Miroslav Kalousek"
-        ],
-        "entities": [
-            "Vláda"
-        ],
-        "dds": "Petr Kamberský",
-        "links": [
-            "http://hn.ihned.cz/c1-59271640-necas-az-do-voleb-zadne-zmeny-dani",
-            "http://hn.ihned.cz/c1-59271630-necekany-konec-hlavniho-ekonoma-goldman-sachs",
-            "http://hn.ihned.cz/c1-59271620-karibik-je-past-rika-uprchlik-ktery-dostal-klausovu-amnestii",
-            "http://hn.ihned.cz/c1-59271610-99-slov"
-        ]
-    },
-    {
-        "file": "0208.pdf",
-        "events": [
-            "Reformy",
-            "Koruna"
-        ],
-        "people": [
-            "Petr Nečas",
-            "Miroslav Singer"
-        ],
-        "entities": [
-            "Vláda",
-            "ČNB"
-        ],
-        "dds": "Petr Honzejk",
-        "links": [
-            "http://hn.ihned.cz/c1-59279350-necas-se-boji-padu-na-dno-dalsi-reformy-nebudou",
-            "http://hn.ihned.cz/c1-59279320-jedna-veta-guvernera-cnb-vystrelila-korunu-vzhuru",
-            "http://hn.ihned.cz/c1-59279340-binladin-group-oprasila-projekt-mostu-mezi-egyptem-a-saudy",
-            "http://hn.ihned.cz/c1-59279330-99-slov"
-        ]
-    },
-    {
-        "file": "0211.pdf",
-        "events": [
-            "Reformy",
-            "Amnestie",
-            "Zdravotnictví",
-            "Sport",
-            "Krize"
-        ],
-        "people": [],
-        "entities": [
-            "Evropská unie",
-            "Ústavní soud"
-        ],
-        "dds": "Petr Kamberský",
-        "links": [
-            "http://hn.ihned.cz/c1-59292500-lekari-maji-po-letech-nizsi-platy",
-            "http://hn.ihned.cz/c1-59292490-z-unie-pritece-pul-bilionu-korun",
-            "http://hn.ihned.cz/c1-59292470-fotbalove-kluby-ve-ztrate",
-            "http://hn.ihned.cz/c1-59279330-99-slov",
-            "http://hn.ihned.cz/c1-59292460-v-argentine-amnestii-zrusili",
-            "http://hn.ihned.cz/c1-59292480-99-slov"
-        ]
-    },
-    {
-        "file": "0212.pdf",
-        "events": [
-            "Papež",
-            "Krize",
-            "Armáda"
-        ],
-        "people": [],
-        "entities": [],
-        "dds": "Petr Kamberský",
-        "links": [
-            "http://hn.ihned.cz/c1-59301930-kdo-prijde-po-nem",
-            "http://hn.ihned.cz/c1-59301920-cesku-i-evrope-hrozi-ztracena-dekada",
-            "http://hn.ihned.cz/c1-59301910-pet-let-v-logaru-5-miliard",
-            "http://hn.ihned.cz/c1-59301900-99-slov"
-        ]
-    },
-    {
-        "file": "0213.pdf",
-        "events": [
-            "Korupce",
-            "Technologie"
-        ],
-        "people": [],
-        "entities": [],
-        "dds": "Petr Honzejk",
-        "links": [
-            "http://hn.ihned.cz/c1-59309620-zakazky-za-miliardy-losovala-tajemna-krabicka",
-            "http://hn.ihned.cz/c1-59309610-data-z-mobilu-pomohou-s-rozvojem-turistiky-i-obchodnich-center",
-            "http://hn.ihned.cz/c1-59309600-99-slov"
-        ]
-    },
-    {
-        "file": "0214.pdf",
-        "events": [
-            "Korupce",
-            "Zemědělství",
-            "Banky",
-            "Úvěry"
-        ],
-        "people": [],
-        "entities": [
-            "Komerční banka"
-        ],
-        "dds": "Petr Honzejk",
-        "links": [
-            "http://hn.ihned.cz/c1-59318580-klienti-proti-bankam-boj-o-miliardy",
-            "http://hn.ihned.cz/c1-59318570-dve-firmy-zaluji-pochybne-losovacky",
-            "http://hn.ihned.cz/c1-59318560-ekofarem-v-cesku-raketove-pribyva",
-            "http://hn.ihned.cz/c1-59318540-komercni-bance-roste-zisk-o-46-procent-na-14-miliard",
-            "http://hn.ihned.cz/c1-59318550-99-slov"
-        ]
-    },
-    {
-        "file": "0215.pdf",
-        "events": [
-            "Krize",
-            "Reformy",
-            "Banky",
-            "Showbyznys"
-        ],
-        "people": [
-            "Miroslav Kalousek"
-        ],
-        "entities": [
-            "Komerční banka"
-        ],
-        "dds": "Martin Denemark",
-        "links": [
-            "http://hn.ihned.cz/c1-59318580-klienti-proti-bankam-boj-o-miliardy",
-            "http://hn.ihned.cz/c1-59318570-dve-firmy-zaluji-pochybne-losovacky",
-            "http://hn.ihned.cz/c1-59318560-ekofarem-v-cesku-raketove-pribyva",
-            "http://hn.ihned.cz/c1-59318540-komercni-bance-roste-zisk-o-46-procent-na-14-miliard",
-            "http://hn.ihned.cz/c1-59318550-99-slov"
-        ]
-    },
-    {
-        "file": "0218.pdf",
-        "events": [
-            "Sport",
-            "Výzkum a vývoj"
-        ],
-        "people": [],
-        "entities": [
-            "Evropská unie"
-        ],
-        "dds": "Petr Šabata",
-        "links": [
-            "http://hn.ihned.cz/c1-59339510-cesko-v-eu-lobbuje-za-pobidky-pro-velke-firmy",
-            "http://hn.ihned.cz/c1-59339500-mlady-cech-prisel-na-to-jak-odhadnout-uspech-chemoterapie",
-            "http://hn.ihned.cz/c1-59339480-sampionat-v-biatlonu-skoncil-v-zisku",
-            "http://hn.ihned.cz/c1-59339490-99-slov"
-        ]
-    },
-    {
-        "file": "0219.pdf",
-        "events": [
-            "Sport",
-            "Koruna",
-            "Pohonné hmoty"
-        ],
-        "people": [],
-        "entities": [],
-        "dds": "Petr Honzejk",
-        "links": [
-            "http://hn.ihned.cz/c1-59348120-cena-benzinu-letos-roste-drive-prekona-rekord",
-            "http://hn.ihned.cz/c1-59348110-vysocina-a-nove-mesto-vsadily-na-to-ze-biatlon-prilaka-turisty",
-            "http://hn.ihned.cz/c1-59348100-99-slov"
-        ]
-    },
-    {
-        "file": "0220.pdf",
-        "events": [
-            "Sport",
-            "Energetika",
-            "Výzkum a vývoj"
-        ],
-        "people": [
-            "Martin Roman",
-            "Daniel Beneš"
-        ],
-        "entities": [
-            "ČEZ",
-            "Evropská unie"
-        ],
-        "dds": "Petr Šabata",
-        "links": [
-            "http://hn.ihned.cz/c1-59357590-cez-bude-muset-ozelet-bulharske-miliardy",
-            "http://hn.ihned.cz/c1-59357560-milionove-problemy-firmy-nike-woods-armstrong-a-ted-pistorius",
-            "http://hn.ihned.cz/c1-59357580-objev-ceskych-vedcu-pomuze-zlevnit-vyrobu-vodikovych-aut",
-            "http://hn.ihned.cz/c1-59357570-99-slov"
-        ]
-    },
-    {
-        "file": "0221.pdf",
-        "events": [
-            "Energetika",
-            "Veřejné zakázky"
-        ],
-        "people": [
-            "Martin Roman",
-            "Daniel Beneš"
-        ],
-        "entities": [
-            "ČEZ"
-        ],
-        "dds": "Adam Černý",
-        "links": [
-            "http://hn.ihned.cz/c1-59366400-cez-ma-v-bulharsku-potize-kvuli-zelene-energii",
-            "http://hn.ihned.cz/c1-59366390-ziskavaji-zakazky-navenek-jsou-pruhledni-sve-majitele-presto-taji",
-            "http://hn.ihned.cz/c1-59366380-99-slov"
-        ]
-    },
-    {
-        "file": "0222.pdf",
-        "events": [
-            "Energetika",
-            "Big Deal",
-            "Výzkum a vývoj"
-        ],
-        "people": [],
-        "entities": [
-            "ČEZ",
-            "Czech Coal",
-            "Evropská unie"
-        ],
-        "dds": "Petr Honzejk",
-        "links": [
-            "http://hn.ihned.cz/c1-59373910-obchod-roku-dohoda-o-uhli-za-200-miliard",
-            "http://hn.ihned.cz/c1-59373900-italske-volby-jsou-referendem-o-eurozone",
-            "http://hn.ihned.cz/c1-59373890-cesko-se-stava-medicinskou-laboratori-svetovych-firem",
-            "http://hn.ihned.cz/c1-59373880-99-slov"
-        ]
-    },
-    {
-        "file": "0225.pdf",
-        "events": [
-            "Technologie"
-        ],
-        "people": [
-            "Petr Nečas"
-        ],
-        "entities": [
-            "ODS",
-            "ČEZ",
-            "Google"
-        ],
-        "dds": "Martin Denemark",
-        "links": [
-            "http://hn.ihned.cz/c1-59387910-necas-vyjizdi-zkusi-restartovat-ods",
-            "http://hn.ihned.cz/c1-59387880-demonstroval-i-prezident-bulhari-ho-vypiskali",
-            "http://hn.ihned.cz/c1-59387900-google-x-vizionarsky-projekt-se-odvolava-na-cestu-k-mesici",
-            "http://hn.ihned.cz/c1-59387890-99-slov"
-        ]
-    },
-    {
-        "file": "0227.pdf",
-        "events": [
-            "Úvěry",
-            "Krize"
-        ],
-        "people": [],
-        "entities": [
-            "Banky",
-            "Evropská unie"
-        ],
-        "dds": "Petr Šabata",
-        "links": [
-            "http://hn.ihned.cz/c1-59405030-po-italskych-volbach-desi-evropu-navrat-krize",
-            "http://hn.ihned.cz/c1-59405020-klienti-se-boji-dluhu-vraceji-bankam-statisice-kreditnich-karet",
-            "http://hn.ihned.cz/c1-59405010-99-slov"
-        ]
-    },
-    {
-        "file": "0228.pdf",
-        "events": [
-            "Reality",
-            "Restituce"
-        ],
-        "people": [],
-        "entities": [
-            "Metrostav",
-            "Papež"
-        ],
-        "dds": "Petr Kamberský",
-        "links": [
-            "http://hn.ihned.cz/c1-59414160-metrostav-muze-prijit-o-stamiliony",
-            "http://hn.ihned.cz/c1-59414130-papezovo-louceni-s-vericimi",
-            "http://hn.ihned.cz/c1-59414150-99-slov"
-        ]
-    }
+  {
+    "file": "0102.pdf",
+    "events": [
+      "Krize",
+      "Amnestie"
+    ],
+    "people": [
+      "Václav Klaus"
+    ],
+    "entities": [
+      "Prezident"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59047600-2013-firmy-cekaji-mene-zakazek-a-nizsi-mzdy",
+      "http://hn.ihned.cz/c1-59047590-klaus-pomohl-uplatnemu-politikovi-i-byvalemu-sefovi-fotbalu-chvalovskemu",
+      "http://hn.ihned.cz/c1-59047580-99-slov"
+    ]
+  },
+  {
+    "file": "0103.pdf",
+    "events": [
+      "Amnestie",
+      "Investice"
+    ],
+    "people": [
+      "Václav Klaus",
+      "Petr Nečas"
+    ],
+    "entities": [
+      "Prezident",
+      "Vláda"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59055310-klausova-tecka-velci-tunelari-uniknou-trestu",
+      "http://hn.ihned.cz/c1-59055300-svetove-akcie-se-diky-dohode-v-usa-vysplhaly-nejvyse-za-rok-a-pul",
+      "http://hn.ihned.cz/c1-59055290-99-slov"
+    ]
+  },
+  {
+    "file": "0104.pdf",
+    "events": [
+      "Amnestie",
+      "Koruna"
+    ],
+    "people": [
+      "Václav Klaus",
+      "Petr Nečas"
+    ],
+    "entities": [
+      "Prezident",
+      "Vláda",
+      "ČNB"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59061520-obeti-tunelaru-ztratily-nadeji-na-odskodne",
+      "http://hn.ihned.cz/c1-59061510-centralni-banker-tomsik-tlaci-na-trhy-i-vladu-hrozi-ze-posle-korunu-dolu",
+      "http://hn.ihned.cz/c1-59061490-navrat-k-ceskoslovensku",
+      "http://hn.ihned.cz/c1-59061500-99-slov"
+    ]
+  },
+  {
+    "file": "0107.pdf",
+    "events": [
+      "Investice",
+      "Big Deal"
+    ],
+    "people": [],
+    "entities": [],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59073810-stamiliony-za-softwarovou-firmu-z-ceska",
+      "http://hn.ihned.cz/c1-59073800-zlato-spanelske-dluhopisy-nebo-turecka-burza-experti-radi-kam-letos-investovat",
+      "http://hn.ihned.cz/c1-59073780-nhl-se-zpozdenim-zacne-kluby-a-hraci-se-dohodli",
+      "http://hn.ihned.cz/c1-59073790-99-slov"
+    ]
+  },
+  {
+    "file": "0108.pdf",
+    "events": [
+      "Investice",
+      "Krize",
+      "Inovace a technologie"
+    ],
+    "people": [],
+    "entities": [
+      "ČNB",
+      "ČSÚ"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59081300-vlastni-bydleni-bude-dostupnejsi-nez-loni",
+      "http://hn.ihned.cz/c1-59081290-u-prahy-bude-vedecky-areal-za-miliardy-hlasi-se-badatele-z-ciny",
+      "http://hn.ihned.cz/c1-59081280-99-slov"
+    ]
+  },
+  {
+    "file": "0109.pdf",
+    "events": [
+      "Big Deal",
+      "Krize"
+    ],
+    "people": [
+      "Petr Kellner"
+    ],
+    "entities": [
+      "PPF",
+      "Generali"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59088050-svazek-ppf-s-generali-rozveden-za-70-miliard",
+      "http://hn.ihned.cz/c1-59088040-experti-se-obavaji-tri-cernych-ran-pro-svetovou-ekonomiku",
+      "http://hn.ihned.cz/c1-59088030-99-slov"
+    ]
+  },
+  {
+    "file": "0110.pdf",
+    "events": [
+      "Amnestie",
+      "Krize",
+      "Inovace a technologie"
+    ],
+    "people": [
+      "Pavel Rychetský",
+      "Václav Klaus",
+      "Petr Nečas"
+    ],
+    "entities": [
+      "Ústavní soud"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59095330-rychetsky-takto-delaji-amnestii-jen-diletanti",
+      "http://hn.ihned.cz/c1-59095320-nezamestnanost-roste-a-odnaseji-to-hlavne-muzi",
+      "http://hn.ihned.cz/c1-59095300-hi-tech-svatek-v-las-vegas",
+      "http://hn.ihned.cz/c1-59095310-99-slov"
+    ]
+  },
+  {
+    "file": "0111.pdf",
+    "events": [
+      "Prezidentské volby"
+    ],
+    "people": [
+      "Karel Schwarzenberg",
+      "Miloš Zeman"
+    ],
+    "entities": [
+      "Prezident"
+    ],
+    "dds": null,
+    "links": [
+      "http://hn.ihned.cz/c1-59104520-zvolme-prezidenta-ktery-spojuje-ne-rozdeluje"
+    ]
+  },
+  {
+    "file": "0114.pdf",
+    "events": [
+      "Prezidentské volby"
+    ],
+    "people": [
+      "Karel Schwarzenberg",
+      "Miloš Zeman"
+    ],
+    "entities": [
+      "Prezident"
+    ],
+    "dds": null,
+    "links": [
+      "http://hn.ihned.cz/c1-59116220-o-hrad-se-stretnou-tezke-vahy-ruznych-kultur"
+    ]
+  },
+  {
+    "file": "0115.pdf",
+    "events": [
+      "Prezidentské volby",
+      "Krize"
+    ],
+    "people": [
+      "Karel Schwarzenberg",
+      "Miloš Zeman"
+    ],
+    "entities": [
+      "Prezident",
+      "ČNB"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59123960-knize-ziskal-starosty-zeman-bude-vlidny",
+      "http://hn.ihned.cz/c1-59123950-cena-rychlych-pujcek-roste-banky-se-boji-narustu-lidi-bez-prace",
+      "http://hn.ihned.cz/c1-59123940-99-slov"
+    ]
+  },
+  {
+    "file": "0116.pdf",
+    "events": [
+      "Prezidentské volby",
+      "Big Deal",
+      "Reformy"
+    ],
+    "people": [
+      "Karel Schwarzenberg",
+      "Miloš Zeman",
+      "Daniel Křetínský"
+    ],
+    "entities": [
+      "Prezident",
+      "VZP",
+      "Vláda"
+    ],
+    "dds": "Jiří Leschtina",
+    "links": [
+      "http://hn.ihned.cz/c1-59131120-vzp-pohrbila-plan-na-ruseni-nemocnic",
+      "http://hn.ihned.cz/c1-59131110-schwarzenberg-ovladl-web-a-to-ho-muze-i-poskodit",
+      "http://hn.ihned.cz/c1-59131100-souboj-kretinskeho-o-teplarny-alpiq-se-zapise-mezi-obchody-roku",
+      "http://hn.ihned.cz/c1-59131090-99-slov"
+    ]
+  },
+  {
+    "file": "0117.pdf",
+    "events": [
+      "Prezidentské volby",
+      "Reformy"
+    ],
+    "people": [
+      "Karel Schwarzenberg",
+      "Miloš Zeman"
+    ],
+    "entities": [
+      "Prezident",
+      "Vláda",
+      "JP Morgan"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59138830-trestu-za-cizi-danove-dluhy-se-pujde-vyhnout",
+      "http://hn.ihned.cz/c1-59139010-velky-trest-za-ztratu-pro-sefa-jpmorgan-v-londyne",
+      "http://hn.ihned.cz/c1-59138820-duel-dvou-kultivovanych-gentlemanu",
+      "http://hn.ihned.cz/c1-59138810-99-slov"
+    ]
+  },
+  {
+    "file": "0118.pdf",
+    "events": [
+      "Prezidentské volby",
+      "Krize"
+    ],
+    "people": [
+      "Karel Schwarzenberg",
+      "Miloš Zeman"
+    ],
+    "entities": [
+      "Prezident"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59146080-zemana-sponzoruji-pratele-z-byznysu",
+      "http://hn.ihned.cz/c1-59146070-cesti-restaurateri-se-brani-krizi-v-sitich-zavedenych-znacek",
+      "http://hn.ihned.cz/c1-59146060-99-slov"
+    ]
+  },
+  {
+    "file": "0121.pdf",
+    "events": [
+      "Prezidentské volby",
+      "Reformy"
+    ],
+    "people": [
+      "Miloš Zeman",
+      "Barack Obama",
+      "Vratislav Mynář"
+    ],
+    "entities": [
+      "Prezident"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59161150-start-penzijni-reformy-zatim-drhne-tvrdi-fondy",
+      "http://hn.ihned.cz/c1-59161140-zeman-uz-mezi-lidi-jezdit-nebude-nahradi-ho-jeho-volebni-tym",
+      "http://hn.ihned.cz/c1-59161120-obamuv-ukol-pro-druhy-prezidentsky-polocas-zoufaly-stav-statnich-financi",
+      "http://hn.ihned.cz/c1-59161130-99-slov"
+    ]
+  },
+  {
+    "file": "0122.pdf",
+    "events": [
+      "Prezidentské volby",
+      "Reformy",
+      "Korupce"
+    ],
+    "people": [
+      "Miloš Zeman",
+      "Karel Schwarzenberg",
+      "Jan Fischer",
+      "Barack Obama"
+    ],
+    "entities": [
+      "Prezident",
+      "Vláda",
+      "Lesy ČR"
+    ],
+    "dds": "Jindřich Šídlo",
+    "links": [
+      "http://hn.ihned.cz/c1-59168110-kampan-vstoupila-do-sve-spinave-faze",
+      "http://hn.ihned.cz/c1-59168100-vstupni-prohlidky-brigadniku-skonci",
+      "http://hn.ihned.cz/c1-59168080-policie-vtrhla-do-lesu-zabavila-smlouvy",
+      "http://hn.ihned.cz/c1-59168070-obama-pro-snatky-homosexualu",
+      "http://hn.ihned.cz/c1-59168090-99-slov"
+    ]
+  },
+  {
+    "file": "0123.pdf",
+    "events": [
+      "Prezidentské volby",
+      "Energetika"
+    ],
+    "people": [
+      "Miloš Zeman",
+      "Karel Schwarzenberg",
+      "Daniel Křetínský"
+    ],
+    "entities": [
+      "Prezident",
+      "Energetický průmyslový holding"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59174100-zemanuv-finis-zmylena-historie-a-diry-v-uctech",
+      "http://hn.ihned.cz/c1-59174090-kretinsky-planuje-za-rok-zvysit-provozni-zisky-eph-na-50-miliard",
+      "http://hn.ihned.cz/c1-59174080-99-slov"
+    ]
+  },
+  {
+    "file": "0124.pdf",
+    "events": [
+      "Prezidentské volby",
+      "Vzdělání"
+    ],
+    "people": [
+      "Miloš Zeman",
+      "Karel Schwarzenberg"
+    ],
+    "entities": [
+      "Prezident"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59183210-ostre-finale-kampane-primeje-volit-navic-statisice-lidi",
+      "http://hn.ihned.cz/c1-59183200-prava-se-nejlepe-studuji-v-brne-v-ekonomii-vitezi-praha",
+      "http://hn.ihned.cz/c1-59183190-99-slov"
+    ]
+  },
+  {
+    "file": "0125.pdf",
+    "events": [
+      "Prezidentské volby"
+    ],
+    "people": [
+      "Miloš Zeman",
+      "Karel Schwarzenberg"
+    ],
+    "entities": [
+      "Prezident"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59189940-dva-svety-jedna-volba",
+      "http://hn.ihned.cz/c1-59189930-editorial"
+    ]
+  },
+  {
+    "file": "0128.pdf",
+    "events": [
+      "Prezidentské volby"
+    ],
+    "people": [
+      "Miloš Zeman"
+    ],
+    "entities": [
+      "Prezident"
+    ],
+    "dds": null,
+    "links": [
+      "http://hn.ihned.cz/c1-59203620-zeman",
+      "http://hn.ihned.cz/c1-59189930-editorial"
+    ]
+  },
+  {
+    "file": "0129.pdf",
+    "events": [
+      "Prezidentské volby"
+    ],
+    "people": [
+      "Miloš Zeman"
+    ],
+    "entities": [
+      "Prezident",
+      "ČSSD",
+      "Ústavní soud",
+      "TV Nova"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59210490-zemanovcum-uz-cssd-nabizi-spolupraci",
+      "http://hn.ihned.cz/c1-59210480-nova-zdrazuje-v-lednu-prodala-o-polovinu-mene-reklamy-nez-loni",
+      "http://hn.ihned.cz/c1-59210470-99-slov"
+    ]
+  },
+  {
+    "file": "0130.pdf",
+    "events": [
+      "Amnestie"
+    ],
+    "people": [
+      "Petr Kellner",
+      "Karel Komárek"
+    ],
+    "entities": [
+      "PPF",
+      "KKCD",
+      "Prezident"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59218450-utek-do-karibiku-pomohl-podvodnikovi-k-amnestii",
+      "http://hn.ihned.cz/c1-59218440-prazske-vitezne-namesti-si-parceluji-miliardari-postavi-tam-kancelare",
+      "http://hn.ihned.cz/c1-59218420-prodej-elektromobilu-se-v-cesku-pomalu-probouzi",
+      "http://hn.ihned.cz/c1-59218430-99-slov"
+    ]
+  },
+  {
+    "file": "0131.pdf",
+    "events": [],
+    "people": [
+      "Andrej Babiš"
+    ],
+    "entities": [
+      "Agrofesrt",
+      "ANO"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59226430-babis-do-dvou-let-se-z-agrofertu-stahnu",
+      "http://hn.ihned.cz/c1-59226420-firmy-rekordne-utraceji-za-sponzoring-letos-trh-opet-poroste",
+      "http://hn.ihned.cz/c1-59226410-99-slov"
+    ]
+  },
+  {
+    "file": "0204.pdf",
+    "events": [
+      "Reformy"
+    ],
+    "people": [
+      "Miroslav Kalousek"
+    ],
+    "entities": [
+      "Vláda",
+      "Armáda"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59247480-kalousek-pohorel-s-novou-dani-pro-firmy",
+      "http://hn.ihned.cz/c1-59247470-amerika-se-zastavila-hral-se-super-bowl",
+      "http://hn.ihned.cz/c1-59247460-vojensti-vyzkumnici-hodlaji-svoje-napady-prodavat-i-mimo-armadu",
+      "http://hn.ihned.cz/c1-59247450-99-slov"
+    ]
+  },
+  {
+    "file": "0205.pdf",
+    "events": [
+      "Korupce",
+      "Energetika"
+    ],
+    "people": [],
+    "entities": [
+      "Vláda",
+      "ERÚ",
+      "VZP"
+    ],
+    "dds": "Petr Fischer",
+    "links": [
+      "http://hn.ihned.cz/c1-59255920-policie-prosetri-puvod-zisku-solarniho-byznysu",
+      "http://hn.ihned.cz/c1-59255890-europol-odhalil-stovky-uplacenych-fotbalovych-zapasu",
+      "http://hn.ihned.cz/c1-59255910-pojistovny-rozjizdeji-experiment-cast-leku-budou-vyrobci-dotovat",
+      "http://hn.ihned.cz/c1-59255900-99-slov"
+    ]
+  },
+  {
+    "file": "0206.pdf",
+    "events": [
+      "Investice",
+      "Sport",
+      "Telekomunikace"
+    ],
+    "people": [],
+    "entities": [
+      "T-Mobile",
+      "Rusko",
+      "Equa bank"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59263570-hypoteky-zlevni-pro-vic-nez-sto-tisic-klientu",
+      "http://hn.ihned.cz/c1-59263540-do-nejdrazsi-olympiady-zbyva-rok-soci-uz-spolklo-38-miliard-dolaru",
+      "http://hn.ihned.cz/c1-59263560-t-mobile-musi-dat-klientovi-vsechny-udaje-ktere-o-nem-shromazdil",
+      "http://hn.ihned.cz/c1-59263550-99-slov"
+    ]
+  },
+  {
+    "file": "0207.pdf",
+    "events": [
+      "Reformy",
+      "Amnestie"
+    ],
+    "people": [
+      "Petr Nečas",
+      "Miroslav Kalousek"
+    ],
+    "entities": [
+      "Vláda"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59271640-necas-az-do-voleb-zadne-zmeny-dani",
+      "http://hn.ihned.cz/c1-59271630-necekany-konec-hlavniho-ekonoma-goldman-sachs",
+      "http://hn.ihned.cz/c1-59271620-karibik-je-past-rika-uprchlik-ktery-dostal-klausovu-amnestii",
+      "http://hn.ihned.cz/c1-59271610-99-slov"
+    ]
+  },
+  {
+    "file": "0208.pdf",
+    "events": [
+      "Reformy",
+      "Koruna"
+    ],
+    "people": [
+      "Petr Nečas",
+      "Miroslav Singer"
+    ],
+    "entities": [
+      "Vláda",
+      "ČNB"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59279350-necas-se-boji-padu-na-dno-dalsi-reformy-nebudou",
+      "http://hn.ihned.cz/c1-59279320-jedna-veta-guvernera-cnb-vystrelila-korunu-vzhuru",
+      "http://hn.ihned.cz/c1-59279340-binladin-group-oprasila-projekt-mostu-mezi-egyptem-a-saudy",
+      "http://hn.ihned.cz/c1-59279330-99-slov"
+    ]
+  },
+  {
+    "file": "0211.pdf",
+    "events": [
+      "Reformy",
+      "Amnestie",
+      "Zdravotnictví",
+      "Sport",
+      "Krize"
+    ],
+    "people": [],
+    "entities": [
+      "Evropská unie",
+      "Ústavní soud"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59292500-lekari-maji-po-letech-nizsi-platy",
+      "http://hn.ihned.cz/c1-59292490-z-unie-pritece-pul-bilionu-korun",
+      "http://hn.ihned.cz/c1-59292470-fotbalove-kluby-ve-ztrate",
+      "http://hn.ihned.cz/c1-59279330-99-slov",
+      "http://hn.ihned.cz/c1-59292460-v-argentine-amnestii-zrusili",
+      "http://hn.ihned.cz/c1-59292480-99-slov"
+    ]
+  },
+  {
+    "file": "0212.pdf",
+    "events": [
+      "Papež",
+      "Krize",
+      "Armáda"
+    ],
+    "people": [],
+    "entities": [],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59301930-kdo-prijde-po-nem",
+      "http://hn.ihned.cz/c1-59301920-cesku-i-evrope-hrozi-ztracena-dekada",
+      "http://hn.ihned.cz/c1-59301910-pet-let-v-logaru-5-miliard",
+      "http://hn.ihned.cz/c1-59301900-99-slov"
+    ]
+  },
+  {
+    "file": "0213.pdf",
+    "events": [
+      "Korupce",
+      "Technologie"
+    ],
+    "people": [],
+    "entities": [],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59309620-zakazky-za-miliardy-losovala-tajemna-krabicka",
+      "http://hn.ihned.cz/c1-59309610-data-z-mobilu-pomohou-s-rozvojem-turistiky-i-obchodnich-center",
+      "http://hn.ihned.cz/c1-59309600-99-slov"
+    ]
+  },
+  {
+    "file": "0214.pdf",
+    "events": [
+      "Korupce",
+      "Zemědělství",
+      "Banky",
+      "Úvěry"
+    ],
+    "people": [],
+    "entities": [
+      "Komerční banka"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59318580-klienti-proti-bankam-boj-o-miliardy",
+      "http://hn.ihned.cz/c1-59318570-dve-firmy-zaluji-pochybne-losovacky",
+      "http://hn.ihned.cz/c1-59318560-ekofarem-v-cesku-raketove-pribyva",
+      "http://hn.ihned.cz/c1-59318540-komercni-bance-roste-zisk-o-46-procent-na-14-miliard",
+      "http://hn.ihned.cz/c1-59318550-99-slov"
+    ]
+  },
+  {
+    "file": "0215.pdf",
+    "events": [
+      "Krize",
+      "Reformy",
+      "Banky",
+      "Showbyznys"
+    ],
+    "people": [
+      "Miroslav Kalousek"
+    ],
+    "entities": [
+      "Komerční banka"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-59318580-klienti-proti-bankam-boj-o-miliardy",
+      "http://hn.ihned.cz/c1-59318570-dve-firmy-zaluji-pochybne-losovacky",
+      "http://hn.ihned.cz/c1-59318560-ekofarem-v-cesku-raketove-pribyva",
+      "http://hn.ihned.cz/c1-59318540-komercni-bance-roste-zisk-o-46-procent-na-14-miliard",
+      "http://hn.ihned.cz/c1-59318550-99-slov"
+    ]
+  },
+  {
+    "file": "0218.pdf",
+    "events": [
+      "Sport",
+      "Výzkum a vývoj"
+    ],
+    "people": [],
+    "entities": [
+      "Evropská unie"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59339510-cesko-v-eu-lobbuje-za-pobidky-pro-velke-firmy",
+      "http://hn.ihned.cz/c1-59339500-mlady-cech-prisel-na-to-jak-odhadnout-uspech-chemoterapie",
+      "http://hn.ihned.cz/c1-59339480-sampionat-v-biatlonu-skoncil-v-zisku",
+      "http://hn.ihned.cz/c1-59339490-99-slov"
+    ]
+  },
+  {
+    "file": "0219.pdf",
+    "events": [
+      "Sport",
+      "Koruna",
+      "Pohonné hmoty"
+    ],
+    "people": [],
+    "entities": [],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59348120-cena-benzinu-letos-roste-drive-prekona-rekord",
+      "http://hn.ihned.cz/c1-59348110-vysocina-a-nove-mesto-vsadily-na-to-ze-biatlon-prilaka-turisty",
+      "http://hn.ihned.cz/c1-59348100-99-slov"
+    ]
+  },
+  {
+    "file": "0220.pdf",
+    "events": [
+      "Sport",
+      "Energetika",
+      "Výzkum a vývoj"
+    ],
+    "people": [
+      "Martin Roman",
+      "Daniel Beneš"
+    ],
+    "entities": [
+      "ČEZ",
+      "Evropská unie"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59357590-cez-bude-muset-ozelet-bulharske-miliardy",
+      "http://hn.ihned.cz/c1-59357560-milionove-problemy-firmy-nike-woods-armstrong-a-ted-pistorius",
+      "http://hn.ihned.cz/c1-59357580-objev-ceskych-vedcu-pomuze-zlevnit-vyrobu-vodikovych-aut",
+      "http://hn.ihned.cz/c1-59357570-99-slov"
+    ]
+  },
+  {
+    "file": "0221.pdf",
+    "events": [
+      "Energetika",
+      "Veřejné zakázky"
+    ],
+    "people": [
+      "Martin Roman",
+      "Daniel Beneš"
+    ],
+    "entities": [
+      "ČEZ"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59366400-cez-ma-v-bulharsku-potize-kvuli-zelene-energii",
+      "http://hn.ihned.cz/c1-59366390-ziskavaji-zakazky-navenek-jsou-pruhledni-sve-majitele-presto-taji",
+      "http://hn.ihned.cz/c1-59366380-99-slov"
+    ]
+  },
+  {
+    "file": "0222.pdf",
+    "events": [
+      "Energetika",
+      "Big Deal",
+      "Výzkum a vývoj"
+    ],
+    "people": [],
+    "entities": [
+      "ČEZ",
+      "Czech Coal",
+      "Evropská unie"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59373910-obchod-roku-dohoda-o-uhli-za-200-miliard",
+      "http://hn.ihned.cz/c1-59373900-italske-volby-jsou-referendem-o-eurozone",
+      "http://hn.ihned.cz/c1-59373890-cesko-se-stava-medicinskou-laboratori-svetovych-firem",
+      "http://hn.ihned.cz/c1-59373880-99-slov"
+    ]
+  },
+  {
+    "file": "0225.pdf",
+    "events": [
+      "Technologie"
+    ],
+    "people": [
+      "Petr Nečas"
+    ],
+    "entities": [
+      "ODS",
+      "ČEZ",
+      "Google"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-59387910-necas-vyjizdi-zkusi-restartovat-ods",
+      "http://hn.ihned.cz/c1-59387880-demonstroval-i-prezident-bulhari-ho-vypiskali",
+      "http://hn.ihned.cz/c1-59387900-google-x-vizionarsky-projekt-se-odvolava-na-cestu-k-mesici",
+      "http://hn.ihned.cz/c1-59387890-99-slov"
+    ]
+  },
+  {
+    "file": "0227.pdf",
+    "events": [
+      "Úvěry",
+      "Krize"
+    ],
+    "people": [],
+    "entities": [
+      "Banky",
+      "Evropská unie"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59405030-po-italskych-volbach-desi-evropu-navrat-krize",
+      "http://hn.ihned.cz/c1-59405020-klienti-se-boji-dluhu-vraceji-bankam-statisice-kreditnich-karet",
+      "http://hn.ihned.cz/c1-59405010-99-slov"
+    ]
+  },
+  {
+    "file": "0228.pdf",
+    "events": [
+      "Reality",
+      "Restituce"
+    ],
+    "people": [],
+    "entities": [
+      "Metrostav",
+      "Papež"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59414160-metrostav-muze-prijit-o-stamiliony",
+      "http://hn.ihned.cz/c1-59414130-papezovo-louceni-s-vericimi",
+      "http://hn.ihned.cz/c1-59414150-99-slov"
+    ]
+  },
+  {
+    "file": "0301.pdf",
+    "events": [
+      "Média",
+      "Reality",
+      "Banky"
+    ],
+    "people": [
+      "Petr Dvořák"],
+    "entities": [],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59421630-televize-se-meni-rust-chce-i-ct",
+      "http://hn.ihned.cz/c1-59421620-dalsi-pokus-o-restituci-po-20-letech-za-155-milionu",
+      "http://hn.ihned.cz/c1-59421610-rekordni-zisk-ceske-sporitelny",
+      "http://hn.ihned.cz/c1-59421600-99-slov-petra-honzejka"
+    ]
+  },
+  {
+    "file": "0304.pdf",
+    "events": [
+      "Banky",
+      "Krize"
+    ],
+    "people": [
+      "Barack Obama"],
+    "entities": [],
+    "dds": "Jindřich Šídlo",
+    "links": [
+      "http://hn.ihned.cz/c1-59435310-lovci-poplatku-vidi-dalsi-sanci-v-mobilech",
+      "http://hn.ihned.cz/c1-59435300-americke-skrty-snizi-pocet-pracovnich-mist-o-statisice",
+      "http://hn.ihned.cz/c1-59435290-99-slov"
+    ]
+  },
+  {
+    "file": "0305.pdf",
+    "events": [
+      "Reformy",
+      "Daně"
+    ],
+    "people": [
+      "Václav Klaus",
+      "Petr Kellner",
+      "Andrej Babiš",
+      "Zdeněk Bakala",
+      "Karel Komárek"],
+    "entities": [
+      "Ústavní soud",
+      "Senát"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59441890-stat-se-bude-firmam-vice-divat-do-ucetnictvi",
+      "http://hn.ihned.cz/c1-59441860-ctyri-cesi-ve-svetovem-zebricku-nejbohatsich-lidi",
+      "http://hn.ihned.cz/c1-59441880-senat-zaluje-klause-ustavni-soud-vsak-nevi-zda-ho-smi-soudit",
+      "http://hn.ihned.cz/c1-59441870-99-slov"
+    ]
+  },
+  {
+    "file": "0306.pdf",
+    "events": [
+      "Daně",
+      "Maloobchod",
+      "Doprava"
+    ],
+    "people": [],
+    "entities": [
+      "Evropská unie",
+      "Alza.cz"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59449830-e-shopy-maji-novinku-slevy-pro-verne-klienty",
+      "http://hn.ihned.cz/c1-59449790-zeneva-2013-setrna-auta-nahradily-silne-vozy-pro-bohate",
+      "http://hn.ihned.cz/c1-59449820-eu-zrusila-prisnejsi-danova-pravidla-britum-ted-se-podiva-na-cesko",
+      "http://hn.ihned.cz/c1-59449800-zemrel-hugo-chavez",
+      "http://hn.ihned.cz/c1-59449810-99-slov-petra-sabaty"
+    ]
+  },
+  {
+    "file": "0307.pdf",
+    "events": [
+      "Bezpečnost",
+      "Reality"
+    ],
+    "people": [
+      "Petr Kellner"
+      ],
+    "entities": [],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59457750-cesko-zaspalo-ma-chabou-obranu-pred-kyberutoky",
+      "http://hn.ihned.cz/c1-59457740-kellner-postavi-v-moskve-komercni-ctvrt-za-miliardu-eur",
+      "http://hn.ihned.cz/c1-59457730-99-slov"
+   ]
+  },
+  {
+    "file": "0308.pdf",
+    "events": [
+      "Prezidentské volby"
+    ],
+    "people": [
+      "Miloš Zeman"
+      ],
+    "entities": [
+      "Prezident"
+      ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59465270-kdo-prichazi-na-hrad",
+      "http://hn.ihned.cz/c1-59465260-99-slov"
+   ]
+  },
+  {
+    "file": "0311.pdf",
+    "events": [
+      "Telekomunikace",
+      "Bezpečnost"
+    ],
+    "people": [
+      "Miloš Zeman",
+      "Vratislav Mynář",
+      "Hynek Kmoníček",
+      "Hana Burianová"
+      ],
+    "entities": [
+      "Prezident",
+      "Kancelář prezidenta republiky",
+      "Národní bezpečnostní úřad",
+      "Český telekomunikační úřad"],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59478180-ctvrty-operator-v-cesku-jeho-prichod-se-zadrhl",
+      "http://hn.ihned.cz/c1-59478170-vlada-postavi-kyberneticke-utoky-na-uroven-zivelnich-pohrom",
+      "http://hn.ihned.cz/c1-59478150-prezident-si-buduje-tym-a-zemanovci-ziskavaji-vliv",
+      "http://hn.ihned.cz/c1-59478160-99-slov-petra-honzejka"
+   ]
+  },
+  {
+    "file": "0312.pdf",
+    "events": [
+      "Amnestie",
+      "Zdravotnictví"
+    ],
+    "people": [],
+    "entities": [
+      "Papež"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-59484970-pro-uprchle-amnestie-neplati-rozhodl-soud",
+      "http://hn.ihned.cz/c1-59484960-novy-vypocet-rekne-cim-se-maji-cesi-lecit-a-co-uz-je-moc-drahe",
+      "http://hn.ihned.cz/c1-59484940-kardinalove-vybiraji-hlavu-nejmensiho-statu-a-nejpocetnejsi-organizace",
+      "http://hn.ihned.cz/c1-59484950-99-slov"
+   ]
+  },
+  {
+    "file": "0313.pdf",
+    "events": [
+      "Banky",
+      "Amnestie"
+    ],
+    "people": [
+      "Petr Nečas"
+    ],
+    "entities": [
+      "Česká spořitelna",
+      "Evropská unie"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59492270-sporitelna-po-rekordnim-zisku-skrta-dve-miliardy",
+      "http://hn.ihned.cz/c1-59492260-sest-uprchliku-nema-amnestii-jistou-zalobci-zenou-pripady-dal",
+      "http://hn.ihned.cz/c1-59492240-necas-zkratil-ceskym-zemedelcum-eurodotace-vice-nez-musel",
+      "http://hn.ihned.cz/c1-59492250-99-slov-petra-sabaty"
+   ]
+  }
 ]

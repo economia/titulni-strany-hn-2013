@@ -1,0 +1,72 @@
+&
+    background #f3f3f3
+    border-right 1px solid black
+    float left
+    width 220px
+    height windowHeight
+    overflow auto
+    h1
+        font-size 1em
+        margin 0px
+        padding 8px 10px 5px 10px
+        color white
+        background HNBlue
+        text-transform uppercase
+    h2
+        font-size 1em
+        margin 0px
+        padding 5px 22px
+        position relative
+        color HNLink
+        .arrow
+            display block
+            position absolute
+            top 9px
+            left 10px
+            arrowSize = 5px
+            border-top arrowSize solid transparent
+            border-bottom arrowSize solid transparent
+            border-left arrowSize solid darken(HNLink, 20%)
+            transition 0.2s
+            transform rotate(0deg)
+        &:first-of-type
+            padding-top 8px
+            .arrow
+                top 12px
+        &:last-of-type
+            padding-bottom 8px
+        &:hover
+            color lighten(HNLink, 30%)
+            cursor pointer
+            .arrow
+                border-left-color lighten(HNLink, 30%)
+        &.active
+            .arrow
+                transform rotate(90deg)
+
+    ul
+        padding 0px
+        margin 0px
+        list-style-type none
+        font-size 0.9em
+        li
+            padding 2px 10px
+            &:first-child
+                padding-top 5px
+            &:last-child
+                padding-bottom 5px
+            &:hover
+                background lighten(HNBlue, 40%)
+                cursor pointer
+            &:active
+                background darken(HNBlue, 10%)
+    h2 + ul
+        display none
+    h2.active + ul
+        display block
+        li
+            padding-left 22px
+            &:first-child
+                padding-top 0px
+
+

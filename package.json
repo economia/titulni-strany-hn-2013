@@ -1,0 +1,24 @@
+{
+  "name": "titulni-strany-hn-2013",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/economia/titulni-strany-hn-2013.git"
+  },
+  "author": "",
+  "license": "CC-BY-NC-SA 2.0 CZ",
+  "bugs": {
+    "url": "https://github.com/economia/titulni-strany-hn-2013/issues"
+  },
+  "dependencies": {
+    "async": "~0.2.9",
+    "stylus": "~0.41.3",
+    "uglify-js": "~2.4.8",
+    "request": "~2.30.0"
+  }
+}

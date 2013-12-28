@@ -66,7 +66,7 @@
     "file": "0107.pdf",
     "events": [
       "Investice",
-      "Big Deal"
+      "Obchody roku"
     ],
     "people": [],
     "entities": [],
@@ -100,7 +100,7 @@
   {
     "file": "0109.pdf",
     "events": [
-      "Big Deal",
+      "Obchody roku",
       "Krize"
     ],
     "people": [
@@ -199,7 +199,7 @@
     "file": "0116.pdf",
     "events": [
       "Prezidentské volby",
-      "Big Deal",
+      "Obchody roku",
       "Reformy"
     ],
     "people": [
@@ -734,7 +734,7 @@
     "file": "0222.pdf",
     "events": [
       "Energetika",
-      "Big Deal",
+      "Obchody roku",
       "Výzkum a vývoj"
     ],
     "people": [],
@@ -1013,7 +1013,7 @@
     ],
     "entities": [
       "Telekomunikace",
-      "Automobily",
+      "Automobilový průmysl",
       "ČSSD",
       "Český telekomunikační úřad"
 
@@ -1038,7 +1038,7 @@
     ],
     "entities": [
       "ČSSD",
-      "Automobily"
+      "Automobilový průmysl"
     ],
     "dds": "Adam Černý",
     "links": [
@@ -1055,7 +1055,7 @@
       "Reformy",
       "Eurozóna",
       "Krize",
-      "Big Deal",
+      "Obchody roku",
       "Důchody",
       "Energetika"
     ],
@@ -1087,8 +1087,8 @@
       "Energetika",
       "Eurozóna",
       "Krize",
-      "Big Deal",
-      "Automobily"
+      "Obchody roku",
+      "Automobilový průmysl"
     ],
     "people": [
       "Daniel Beneš",
@@ -1143,7 +1143,7 @@
       "Banky",
       "Armáda",
       "Literatura",
-      "Automobily"
+      "Automobilový průmysl"
     ],
     "people": [
       "Orhan Pamuk",
@@ -1166,7 +1166,7 @@
     "events": [
       "Krize",
       "Korupce",
-      "Automobily",
+      "Automobilový průmysl",
       "Inovace"
     ],
     "people": [
@@ -1280,6 +1280,495 @@
       "http://hn.ihned.cz/c1-59600750-stamiliony-z-ceska-nalakaly-hollywood-zpet",
       "http://hn.ihned.cz/c1-59600760-kyprane-mohou-k-uctum-ale-nevedi-zda-dostanou-mzdy",
       "http://hn.ihned.cz/c1-59600740-99-slov"
+   ]
+  },
+  {
+    "file": "0402.pdf",
+    "events": [
+      "Důchody",
+      "Automobilový průmysl",
+      "Banky",
+      "Inovace"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Peugeot"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59613440-tri-miliony-cechu-jsou-v-nejistote-kvuli-penzim",
+      "http://hn.ihned.cz/c1-59613430-sef-peugeotu-veri-ze-znacce-pomuzou-k-rustu-hybridy",
+      "http://hn.ihned.cz/c1-59613420-misto-slozite-faktury-staci-fotka-ceske-banky-zavadeji-novinku",
+      "http://hn.ihned.cz/c1-59613410-99-slov"
+   ]
+  },
+  {
+    "file": "0403.pdf",
+    "events": [
+      "Daně",
+      "Reformy",
+      "Sport",
+      "Amnestie"
+    ],
+    "people": [
+      "Jaromír Jágr"
+    ],
+    "entities": [
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59620410-solidarni-dan-zustane-temer-cela-jen-na-papire",
+      "http://hn.ihned.cz/c1-59620400-stejny-soud-ruzne-verdikty-jeden-uprchlik-ma-amnestii-druhy-ne",
+      "http://hn.ihned.cz/c1-59620380-jagr-se-v-nhl-popate-stehuje-ted-do-bostonu",
+      "http://hn.ihned.cz/c1-59620390-99-slov"
+   ]
+  },
+  {
+    "file": "0404.pdf",
+    "events": [
+      "Reformy",
+      "Soukromí"
+    ],
+    "people": [
+      "Miloš Zeman",
+      "Manuel Barroso"
+    ],
+    "entities": [
+      "Evropská unie",
+      "Prezident",
+      "Google",
+      "Banky"
+
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59628770-bankovni-uvery-jsou-v-cesku-rekordne-drahe",
+      "http://hn.ihned.cz/c1-59628740-vlajka-eu-nad-hradem",
+      "http://hn.ihned.cz/c1-59628760-google-vysetruji-kvuli-sberu-citlivych-dat",
+      "http://hn.ihned.cz/c1-59628730-ekologicke-zakony-se-zmirni",
+      "http://hn.ihned.cz/c1-59628750-99-slov"
+   ]
+  },
+  {
+    "file": "0405.pdf",
+    "events": [
+      "Automobilový průmysl"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Škoda",
+      "Hyundai",
+      "Česká pošta"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59635880-hyundai-v-cesku-poprve-predstihl-skodu",
+      "http://hn.ihned.cz/c1-59635870-posta-bude-mapovat-kde-je-levny-benzin",
+      "http://hn.ihned.cz/c1-59635860-ceskemu-podnikateli-chteji-francouzi-spalit-chagalla",
+      "http://hn.ihned.cz/c1-59635850-99-slov"
+   ]
+  },
+  {
+    "file": "0408.pdf",
+    "events": [
+      "OffshoreLeaks",
+      "Energetika",
+      "Zdravotnictví"
+    ],
+    "people": [
+      "Tomáš Chrenek"
+    ],
+    "entities": [
+      "Agel",
+      "Izrael",
+      "Německo"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59647630-byznys-se-zdravim-pulmiliarda-pro-chrenka",
+      "http://hn.ihned.cz/c1-59647620-izrael-nasel-plyn-tezi-z-obrich-nalezist",
+      "http://hn.ihned.cz/c1-59647600-nemci-vysetruji-deutsche-bank-kvuli-off-shorum",
+      "http://hn.ihned.cz/c1-59647610-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "0409.pdf",
+    "events": [
+      "Úmrtí"
+    ],
+    "people": [
+      "Margaret Thatcher"
+    ],
+    "entities": [
+      "Británie"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59655790-zena-jez-promenila-evropskou-pravici",
+      "http://hn.ihned.cz/c1-59655780-99-slov-adama-cerneho"
+   ]
+  },
+  {
+    "file": "0410.pdf",
+    "events": [
+      "Obchody roku",
+      "Telekomunikace",
+      "Doprava",
+      "Dotace",
+      "Zaměstnanost"
+    ],
+    "people": [
+      "Margaret Thatcher"
+    ],
+    "entities": [
+      "ČSA",
+      "ČEZ"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59662180-vyhodne-volani-zacne-verejne-nabizet-i-cez",
+      "http://hn.ihned.cz/c1-59662150-prodej-csa-potreti-korejci-dnes-podepisi-smlouvu",
+      "http://hn.ihned.cz/c1-59662170-dotace-na-platy-zada-pres-sto-firem-vlada-zmirni-podminky",
+      "http://hn.ihned.cz/c1-59662160-99-slov"
+   ]
+  },
+  {
+    "file": "0411.pdf",
+    "events": [
+      "Reformy",
+      "Doprava",
+      "Automobilový průmysl",
+      "Obchody roku"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Škoda"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-59670810-nerv-spocital-jak-usetrit-na-urednicich",
+      "http://hn.ihned.cz/c1-59670800-podepsano-rekonstrukce-dalnice-d1-se-spousti",
+      "http://hn.ihned.cz/c1-59670790-skoda-s-novou-octavii-uspela-v-nemecku-dohnala-ford",
+      "http://hn.ihned.cz/c1-59670780-99-slov"
+   ]
+  },
+  {
+    "file": "0412.pdf",
+    "events": [
+      "Reformy",
+      "Telekomunikace",
+      "Občanský zákoník",
+      "Důchody"
+    ],
+    "people": [
+      "Petr Nečas"
+    ],
+    "entities": [
+      "MPSV",
+      "T-Mobile",
+      "Telefónica",
+      "Vodafone"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59677550-necas-skarty-jsou-trikrat-predrazene",
+      "http://hn.ihned.cz/c1-59677520-neomezene-volani-prichazi-i-do-ceska",
+      "http://hn.ihned.cz/c1-59677530-firma-za-korunu-smlouvy-ustne-zakoniky-uvolni-byznysu-ruce",
+      "http://hn.ihned.cz/c1-59677540-99-slov-petra-sabaty"
+   ]
+  },
+  {
+    "file": "0415.pdf",
+    "events": [
+      "Zdravotnictví",
+      "Telekomunikace",
+      "Důchody"
+    ],
+    "people": [
+      "Petr Nečas"
+    ],
+    "entities": [
+      "Penta",
+      "Agel",
+      "T-Mobile",
+      "Telefónica",
+      "Vodafone",
+      "MPSV"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59691460-miliardare-lakaji-ceske-ztratove-nemocnice",
+      "http://hn.ihned.cz/c1-59691450-drahe-volani-konecne-spadlo-na-evropsky-prumer",
+      "http://hn.ihned.cz/c1-59691440-necas-zkritizoval-skartu-jako-predrazenou-ted-se-pta-na-naklady",
+      "http://hn.ihned.cz/c1-59691430-99-slov"
+   ]
+  },
+  {
+    "file": "0416.pdf",
+    "events": [
+      "Telekomunikace",
+      "Zlato",
+      "Korupce"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Rusko",
+      "T-Mobile",
+      "Telefónica",
+      "Vodafone",
+      "GTS"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59699790-pad-cen-volani-na-rade-jsou-mensi-firmy",
+      "http://hn.ihned.cz/c1-59699800-v-cili-maratonu-v-bostonu-vybuchly-bomby-zemreli-nejmene-dva-lide",
+      "http://hn.ihned.cz/c1-59699780-ruske-tazeni-proti-korupci-se-dotyka-i-hotelu-na-vysehrade",
+      "http://hn.ihned.cz/c1-59699770-99-slov"
+   ]
+  },
+  {
+    "file": "0417.pdf",
+    "events": [
+      "Terorismus",
+      "Banky",
+      "Energetika"
+    ],
+    "people": [
+      "Barack Obama"
+    ],
+    "entities": [
+      "USA",
+      "T-Mobile",
+      "Telefónica",
+      "Vodafone",
+      "GTS"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59706720-bostonska-tragedie-je-obamovo-11-zari",
+      "http://hn.ihned.cz/c1-59706710-evropa-omezi-bankerum-odmeny",
+      "http://hn.ihned.cz/c1-59706700-misto-energetickych-stitku-maji-stacit-faktury-za-plyn-teplo-a-elektrinu",
+      "http://hn.ihned.cz/c1-59706690-99-slov"
+   ]
+  },
+  {
+    "file": "0418.pdf",
+    "events": [
+      "Eurozóna",
+      "Euro",
+      "Telekomunikace",
+      "Reformy"
+    ],
+    "people": [
+      "Margaret Thatcher"
+    ],
+    "entities": [
+      "Británie",
+      "T-Mobile",
+      "Telefónica",
+      "Vodafone",
+      "Air Telecom"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59714510-neomezene-volani-bude-jeste-levnejsi",
+      "http://hn.ihned.cz/c1-59714500-slovinci-si-koupili-cas-na-reformy",
+      "http://hn.ihned.cz/c1-59714490-danove-ulevy-pro-byznys-narazi-na-senat",
+      "http://hn.ihned.cz/c1-59714480-konec-starych-casu",
+      "http://hn.ihned.cz/c1-59714470-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "0419.pdf",
+    "events": [
+      "Banky",
+      "Automobilový průmysl",
+      "Výzkum"
+    ],
+    "people": [
+      "Petr Kellner"
+    ],
+    "entities": [
+      "PPF",
+      "Ferrari"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-59720700-1-0-pro-klienty-poplatky-musi-vratit-prvni-banka",
+      "http://hn.ihned.cz/c1-59720660-peclive-vybirame-komu-auto-prodame-rika-sef-ferrari",
+      "http://hn.ihned.cz/c1-59720690-na-kellnerovo-eldorado-ma-zalusk-rival",
+      "http://hn.ihned.cz/c1-59720680-stamiliony-z-vyzkumu-utikaji-ceskym-univerzitam-pod-rukama",
+      "http://hn.ihned.cz/c1-59720670-99-slov"
+   ]
+  },
+  {
+    "file": "0422.pdf",
+    "events": [
+      "Krize",
+      "Automobilový průmysl",
+      "Stavebnictví",
+      "Energetika"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "ČEZ",
+      "Škoda",
+      "Čína",
+      "Skanska"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59734580-jsme-na-dne-ale-pristi-rok-bude-lip-veri-stavbari",
+      "http://hn.ihned.cz/c1-59734590-evropske-automobilky-nadbihaji-bohatym-cinanum",
+      "http://hn.ihned.cz/c1-59734570-cez-situace-se-uklidnuje-v-bulharsku-zustaneme",
+      "http://hn.ihned.cz/c1-59734560-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "0423.pdf",
+    "events": [
+      "Stavebnictví",
+      "Energetika",
+      "Obchody roku",
+      "Amnestie",
+      "Korupce"
+    ],
+    "people": [
+      "Martin Kuba",
+      "Tomáš Martinec",
+      "Pavel Zeman"
+    ],
+    "entities": [
+      "ČEZ",
+      "ODS"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59742890-skoda-praha-saha-po-stavbe-za-8-miliard",
+      "http://hn.ihned.cz/c1-59742880-zeman-dal-proverit-sedm-amnestii",
+      "http://hn.ihned.cz/c1-59742850-martinec-konci-po-27-mesicich",
+      "http://hn.ihned.cz/c1-59742860-nejslysitelnejsi-politik-martin-kuba-jeho-vyroky-prekvapuji-i-samu-ods",
+      "http://hn.ihned.cz/c1-59742870-99-slov"
+   ]
+  },
+  {
+    "file": "0424.pdf",
+    "events": [
+      "Stavebnictví",
+      "Reformy",
+      "Banky",
+      "Spoření"
+    ],
+    "people": [
+      "Margaret Thatcher",
+      "Václav Klaus"
+    ],
+    "entities": [
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59751430-ve-stavebnim-sporeni-se-chystaji-dalsi-zmeny",
+      "http://hn.ihned.cz/c1-59751420-thatcherova-me-podporovala-hned-po-revoluci-rika-klaus",
+      "http://hn.ihned.cz/c1-59751410-99-slov"
+   ]
+  },
+  {
+    "file": "0425.pdf",
+    "events": [
+      "Reformy",
+      "Energetika",
+      "Doprava"
+    ],
+    "people": [
+      "Miroslav Kalousek",
+      "Petr Nečas"
+    ],
+    "entities": [
+      "Vláda",
+      "ČSA",
+      "RWE",
+      "Gazprom"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59761960-necas-a-kalousek-otaceji-tvrde-setreni-konci",
+      "http://hn.ihned.cz/c1-59761950-ceska-rwe-zaluje-rusky-gazprom-o-29-miliard",
+      "http://hn.ihned.cz/c1-59761930-sef-korean-air-pritahneme-do-prahy-vice-cestujicich-z-koreje-i-jihovychodni-asie",
+      "http://hn.ihned.cz/c1-59761940-99-slov"
+   ]
+  },
+  {
+    "file": "0426.pdf",
+    "events": [
+      "Telekomunikace",
+      "Hazard"
+    ],
+    "people": [
+      "Miroslav Kalousek",
+      "Petr Nečas"
+    ],
+    "entities": [
+      "Vláda",
+      "Český telekomunikační úřad",
+      "Ústavní soud",
+      "Senát"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59769760-ctu-ma-vest-muz-ktery-chce-zlevnit-volani",
+      "http://hn.ihned.cz/c1-59769730-zemanovi-kandidati-prosli-obmena-oslabeneho-ustavniho-soudu-zacina",
+      "http://hn.ihned.cz/c1-59769750-urad-chce-rekordnich-615-tisic-za-informace-o-automatech-v-hernach",
+      "http://hn.ihned.cz/c1-59769740-99-slov-petra-honzejka"
+   ]
+  },
+  {
+    "file": "0429.pdf",
+    "events": [
+      "Dotace",
+      "Banky",
+      "Potravinářství"
+    ],
+    "people": [
+       
+    ],
+    "entities": [
+      "Evropská unie",
+      "Apple",
+      "Samsung"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59782720-firma-bez-zamestnancu-ziska-400-milionu-z-eu",
+      "http://hn.ihned.cz/c1-59783400-nove-banky-uz-maji-temer-milion-klientu",
+      "http://hn.ihned.cz/c1-59782710-cesko-bude-velmoci-mrazeneho-peciva",
+      "http://hn.ihned.cz/c1-59782690-silenstvi-po-iphonu-strida-samsung",
+      "http://hn.ihned.cz/c1-59782700-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "0430.pdf",
+    "events": [
+      "Doprava",
+      "Úvěry"
+    ],
+    "people": [
+       "Jiří Šmejc",
+       "Petr Kellner"
+    ],
+    "entities": [
+      "PPF",
+      "České dráhy"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59790760-smejc-home-credit-chceme-dat-na-burzu",
+      "http://hn.ihned.cz/c1-59790750-ceske-drahy-tahne-dolu-nakladni-doprava-a-pomaly-prodej-majetku",
+      "http://hn.ihned.cz/c1-59790740-99-slov"
    ]
   }
 ]

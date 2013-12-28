@@ -984,5 +984,302 @@
       "http://hn.ihned.cz/c1-59492240-necas-zkratil-ceskym-zemedelcum-eurodotace-vice-nez-musel",
       "http://hn.ihned.cz/c1-59492250-99-slov-petra-sabaty"
    ]
+  },
+  {
+    "file": "0314.pdf",
+    "events": [
+      "Papež",
+      "Reformy"
+    ],
+    "people": [
+      "František I."
+    ],
+    "entities": [
+      "ČSSD"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59501020-cirkev-ceka-jak-bude-papez-razantni",
+      "http://hn.ihned.cz/c1-59501010-cssd-uz-chysta-jak-zmeni-cesko-dane-zvysi-pozdeji",
+      "http://hn.ihned.cz/c1-59501000-99-slov"
+   ]
+  },
+  {
+    "file": "0315.pdf",
+    "events": [
+    ],
+    "people": [
+      "František I."
+    ],
+    "entities": [
+      "Telekomunikace",
+      "Automobily",
+      "ČSSD",
+      "Český telekomunikační úřad"
+
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59508040-operatori-spusti-site-pro-rychly-mobilni-internet",
+      "http://hn.ihned.cz/c1-59508030-spolu-s-tatrou-jdou-do-exekucni-drazby-i-historicke-unikaty",
+      "http://hn.ihned.cz/c1-59508020-spidla-neni-cas-na-estetstvi-budeme-vladnout-s-podporou-kscm",
+      "http://hn.ihned.cz/c1-59508010-99-slov"
+   ]
+  },
+  {
+    "file": "0318.pdf",
+    "events": [
+      "Daně",
+      "Reformy",
+      "Technologie"
+    ],
+    "people": [
+      "Bohuslav Sobotka"
+    ],
+    "entities": [
+      "ČSSD",
+      "Automobily"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59522560-co-zvysil-necas-nechame-a-dalsi-dane-zvedneme",
+      "http://hn.ihned.cz/c1-59522530-lucie-koldova-nejlepsi-ceska-designerka",
+      "http://hn.ihned.cz/c1-59522550-cesti-programatori-uspeli-s-aplikaci-pro-toyotu",
+      "http://hn.ihned.cz/c1-59522540-99-slov"
+   ]
+  },
+  {
+    "file": "0319.pdf",
+    "events": [
+      "Daně",
+      "Reformy",
+      "Eurozóna",
+      "Krize",
+      "Big Deal",
+      "Důchody",
+      "Energetika"
+    ],
+    "people": [
+      "Jiří Rusnok",
+      "Daniel Beneš",
+      "Pavel Tykač",
+      "Daniel Křetínský"
+    ],
+    "entities": [
+      "ČSSD",
+      "Czech Coal",
+      "ČEZ",
+      "Energetický průmyslový holding",
+      "Euro",
+      "Kypr"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59531380-penze-podle-cssd-lide-s-vyssim-prijmem-si-polepsi",
+      "http://hn.ihned.cz/c1-59531350-obchod-roku",
+      "http://hn.ihned.cz/c1-59531370-chystane-zdaneni-vkladu-na-kypru-vyvolal-paniku-na-burzach",
+      "http://hn.ihned.cz/c1-59531360-99-slov"
+   ]
+  },
+  {
+    "file": "0320.pdf",
+    "events": [
+      "Energetika",
+      "Eurozóna",
+      "Krize",
+      "Big Deal",
+      "Automobily"
+    ],
+    "people": [
+      "Daniel Beneš",
+      "Pavel Tykač",
+      "Daniel Křetínský"
+    ],
+    "entities": [
+      "Czech Coal",
+      "ČEZ",
+      "Energetický průmyslový holding",
+      "Euro",
+      "Škoda",
+      "Kypr"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59539210-cez-a-czech-coal-si-pojistily-pozice-na-leta",
+      "http://hn.ihned.cz/c1-59539200-prodej-aut-usa-uz-krizi-zazehnaly-evropa-porad-dramaticky-pada",
+      "http://hn.ihned.cz/c1-59539190-kypr-ma-dva-mesice-do-bankrotu-podminku-pomoci-z-eu-odmitl",
+      "http://hn.ihned.cz/c1-59539180-99-slov-petra-sabaty"
+   ]
+  },
+  {
+    "file": "0321.pdf",
+    "events": [
+      "Reformy",
+      "Eurozóna",
+      "Krize",
+      "Korupce"
+    ],
+    "people": [
+      "Michal Hašek",
+      "Jan Mládek",
+      "Bohuslav Sobotka"
+    ],
+    "entities": [
+      "ČSSD",
+      "Euro",
+      "Kypr"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59548070-mladek-vydesil-cssd-hleda-se-nahradnik",
+      "http://hn.ihned.cz/c1-59548050-sef-sberbank-nejvetsi-ruske-banky-kypr-kradez-jak-za-gorbacova",
+      "http://hn.ihned.cz/c1-59548060-vezmou-nam-stamilionove-podvody-a-tunely-stezuji-si-zalobci",
+      "http://hn.ihned.cz/c1-59548040-99-slov"
+   ]
+  },
+  {
+    "file": "0322.pdf",
+    "events": [
+      "Banky",
+      "Armáda",
+      "Literatura",
+      "Automobily"
+    ],
+    "people": [
+      "Orhan Pamuk",
+      "Vlastimil Picek"
+    ],
+    "entities": [
+      "Sberbank"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59556150-rusky-gigant-jde-do-evropy-pres-brno",
+      "http://hn.ihned.cz/c1-59556140-picek-bleskove-schvalil-sporny-kontrakt",
+      "http://hn.ihned.cz/c1-59556130-orhan-pamuk-v-praze",
+      "http://hn.ihned.cz/c1-59556120-prodej-zemniho-plynu-roste-nabidku-aut-rozsiri-i-vw",
+      "http://hn.ihned.cz/c1-59556110-99-slov"
+   ]
+  },
+  {
+    "file": "0325.pdf",
+    "events": [
+      "Krize",
+      "Korupce",
+      "Automobily",
+      "Inovace"
+    ],
+    "people": [
+      "Boris Berezovskij",
+      "David Rath"
+    ],
+    "entities": [
+      "Kypr",
+      "Eurozóna",
+      "Euro"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59569190-zady-u-zdi-kypr-jedna-o-sve-spase",
+      "http://hn.ihned.cz/c1-59569180-muz-z-rathovy-kauzy-z-fondu-eu-i-ze-sveho-investuje-460-milionu",
+      "http://hn.ihned.cz/c1-59569170-mlady-cech-privadi-na-svet-elektromobily-bmw",
+      "http://hn.ihned.cz/c1-59569150-berezovskij-prisel-pred-smrti-o-vetsinu-majetku",
+      "http://hn.ihned.cz/c1-59569160-99-slov-petra-sabaty"
+   ]
+  },
+  {
+    "file": "0326.pdf",
+    "events": [
+      "Krize",
+      "Energetika",
+      "Sport"
+    ],
+    "people": [
+      "Tiger Woods"
+    ],
+    "entities": [
+      "Kypr",
+      "Eurozóna",
+      "Euro",
+      "ČEZ",
+      "Westinghouse",
+      "Rosatom"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59576640-hra-o-temelin-usa-vedou-nad-ruskem",
+      "http://hn.ihned.cz/c1-59576630-kypr-model-reseni-pro-dalsi-prosebniky",
+      "http://hn.ihned.cz/c1-59576620-tiger-woods-se-vratil-na-golfovy-vrchol",
+      "http://hn.ihned.cz/c1-59576610-99-slov"
+   ]
+  },
+  {
+    "file": "0327.pdf",
+    "events": [
+      "Krize",
+      "Energetika"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Kypr",
+      "Eurozóna",
+      "Euro",
+      "ČEZ",
+      "ODS"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59584220-rumunske-uspory-vezmou-cez-miliardy",
+      "http://hn.ihned.cz/c1-59584210-ekonomove-zvazovali-odchod-z-eurozony",
+      "http://hn.ihned.cz/c1-59584200-sponzor-ods-staci-nekrast-a-nerozdavat",
+      "http://hn.ihned.cz/c1-59584190-99-slov-petra-sabaty"
+   ]
+  },
+  {
+    "file": "0328.pdf",
+    "events": [
+      "Krize",
+      "Daně",
+      "Korupce"
+    ],
+    "people": [
+      "Petr Nečas",
+      "Miroslav Kalousek"
+    ],
+    "entities": [
+      "Kypr",
+      "Eurozóna",
+      "Euro",
+      "Vláda"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59593070-vlada-chysta-danovy-darek-zrychli-odpisy",
+      "http://hn.ihned.cz/c1-59593060-kyperske-hraze-proti-odtekani-penez",
+      "http://hn.ihned.cz/c1-59593050-kdo-je-na-rade-po-kypru-mozna-slovinsko-a-malta",
+      "http://hn.ihned.cz/c1-59593040-statni-manazer-predrazil-smlouvu-o-439-milionu-potrestejte-ho-naridil-soud",
+      "http://hn.ihned.cz/c1-59593030-99-slov"
+   ]
+  },
+  {
+    "file": "0329.pdf",
+    "events": [
+      "Showbyznys",
+      "Krize"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Kypr",
+      "Eurozóna",
+      "Euro"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-59600750-stamiliony-z-ceska-nalakaly-hollywood-zpet",
+      "http://hn.ihned.cz/c1-59600760-kyprane-mohou-k-uctum-ale-nevedi-zda-dostanou-mzdy",
+      "http://hn.ihned.cz/c1-59600740-99-slov"
+   ]
   }
 ]

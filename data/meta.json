@@ -1053,7 +1053,7 @@
     "events": [
       "Daně",
       "Reformy",
-      "Eurozóna",
+      "Krize eurozóny",
       "Krize",
       "Obchody roku",
       "Důchody",
@@ -1085,7 +1085,7 @@
     "file": "0320.pdf",
     "events": [
       "Energetika",
-      "Eurozóna",
+      "Krize eurozóny",
       "Krize",
       "Obchody roku",
       "Automobilový průmysl"
@@ -1115,7 +1115,7 @@
     "file": "0321.pdf",
     "events": [
       "Reformy",
-      "Eurozóna",
+      "Krize eurozóny",
       "Krize",
       "Korupce"
     ],
@@ -1175,7 +1175,7 @@
     ],
     "entities": [
       "Kypr",
-      "Eurozóna",
+      "Krize eurozóny",
       "Euro"
     ],
     "dds": "Petr Šabata",
@@ -1199,7 +1199,7 @@
     ],
     "entities": [
       "Kypr",
-      "Eurozóna",
+      "Krize eurozóny",
       "Euro",
       "ČEZ",
       "Westinghouse",
@@ -1223,7 +1223,7 @@
     ],
     "entities": [
       "Kypr",
-      "Eurozóna",
+      "Krize eurozóny",
       "Euro",
       "ČEZ",
       "ODS"
@@ -1249,7 +1249,7 @@
     ],
     "entities": [
       "Kypr",
-      "Eurozóna",
+      "Krize eurozóny",
       "Euro",
       "Vláda"
     ],
@@ -1272,7 +1272,7 @@
     ],
     "entities": [
       "Kypr",
-      "Eurozóna",
+      "Krize eurozóny",
       "Euro"
     ],
     "dds": "Martin Denemark",
@@ -1558,7 +1558,7 @@
   {
     "file": "0418.pdf",
     "events": [
-      "Eurozóna",
+      "Krize eurozóny",
       "Euro",
       "Telekomunikace",
       "Reformy"
@@ -1731,7 +1731,7 @@
     "events": [
       "Dotace",
       "Banky",
-      "Potravinářství"
+      "Potraviny"
     ],
     "people": [
        
@@ -1769,6 +1769,440 @@
       "http://hn.ihned.cz/c1-59790760-smejc-home-credit-chceme-dat-na-burzu",
       "http://hn.ihned.cz/c1-59790750-ceske-drahy-tahne-dolu-nakladni-doprava-a-pomaly-prodej-majetku",
       "http://hn.ihned.cz/c1-59790740-99-slov"
+   ]
+  },
+  {
+    "file": "0502.pdf",
+    "events": [
+      "Reformy"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Samsung",
+      "Mongolsko"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59801900-predvolebni-plan-vlady-mene-byrokracie-pro-firmy",
+      "http://hn.ihned.cz/c1-59801910-v-cem-je-galaxy-lepsi-nez-xperia",
+      "http://hn.ihned.cz/c1-59801890-cesti-podnikatele-se-po-letech-vraceji-do-rostouciho-mongolska",
+      "http://hn.ihned.cz/c1-59801880-99-slov-petra-sabaty"
+   ]
+  },
+  {
+    "file": "0503.pdf",
+    "events": [
+      "Energetika",
+      "Krize eurozóny",
+      "Sport",
+      "Doprava"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "ČEZ",
+      "Euro"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-59808490-investice-za-20-miliard-bude-pro-cez-ztratova",
+      "http://hn.ihned.cz/c1-59808480-ecb-uvazuje-o-zapornych-urocich",
+      "http://hn.ihned.cz/c1-59808470-ridici-plati-jako-nikdy-zmenila-je-osoba-blizka",
+      "http://hn.ihned.cz/c1-59808450-po-roce-znovu-sampionat-ve-stockholmu-a-v-helsinkach",
+      "http://hn.ihned.cz/c1-59808460-99-slov"
+   ]
+  },
+  {
+    "file": "0506.pdf",
+    "events": [
+      "Banky",
+      "Vzdělání",
+      "Sport"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Česká spořitelna",
+      "Google"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59823830-sporitelna-chce-sverit-sve-e-maily-googlu",
+      "http://hn.ihned.cz/c1-59823800-ceska-reprezentace-odstartovala-rozpacite",
+      "http://hn.ihned.cz/c1-59823820-cesko-se-zhledlo-v-nemecku-ucni-se-budou-skolit-primo-ve-firmach",
+      "http://hn.ihned.cz/c1-59823810-99-slov"
+   ]
+  },
+  {
+    "file": "0507.pdf",
+    "events": [
+      "Reformy",
+      "Daně",
+      "Korupce"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "ČSSD"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59833060-cssd-couva-z-vyssich-dani-pro-zivnostniky",
+      "http://hn.ihned.cz/c1-59833050-konec-akcii-na-majitele-do-depozitare-miri-stovky-firem",
+      "http://hn.ihned.cz/c1-59833030-globalni-byznys-ma-26-novych-jestrabu",
+      "http://hn.ihned.cz/c1-59833040-99-slov"
+   ]
+  },
+  {
+    "file": "0509.pdf",
+    "events": [
+      "Telekomunikace",
+      "Krize eurozóny"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "T-Mobile",
+      "Telefónica",
+      "Vodafone",
+      "Google",
+      "Evropská unie",
+      "Euro"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-59844410-na-levnejsi-tarify-preslo-uz-pul-milionu-lidi",
+      "http://hn.ihned.cz/c1-59844400-strategie-uspor-se-vycerpala-zni-z-bruselu-politici-se-boji-o-volice",
+      "http://hn.ihned.cz/c1-59844380-bryle-google-glass-meni-sci-fi-v-realitu",
+      "http://hn.ihned.cz/c1-59844390-99-slov-martina-denemarka"
+   ]
+  },
+  {
+    "file": "0510.pdf",
+    "events": [
+      "Doprava",
+      "Potraviny"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Polsko"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59853050-oprava-d1-kamiony-udrzime-na-dalnici-slibuje-policie",
+      "http://hn.ihned.cz/c1-59853040-slyseli-jste-ze-by-si-na-polske-potraviny-stezovali-nemci",
+      "http://hn.ihned.cz/c1-59853030-99-slov"
+   ]
+  },
+  {
+    "file": "0513.pdf",
+    "events": [
+      "Energetika",
+      "Korupce",
+      "Sport",
+      "Technologie"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Google",
+      "Mostecká uhelná"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-59865670-svycari-soudi-ceske-uhlobarony",
+      "http://hn.ihned.cz/c1-59865660-cesko-je-podle-googlu-internetovym-tygrem-stredni-a-vychodni-evropy",
+      "http://hn.ihned.cz/c1-59865650-letosni-prazsky-maraton-se-bezel-ve-stinu-bostonu",
+      "http://hn.ihned.cz/c1-59865640-99-slov"
+   ]
+  },
+  {
+    "file": "0514.pdf",
+    "events": [
+      "Doprava",
+      "Korupce"
+    ],
+    "people": [
+      "Barack Obama"
+    ],
+    "entities": [
+      "Mostecká uhelná",
+      "USA"
+    ],
+    "dds": "Jiří Leschtina",
+    "links": [
+      "http://hn.ihned.cz/c1-59872320-stat-na-mytnem-promrhal-stamiliony",
+      "http://hn.ihned.cz/c1-59872330-danovy-urad-se-zameril-na-obamovy-kritiky",
+      "http://hn.ihned.cz/c1-59872310-uhlobaroni-voli-zdrzovaci-taktiku-stezuje-si-zalobkyne",
+      "http://hn.ihned.cz/c1-59872300-99-slov-jiriho-leschtiny"
+   ]
+  },
+  {
+    "file": "0515.pdf",
+    "events": [
+      "Vzdělání",
+      "Maloobchod",
+      "Export"
+    ],
+    "people": [
+    ],
+    "entities": [
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59880740-maturity-opet-ceka-zmena-uz-treti-v-rade",
+      "http://hn.ihned.cz/c1-59880730-nakupni-centra-se-promeni-je-jich-moc-musi-nabidnout-i-zabavu",
+      "http://hn.ihned.cz/c1-59880710-sedmimiliardovy-vyvoz-dela-z-ceska-hrackarskou-velmoc",
+      "http://hn.ihned.cz/c1-59880720-99-slov-petra-sabaty"
+   ]
+  },
+  {
+    "file": "0516.pdf",
+    "events": [
+      "Krize",
+      "Koruna",
+      "Showbyznys",
+      "Reformy"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "ČNB"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-59888360-necekane-hluboky-pad-ekonomiky-srazil-i-korunu",
+      "http://hn.ihned.cz/c1-59888350-stat-zavede-tvrdsi-tresty-pro-nepoctive-podnikatele",
+      "http://hn.ihned.cz/c1-59888330-gatsbyho-navrat-po-39-letech",
+      "http://hn.ihned.cz/c1-59888340-99-slov"
+   ]
+  },
+  {
+    "file": "0517.pdf",
+    "events": [
+      "Reality",
+      "Reformy",
+      "Potraviny",
+      "Sport"
+    ],
+    "people": [
+    ],
+    "entities": [
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59894520-majitele-nemovitosti-zaplati-vic-za-katastr",
+      "http://hn.ihned.cz/c1-59894510-na-ceskem-trhu-se-prodavaji-i-uzeniny-v-nichz-neni-maso",
+      "http://hn.ihned.cz/c1-59894490-nejhorsi-hokejovy-sampionat-od-roku-2007",
+      "http://hn.ihned.cz/c1-59894500-199-slov"
+   ]
+  },
+  {
+    "file": "0520.pdf",
+    "events": [
+      "Výzkum",
+      "Korupce",
+      "Sport"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Mostecká uhelná"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-59906670-na-vyzkumy-slo-656-milionu-vysledek-nula",
+      "http://hn.ihned.cz/c1-59906660-expert-svycari-se-chteji-na-uhlobaronech-ukazat",
+      "http://hn.ihned.cz/c1-59906640-posledni-zapas-sira-alexe-na-lavicce-manchesteru",
+      "http://hn.ihned.cz/c1-59906650-99-slov"
+   ]
+  },
+  {
+    "file": "0521.pdf",
+    "events": [
+      "Důchody",
+      "Technologie",
+      "Zdravotnictví"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Apple"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59912890-zmenami-penzi-prisli-tricatnici-o-milion",
+      "http://hn.ihned.cz/c1-59912860-apple-je-potreti-nejhodnotnejsi-svetovou-znackou",
+      "http://hn.ihned.cz/c1-59912880-ceske-zdravotni-sestry-v-saudske-arabii-vysoke-platy-malo-zabavy",
+      "http://hn.ihned.cz/c1-59912870-99-slov-petra-sabaty"
+   ]
+  },
+  {
+    "file": "0522.pdf",
+    "events": [
+      "Energetika"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Czech Coal",
+      "Pražský magistrát",
+      "TOP 09",
+      "ODS",
+      "ČSSD"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59920840-dienstl-lidem-z-jiretina-vystehujte-se-dame-vic",
+      "http://hn.ihned.cz/c1-59920830-obcansti-demokrate-ztraci-prahu-nastupuje-top-09-a-cssd",
+      "http://hn.ihned.cz/c1-59920820-99-slov"
+   ]
+  },
+  {
+    "file": "0523.pdf",
+    "events": [
+      "Daně",
+      "Reformy"
+    ],
+    "people": [
+      "Angela Merkel"
+    ],
+    "entities": [
+      "ODS"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59929160-vynosy-z-akcii-a-fondu-ceka-prisnejsi-zdaneni",
+      "http://hn.ihned.cz/c1-59929150-ods-dal-temer-osm-milionu-ve-strane-ho-ale-nikdo-nezna",
+      "http://hn.ihned.cz/c1-59929130-merkelova-je-posedme-nejmocnejsi-zenou",
+      "http://hn.ihned.cz/c1-59929140-99-slov"
+   ]
+  },
+  {
+    "file": "0524.pdf",
+    "events": [
+      "Energetika"
+    ],
+    "people": [
+      "Miroslav Kalousek",
+      "Petr Nečas"
+    ],
+    "entities": [
+      "ČEZ",
+      "ODS",
+      "ČSSD",
+      "Vláda"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-59935580-kalousek-pochybuje-o-rozsireni-temelina",
+      "http://hn.ihned.cz/c1-59935560-dozorci-rady-krajskych-firem-meni-barvu-podle-vysledku-voleb",
+      "http://hn.ihned.cz/c1-59935570-99-slov"
+   ]
+  },
+  {
+    "file": "0527.pdf",
+    "events": [
+      "Export",
+      "Showbyznys"
+    ],
+    "people": [
+      "Petr Nečas"
+    ],
+    "entities": [
+      "Rusko"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59948220-necas-veze-do-ruska-rekordni-pocet-firem",
+      "http://hn.ihned.cz/c1-59948210-lesbicke-drama-porazilo-v-cannes-coeny",
+      "http://hn.ihned.cz/c1-59948190-herec-uci-manazery-improvizovat-je-to-takove-mozkove-fitness-rika",
+      "http://hn.ihned.cz/c1-59948180-99-slov"
+   ]
+  },
+  {
+    "file": "0528.pdf",
+    "events": [
+      "Investice",
+      "Showbyznys",
+      "Zlato",
+      "Daně",
+      "Zaměstnanost"
+    ],
+    "people": [
+      "Bolek Polívka"
+    ],
+    "entities": [
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-59955750-cechy-zlakalo-zlato-na-nakupech-ale-zatim-trati",
+      "http://hn.ihned.cz/c1-59955740-polivkovu-farmu-chce-spravce-udrzet-v-chodu",
+      "http://hn.ihned.cz/c1-59955730-firmam-se-vyplati-zamestnat-studenty-stat-je-podpori",
+      "http://hn.ihned.cz/c1-59955720-99-slov-petra-honzejka"
+   ]
+  },
+  {
+    "file": "0529.pdf",
+    "events": [
+      "Energetika"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "ČEZ",
+      "Evropská unie",
+      "Hospodářská komora"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-59962620-evropa-ozivila-plan-ktery-ma-zdrazit-elektrinu",
+      "http://hn.ihned.cz/c1-59962630-hospodarska-komora-vlivna-organizace-ktere-se-ztratilo-50-milionu",
+      "http://hn.ihned.cz/c1-59962610-mezi-deset-nejlepsich-baru-na-svete-se-zaradil-i-prazsky-podnik",
+      "http://hn.ihned.cz/c1-59962600-99-slov"
+   ]
+  },
+  {
+    "file": "0530.pdf",
+    "events": [
+      "Inovace",
+      "Banky",
+      "Výzkum"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Vláda",
+      "ČNB"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59970890-cesko-v-konkurenci-zaostava-i-kvuli-vlade",
+      "http://hn.ihned.cz/c1-59970880-mlady-cech-nadchl-spoluzaky-z-yale-pro-vyvoj-raket-a-bezpilotnich-letounu",
+      "http://hn.ihned.cz/c1-59970870-stat-zprisni-podminky-pro-kampelicky-cnb-dvema-velkym-omezila-cinnost",
+      "http://hn.ihned.cz/c1-59970860-99-slov-petra-sabaty"
+   ]
+  },
+  {
+    "file": "0531.pdf",
+    "events": [
+      "Reformy",
+      "Reality",
+      "Showbyznys"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Rusko"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-59977990-zmena-zakona-ulehci-podvody-v-katastru",
+      "http://hn.ihned.cz/c1-59977980-rustina-je-uzitecna-pro-byznys-i-potlach-o-hokeji",
+      "http://hn.ihned.cz/c1-59977960-mm-na-prazskem-hrade",
+      "http://hn.ihned.cz/c1-59977970-99-slov"
    ]
   }
 ]

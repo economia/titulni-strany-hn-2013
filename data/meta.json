@@ -3112,5 +3112,479 @@
       "http://hn.ihned.cz/c1-60344930-jednotu-byvale-vladni-koalice-zacina-borit-prvni-odpadlik",
       "http://hn.ihned.cz/c1-60344920-99-slov"
    ]
+  },
+  {
+    "file": "0801.pdf",
+    "events": [
+      "Úřednická vláda",
+      "Technologie"
+    ],
+    "people": [
+      "Miloš Zeman",
+      "Zdeněk Žák",
+      "Jiří Rusnok",
+      "Bohuslav Sobotka",
+      "Martin Pecina",
+      "Eduard Kučera"
+    ],
+    "entities": [
+      "Avast",
+      "Vláda",
+      "SPOZ"
+    ],
+    "dds": "Petr Fischer",
+    "links": [
+      "http://hn.ihned.cz/c1-60353580-sobotka-vlada-kope-za-zajmy-zemanovcu",
+      "http://hn.ihned.cz/c1-60353570-zisk-avastu-je-rekordni-poprve-preskocil-i-seznam-cz",
+      "http://hn.ihned.cz/c1-60353560-99-slov"
+   ]
+  },
+  {
+    "file": "0802.pdf",
+    "events": [
+      "Úřednická vláda",
+      "Technologie",
+      "Showbyznys"
+    ],
+    "people": [
+      "Jiří Rusnok",
+      "Bohuslav Sobotka",
+      "Michal Hašek"
+    ],
+    "entities": [
+      "Vláda",
+      "ČSSD"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-60360760-hasek-ma-v-cssd-navrch-rusnokovy-sance-rostou",
+      "http://hn.ihned.cz/c1-60360750-k-soudu-miri-zaloba-ktera-omezi-piratske-stahovani-z-webu",
+      "http://hn.ihned.cz/c1-60360740-99-slov"
+   ]
+  },
+  {
+    "file": "0805.pdf",
+    "events": [
+      "Úřednická vláda",
+      "Krize",
+      "Export"
+    ],
+    "people": [
+      "Jiří Rusnok",
+      "Lubor Žalman"
+    ],
+    "entities": [
+      "Vláda",
+      "ČNB",
+      "Ministerstvo financí"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-60372020-cesko-vytahnou-z-krize-utraty-domacnosti-a-export",
+      "http://hn.ihned.cz/c1-60372010-rusnokovy-pocty",
+      "http://hn.ihned.cz/c1-60372000-mam-inkubator-pro-starsi-a-pokrocile-rika-exsef-raiffeisenbank",
+      "http://hn.ihned.cz/c1-60371990-99-slov"
+   ]
+  },
+  {
+    "file": "0806.pdf",
+    "events": [
+      "Úřednická vláda",
+      "Školství"
+    ],
+    "people": [
+      "Jiří Rusnok",
+      "Bohuslav Sobotka",
+      "Michal Hašek",
+      "Václav Klaus"
+    ],
+    "entities": [
+      "Vláda",
+      "ČSSD",
+      "Evropská unie"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-60377890-cssd-dnes-rozhodne-hasek-nebo-sobotka",
+      "http://hn.ihned.cz/c1-60377880-euroskeptici-chteji-klause-za-predsedu-evropske-komise",
+      "http://hn.ihned.cz/c1-60377860-technickym-oborum-schazeji-tri-tisice-studentu",
+      "http://hn.ihned.cz/c1-60377870-99-slov"
+   ]
+  },
+  {
+    "file": "0807.pdf",
+    "events": [
+      "Úřednická vláda",
+      "Potraviny",
+      "Předčasné volby"
+    ],
+    "people": [
+      "Jiří Rusnok"
+    ],
+    "entities": [
+      "Vláda",
+      "Polsko"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-60385990-rusnok-dnes-narazi-uslysi-stotrikrat-ne",
+      "http://hn.ihned.cz/c1-60385980-polaci-spusti-v-cesku-kampan-ktera-ma-napravit-povest-jejich-potravin",
+      "http://hn.ihned.cz/c1-60385970-99-slov"
+   ]
+  },
+  {
+    "file": "0808.pdf",
+    "events": [
+      "Úřednická vláda",
+      "Nemovitosti",
+      "Předčasné volby"
+    ],
+    "people": [
+      "Jiří Rusnok"
+    ],
+    "entities": [
+      "Vláda",
+      "ODS"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60392020-rozklad-ods-priblizil-predcasne-volby",
+      "http://hn.ihned.cz/c1-60392010-rakusane-postavi-v-prazskem-karline-dalsi-kancelare-az-za-miliardu",
+      "http://hn.ihned.cz/c1-60392000-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "0809.pdf",
+    "events": [
+      "Předčasné volby",
+      "Prezidentské volby"
+    ],
+    "people": [
+      "Miloš Zeman",
+      "Vratislav Mynář"
+    ],
+    "entities": [
+      "SPOZ",
+      "Tesco",
+      "Prezident"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-60397960-zeman-se-stane-tvari-kampane-sve-strany",
+      "http://hn.ihned.cz/c1-60397950-tesco-zmensuje-sve-obchody-zakaznici-do-velkych-prestavaji-chodit",
+      "http://hn.ihned.cz/c1-60397940-99-slov"
+   ]
+  },
+  {
+    "file": "0812.pdf",
+    "events": [
+      "Rozpočet",
+      "Investice"
+    ],
+    "people": [
+      "Andrej Babiš"
+    ],
+    "entities": [
+      "Agrofert",
+      "ČNB"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-60407540-andrej-babis-se-stane-jednickou-i-v-lesnictvi",
+      "http://hn.ihned.cz/c1-60407530-prognoza-cnb-slibuje-pristi-vlade-navic-40-miliard-k-utraceni",
+      "http://hn.ihned.cz/c1-60407520-99-slov"
+   ]
+  },
+  {
+    "file": "0813.pdf",
+    "events": [
+      "Předčasné volby",
+      "Energetika" 
+    ],
+    "people": [
+      "Andrej Babiš"
+    ],
+    "entities": [
+      "ČSSD",
+      "ANO",
+      "Energetický regulační úřad"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60413840-na-volby-si-nejvic-penez-chystaji-cssd-a-ano-2011",
+      "http://hn.ihned.cz/c1-60413830-elektrina-by-pristi-rok-mela-vyrazne-zlevnit-pro-lidi-i-firmy",
+      "http://hn.ihned.cz/c1-60413820-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "0814.pdf",
+    "events": [
+      "Energetika",
+      "Potraviny"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "ČEZ"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-60420700-cez-ceka-miliardove-propady-sveho-zisku",
+      "http://hn.ihned.cz/c1-60420690-francouzi-utekli-z-klasickych-restauraci-k-fastfoodum",
+      "http://hn.ihned.cz/c1-60420680-99-slov-petra-sabaty"
+   ]
+  },
+  {
+    "file": "0815.pdf",
+    "events": [
+      "Krize",
+      "Korupce"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Egypt"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-60428740-z-utlumu-nas-dostala-i-lepsi-bilance-s-cinou",
+      "http://hn.ihned.cz/c1-60428730-policie-obvinila-exsefa-dalnic-brunclika",
+      "http://hn.ihned.cz/c1-60428720-strety-armady-s-islamisty-maji-skoro-tri-sta-obeti",
+      "http://hn.ihned.cz/c1-60429390-99-slov-petra-sabaty"
+   ]
+  },
+  {
+    "file": "0816.pdf",
+    "events": [
+      "Daně",
+      "Rozpočet"
+    ],
+    "people": [
+      "Jan Mládek"
+    ],
+    "entities": [
+      "Egypt",
+      "ČSSD"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60435700-cssd-bude-prosazovat-nulovou-dan-na-leky",
+      "http://hn.ihned.cz/c1-60435690-az-dva-tisice-mrtvych-turisty-hlida-armada",
+      "http://hn.ihned.cz/c1-60435680-99-slov"
+   ]
+  },
+  {
+    "file": "0819.pdf",
+    "events": [
+      "Restituce",
+      "Zaměstnanost"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Egypt"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60446610-kvuli-restitucim-se-premeri-cesko-za-ctvrt-miliardy",
+      "http://hn.ihned.cz/c1-60446600-cesi-si-zkracuji-dovolenou-na-tyden",
+      "http://hn.ihned.cz/c1-60446590-cesti-turiste-opousteji-egypt",
+      "http://hn.ihned.cz/c1-60446580-99-slov"
+   ]
+  },
+  {
+    "file": "0820.pdf",
+    "events": [
+      "Předčasné volby",
+      "Sport",
+      "Potraviny"
+    ],
+    "people": [
+      "Miloš Zeman",
+      "Miroslav Kalousek"
+    ],
+    "entities": [
+      "SPOZ",
+      "ČSSD",
+      "Prezident"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-60453260-zeman-vitezi-jeho-strany-miri-k-moci",
+      "http://hn.ihned.cz/c1-60453250-moravske-orrero-rozsiri-vyrobu-syreniny-zajem-o-ni-je-i-v-asii",
+      "http://hn.ihned.cz/c1-60453230-fotbalove-akcie-jsou-spatnou-investici",
+      "http://hn.ihned.cz/c1-60453240-99-slov"
+   ]
+  },
+  {
+    "file": "0821.pdf",
+    "events": [
+      "Předčasné volby",
+      "Energetika"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "ČEZ"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60461010-budou-volby-poprve-miri-k-vlade-silna-levice",
+      "http://hn.ihned.cz/c1-60461000-cez-chysta-dalsi-bitvu-v-bruselu-si-stezuje-na-rumunsko",
+      "http://hn.ihned.cz/c1-60460980-45-let-od-invaze-bratrskych-vojsk",
+      "http://hn.ihned.cz/c1-60460990-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "0822.pdf",
+    "events": [
+      "Předčasné volby",
+      "Daně",
+      "Důchody",
+      "Média"
+    ],
+    "people": [
+      "Bohuslav Sobotka",
+      "Adrian Sarbu"
+    ],
+    "entities": [
+      "ČSSD",
+      "Nova"
+
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-60467850-povolebni-priorita-cssd-zvysit-dane-firmam",
+      "http://hn.ihned.cz/c1-60467840-adrian-sarbu-prekvapive-konci-v-cele-cme",
+      "http://hn.ihned.cz/c1-60467830-99-slov"
+   ]
+  },
+  {
+    "file": "0823.pdf",
+    "events": [
+      "Spoření",
+      "Investice",
+      "Školství",
+      "Obchody roku"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "J&T"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60475150-stavebni-sporitelny-citi-sanci-chystaji-ofenzivu",
+      "http://hn.ihned.cz/c1-60475140-j-t-banka-usiluje-o-dve-chorvatske-banky",
+      "http://hn.ihned.cz/c1-60475130-vetsina-skol-letos-nove-pismo-nezavede-pisanky-jsou-prilis-drahe",
+      "http://hn.ihned.cz/c1-60475120-99-slov"
+   ]
+  },
+  {
+    "file": "0826.pdf",
+    "events": [
+      "Technologie",
+      "Maloobchod"
+    ],
+    "people": [
+      "Václav Klaus"
+    ],
+    "entities": [
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60486660-v-cesku-zacaly-tablety-vytlacovat-stare-pocitace",
+      "http://hn.ihned.cz/c1-60486650-sije-pro-zemana-i-kalouska-ale-sako-nacpane-prkenici-jej-stale-zlobi",
+      "http://hn.ihned.cz/c1-60486630-klaus-naznacil-kudy-by-se-mohl-vratit-k-politice",
+      "http://hn.ihned.cz/c1-60486640-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "0827.pdf",
+    "events": [
+      "Předčasné volby",
+      "Export",
+      "Obchody roku"
+    ],
+    "people": [
+      "Martin Bursík"
+    ],
+    "entities": [
+      "Koh-i-noor"
+    ],
+    "dds": "Petr Fischer",
+    "links": [
+      "http://hn.ihned.cz/c1-60495580-koh-i-noor-miri-pres-slovinsko-na-balkan",
+      "http://hn.ihned.cz/c1-60495570-bursik-se-vraci-zaklada-novou-stranu-pomohou-mu-lidovci",
+      "http://hn.ihned.cz/c1-60495560-99-slov-petra-fischera"
+   ]
+  },
+  {
+    "file": "0828.pdf",
+    "events": [
+      "Zdravotnictví",
+      "Reformy",
+      "Telekomunikace",
+      "Energetika"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "ČEZ",
+      "GTS",
+      "Sýrie",
+      "USA"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-60503540-poplatky-selhaly-pohotovosti-nestihaji",
+      "http://hn.ihned.cz/c1-60503550-americka-armada-ceka-na-rozkaz-uderi-proti-syrii",
+      "http://hn.ihned.cz/c1-60503530-energeticke-firmy-se-snazi-udrzet-zakazniky-nabizeji-levne-volani",
+      "http://hn.ihned.cz/c1-60503520-99-slov"
+   ]
+  },
+  {
+    "file": "0829.pdf",
+    "events": [
+      "Telekomunikace",
+      "Banky",
+      "Úvěry"
+    ],
+    "people": [
+      "Václav Klaus"
+    ],
+    "entities": [
+      "Telefónica",
+      "Česká spořitelna"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60513000-telefonica-utoci-s-novou-znackou-na-venkov",
+      "http://hn.ihned.cz/c1-60512990-sazby-hypotek-ted-pujdou-nahoru",
+      "http://hn.ihned.cz/c1-60512970-klaus-se-vraci-chce-se-ptat-co-s-pravici-i-ods",
+      "http://hn.ihned.cz/c1-60512960-hn-na-navsteve-v-budoucnosti",
+      "http://hn.ihned.cz/c1-60512980-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "0830.pdf",
+    "events": [
+      "Telekomunikace",
+      "Sport"
+    ],
+    "people": [
+      "Václav Klaus"
+    ],
+    "entities": [
+      "Telefónica",
+      "T-Mobile",
+      "Vodafone"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-60523970-telefonica-a-t-mobile-se-spojuji-proti-konkurenci",
+      "http://hn.ihned.cz/c1-60523980-petihvezdickovy-fotbal-dorazil-z-monte-carla-do-prahy",
+      "http://hn.ihned.cz/c1-60523960-99-slov"
+   ]
   }
 ]

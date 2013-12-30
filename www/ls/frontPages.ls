@@ -23,7 +23,7 @@ window.FrontPages = class FrontPages
                 ..append "img"
                     ..attr \src '../data/thumb/loading.png'
                     ..attr \data-echo ->
-                        src = it.file.replace ".pdf" ".png"
+                        src = it.file.replace ".pdf" ".jpg"
                         "../data/thumb/#src"
                     ..attr \width "#{width}px"
                     ..attr \height "#{height}px"

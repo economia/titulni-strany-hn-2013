@@ -1,3 +1,7 @@
+Echo.init do
+    offset: 300
+    throttle: 250
+    target: document.querySelector '.frontPages'
 (err, data) <~ d3.json "../data/meta.json"
 tags_assoc = {}
 dds_assoc = []

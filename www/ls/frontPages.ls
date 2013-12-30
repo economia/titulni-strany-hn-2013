@@ -21,7 +21,8 @@ window.FrontPages = class FrontPages
                 ..style "width" "#{width}px"
                 ..style "height" "#{height}px"
                 ..append "img"
-                    ..attr \src ->
+                    ..attr \src '../data/thumb/loading.png'
+                    ..attr \data-echo ->
                         src = it.file.replace ".pdf" ".png"
                         "../data/thumb/#src"
                     ..attr \width "#{width}px"
@@ -40,3 +41,4 @@ window.FrontPages = class FrontPages
             ..style "left" ({index}) -> "#{index % 3 * (width + margin_x)}px"
             ..style "top" ({index}) -> "#{(Math.floor (index / 3)) * (height + margin_y)}px"
         @parentElement.style \height "#{((Math.floor(data.length / 3)) + 1) * ((height + margin_y))}px"
+        Echo.rescan!

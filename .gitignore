@@ -9,5 +9,6 @@
 /www/external.js
 /www/js/*
 !/www/js/_loadExternal.js
+!/www/js/echo.js
 /www/script.js
 /*.sublime-workspace

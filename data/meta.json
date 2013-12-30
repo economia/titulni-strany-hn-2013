@@ -3586,5 +3586,467 @@
       "http://hn.ihned.cz/c1-60523980-petihvezdickovy-fotbal-dorazil-z-monte-carla-do-prahy",
       "http://hn.ihned.cz/c1-60523960-99-slov"
    ]
+  },
+  {
+    "file": "0902.pdf",
+    "events": [
+      "Energetika",
+      "Školství",
+      "Korupce"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "Energetický regulační úřad",
+      "Žalobci",
+      "Česká spořitelna"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-60554700-zalobci-proveri-solarni-dotace-za-80-miliard",
+      "http://hn.ihned.cz/c1-60554690-na-podporu-fyzikaru-da-letos-sporitelna-pres-dvacet-milionu",
+      "http://hn.ihned.cz/c1-60554680-99-slov"
+   ]
+  },
+  {
+    "file": "0903.pdf",
+    "events": [
+      "Zdravotnictví",
+      "Reformy"    ],
+    "people": [
+      "Bohuslav Sobotka"
+    ],
+    "entities": [
+      "ČSSD",
+      "Senát",
+      "Ústavní soud"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60568850-nemocnice-prijdou-kvuli-cssd-o-stamiliony",
+      "http://hn.ihned.cz/c1-60568840-vyrobci-medove-marlenky-se-dari-rozsiri-provoz-a-nabere-nove-lidi",
+      "http://hn.ihned.cz/c1-60568830-99-slov"
+   ]
+  },
+  {
+    "file": "0904.pdf",
+    "events": [
+      "Technologie",
+      "Obchod roku",
+      "Krize"
+   ],
+    "people": [
+      "Steve Ballmer",
+      "Stephen Elop"
+    ],
+    "entities": [
+      "Microsoft",
+      "Nokia"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-60581070-microsoft-si-zachranuje-budoucnost-koupi-nokii",
+      "http://hn.ihned.cz/c1-60581060-krize-skoncila-nastal-cas-investic-shodli-se-stredoevropsti-premieri",
+      "http://hn.ihned.cz/c1-60581050-99-slov"
+   ]
+  },
+  {
+    "file": "0905.pdf",
+    "events": [
+      "Důchody",
+      "Banky",
+      "Spoření"
+   ],
+    "people": [
+    ],
+    "entities": [
+      "Sýrie",
+      "USA",
+      "ČSSD",
+      "CNB"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60595160-fondy-veri-ze-udrzi-soukrome-sporeni-na-penzi",
+      "http://hn.ihned.cz/c1-60595150-summit-g20-ekonomiku-prehlusi-spor-o-syrii",
+      "http://hn.ihned.cz/c1-60595140-soud-neuznal-plne-moci-u-tisicu-zalob-o-vraceni-poplatku",
+      "http://hn.ihned.cz/c1-60595130-99-slov"
+   ]
+  },
+  {
+    "file": "0906.pdf",
+    "events": [
+      "Maloobchod"
+   ],
+    "people": [
+      "Václav Klaus",
+      "Vladimir Putin",
+      "Barack Obama"
+    ],
+    "entities": [
+      "Sparkys"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60610260-v-britanii-i-rusku-chteji-profesora-vaclava-klause",
+      "http://hn.ihned.cz/c1-60610230-hrane-usmevy-pri-setkani-putin-obama",
+      "http://hn.ihned.cz/c1-60610250-hrackam-se-v-cesku-darilo-i-behem-ekonomicke-krize",
+      "http://hn.ihned.cz/c1-60610240-99-slov"
+   ]
+  },
+  {
+    "file": "0909.pdf",
+    "events": [
+      "Krize",
+      "Korupce"
+   ],
+    "people": [
+      "Milan Komárek"
+    ],
+    "entities": [
+      "Policie"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60641100-ceske-podniky-jsou-na-konci-krize-zdravejsi",
+      "http://hn.ihned.cz/c1-60641090-zajimaji-nas-politici-od-kraju-vys-rika-novy-sef-protikorupcni-policie",
+      "http://hn.ihned.cz/c1-60641080-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "0910.pdf",
+    "events": [
+      "Daně",
+      "Reformy",
+      "Automobilový průmysl"
+   ],
+    "people": [
+      "Bohuslav Sobotka",
+      "Winfried Wahland"
+    ],
+    "entities": [
+      "Škoda",
+      "ČSSD"
+    ],
+    "dds": "Petr Fischer",
+    "links": [
+      "http://hn.ihned.cz/c1-60658140-majetkova-priznani-nepujdou-do-minulosti",
+      "http://hn.ihned.cz/c1-60658130-skoda-ma-model-kterym-chce-konkurovat-golfu",
+      "http://hn.ihned.cz/c1-60658120-99-slov-petra-fischera"
+   ]
+  },
+  {
+    "file": "0911.pdf",
+    "events": [
+      "Korupce",
+      "Veřejné zakázky",
+      "Zahraničí"
+   ],
+    "people": [
+      "Vladimir Putin",
+      "Bašár Asad",
+      "Barack Obama"
+    ],
+    "entities": [
+      "Sýrie",
+      "Apple",
+      "USA"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-60674280-odklad-uderu-v-syrii-putin-zatim-vyhrava",
+      "http://hn.ihned.cz/c1-60674270-rathuv-pomnik-muzeum-za-150-milionu-ktere-ted-nikdo-nechce",
+      "http://hn.ihned.cz/c1-60674250-apple-hodla-uspet-v-cine-s-levnejsim-iphonem",
+      "http://hn.ihned.cz/c1-60674260-99-slov"
+   ]
+  },
+  {
+    "file": "0912.pdf",
+    "events": [
+      "Banky",
+      "Daně",
+      "Reformy"
+   ],
+    "people": [
+    ],
+    "entities": [
+      "Senát"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60696940-volbou-spravne-banky-lze-usetrit-tisice-rocne",
+      "http://hn.ihned.cz/c1-60696920-firmy-ziskaly-vic-casu-za-danove-platby-budou-rucit-az-pristi-rok",
+      "http://hn.ihned.cz/c1-60696930-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "0913.pdf",
+    "events": [
+      "Krize",
+      "Korupce",
+      "Sport"
+   ],
+    "people": [
+    ],
+    "entities": [
+      "Lehman Brothers"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-60712090-pet-let-krize-ceka-se-na-dalsi-lehman-brothers",
+      "http://hn.ihned.cz/c1-60712080-sefka-hracske-asociace-pozaduje-prisnejsi-financni-pravidla-pro-kluby",
+      "http://hn.ihned.cz/c1-60712070-99-slov"
+   ]
+  },
+  {
+    "file": "0916.pdf",
+    "events": [
+      "Technologie",
+      "Výzkum",
+      "Korupce"
+   ],
+    "people": [
+      "Su Ťij",
+      "Václav Havel",
+      "Dalajláma"
+    ],
+    "entities": [
+      "Cisco",
+      "CzechInvest"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-60741830-cisco-buduje-v-praze-vyvojove-centrum",
+      "http://hn.ihned.cz/c1-60741820-kauza-czechinvest-policie-obvinila-vysokeho-manazera",
+      "http://hn.ihned.cz/c1-60741800-cenu-jsem-dostala-diky-havlovi-rika-su-tij",
+      "http://hn.ihned.cz/c1-60741810-99-slov-petra-sabaty"
+   ]
+  },
+  {
+    "file": "0917.pdf",
+    "events": [
+      "Technologie",
+      "Telekomunikace",
+      "Energetika",
+      "Výzkum"
+   ],
+    "people": [
+    ],
+    "entities": [
+      "Apple",
+      "CzechInvest"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-60759360-nejvetsim-operatorem-sveta-se-stane-apple",
+      "http://hn.ihned.cz/c1-60759350-ceske-firmy-spolupracuji-s-rusy-na-vyvoji-reaktoru-budoucnosti",
+      "http://hn.ihned.cz/c1-60759340-99-slov"
+   ]
+  },
+  {
+    "file": "0918.pdf",
+    "events": [
+      "Rozpočet",
+      "Předčasné volby",
+      "Korupce"
+   ],
+    "people": [
+      "Karel Komárek",
+      "Radek Šmerda"
+    ],
+    "entities": [
+      "ČSSD",
+      "Gazprom"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-60778270-sliby-cssd-prijdou-na-desitky-miliard",
+      "http://hn.ihned.cz/c1-60778260-plynar-komarek-uzavrel-s-ruskym-gazpromem-kontrakt-za-7-5-miliardy",
+      "http://hn.ihned.cz/c1-60778250-exministr-smerda-opravuje-vilu-za-18-milionu-patri-bratrovi-tvrdi",
+      "http://hn.ihned.cz/c1-60778240-99-slov"
+   ]
+  },
+  {
+    "file": "0919.pdf",
+    "events": [
+      "Energetika",
+      "Krize"
+   ],
+    "people": [
+      "Jiří Rusnok"
+    ],
+    "entities": [
+      "Lehman Brothers",
+      "OKD"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-60800220-rusnok-ve-ztratovem-dole-vlada-tezit-nebude",
+      "http://hn.ihned.cz/c1-60800210-autor-knihy-o-padu-lehman-brothers-mam-strach-z-bank-v-eu",
+      "http://hn.ihned.cz/c1-60800200-99-slov-petra-sabaty"
+   ]
+  },
+  {
+    "file": "0920.pdf",
+    "events": [
+      "Energetika"
+   ],
+    "people": [
+      "Angela Merkel"
+    ],
+    "entities": [
+      "Německo",
+      "Evropská unie",
+      "OKD",
+      "ČSSD"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-60815690-nemci-voli-co-od-vysledku-ceka-evropa",
+      "http://hn.ihned.cz/c1-60815680-cssd-pripousti-tezbu-za-limity-uhli-by-dobyvala-polostatni-firma",
+      "http://hn.ihned.cz/c1-60815670-99-slov"
+   ]
+  },
+  {
+    "file": "0923.pdf",
+    "events": [
+      "Automobilový průmysl",
+      "Doprava"
+   ],
+    "people": [
+      "Angela Merkel"
+    ],
+    "entities": [
+      "Německo",
+      "Volkswagen",
+      "Arriva"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-60850600-volkswagen-vsadi-na-velmi-levna-auta",
+      "http://hn.ihned.cz/c1-60850610-merkelova-slavi-zvitezila-presvedcive",
+      "http://hn.ihned.cz/c1-60850590-po-autobusech-se-arriva-pousti-i-na-ceske-zeleznice",
+      "http://hn.ihned.cz/c1-60850580-99-slov-adama-cerneho"
+   ]
+  },
+  {
+    "file": "0924.pdf",
+    "events": [
+      "Energetika",
+      "Banky",
+      "Telekomunikace",
+      "Daně",
+      "Reformy"
+   ],
+    "people": [
+      "Jan Mládek"
+    ],
+    "entities": [
+      "ČSSD",
+      "Apple",
+      "Zara"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60865130-nova-dan-podle-cssd-by-firmy-stala-desitky-miliard",
+      "http://hn.ihned.cz/c1-60865110-nove-iphony-prekonaly-ocekavani-akcie-applu-rostou",
+      "http://hn.ihned.cz/c1-60865120-hodnota-odevniho-imperia-v-cele-se-zarou-prekonala-70-miliard-eur",
+      "http://hn.ihned.cz/c1-60865100-99-slov"
+   ]
+  },
+  {
+    "file": "0925.pdf",
+    "events": [
+      "Investice",
+      "Obchody roku",
+      "Koruna"
+   ],
+    "people": [
+      "Mário Hoffman",
+      "Miroslav Singer",
+      "Zdeněk Bakala",
+      "Miloš Zeman"
+    ],
+    "entities": [
+      "J&T",
+      "ČNB",
+      "OKD"
+    ],
+    "dds": "Petr Šabata",
+    "links": [
+      "http://hn.ihned.cz/c1-60877270-majetek-j-t-naroste-o-200-milionu-eur",
+      "http://hn.ihned.cz/c1-60877260-prezident-zeman-navrhuje-aby-bakala-daroval-44-000-bytu-kraji",
+      "http://hn.ihned.cz/c1-60877240-koruna-je-nejblize-intervenci-cnb-za-poslednich-jedenact-let",
+      "http://hn.ihned.cz/c1-60877250-99-slov"
+   ]
+  },
+  {
+    "file": "0926.pdf",
+    "events": [
+      "Investice",
+      "Daně",
+      "Spoření",
+      "Diplomacie"
+   ],
+    "people": [
+      "Miloš Zeman"
+    ],
+    "entities": [
+      "Senát",
+      "Sotheby's"
+    ],
+    "dds": "Petr Fischer",
+    "links": [
+      "http://hn.ihned.cz/c1-60885720-sporeni-ve-fondech-bude-od-ledna-mene-vyhodne",
+      "http://hn.ihned.cz/c1-60885710-zeman-veze-do-izraele-desitky-podnikatelu-prispevek-na-dluh-nechtel",
+      "http://hn.ihned.cz/c1-60885690-sotheby-s-nabizi-diamant-za-rekordnich-60-milionu-dolaru",
+      "http://hn.ihned.cz/c1-60885700-99-slov-petra-fischera"
+   ]
+  },
+  {
+    "file": "0927.pdf",
+    "events": [
+      "Daně",
+      "Předčasné volby",
+      "Reformy",
+      "Občanský zákoník"
+   ],
+    "people": [
+      "Martin Kuba",
+      "Miroslav Kalousek",
+      "Jan Mládek"
+    ],
+    "entities": [
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-60895170-pausaly-zustanou-slibuji-politici-zivnostnikum",
+      "http://hn.ihned.cz/c1-60895160-nove-obcanske-a-obchodni-pravo-zprisni-platnost-smluv",
+      "http://hn.ihned.cz/c1-60895150-99-slov"
+   ]
+  },
+  {
+    "file": "0930.pdf",
+    "events": [
+      "Diplomacie",
+      "Reformy"
+   ],
+    "people": [
+      "Jan Kohout",
+      "Lech Walesa",
+      "Silvio Berlusconi"
+    ],
+    "entities": [
+      "Čína",
+      "Itálie",
+      "Polsko"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-60920570-cesko-zjednodusi-viza-pro-byznys-s-cinou",
+      "http://hn.ihned.cz/c1-60920540-lech-walesa-oslavil-sedmdesatiny",
+      "http://hn.ihned.cz/c1-60920560-berlusconi-rozlozil-vladu-zemi-ceka-odklad-ekonomickych-reforem",
+      "http://hn.ihned.cz/c1-60920550-99-slov"
+   ]
   }
 ]

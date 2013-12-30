@@ -1,4 +1,4 @@
-soubory  <- list.files("..", recursive=T)
+soubory  <- list.files("../nove", recursive=T)
 soubory  <- soubory[grepl("pdf", soubory)]
 
 for (i in soubory) {

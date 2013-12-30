@@ -10,6 +10,21 @@ tags_categories =
     entities:
         assoc: {}
         arr: []
+    months:
+        assoc: {}
+        arr:
+            {tag: "Leden"}
+            {tag: "Únor"}
+            {tag: "Březen"}
+            {tag: "Duben"}
+            {tag: "Květen"}
+            {tag: "Červen"}
+            {tag: "Červenec"}
+            {tag: "Srpen"}
+            {tag: "Září"}
+            {tag: "Říjen"}
+            {tag: "Listopad"}
+            {tag: "Prosinec"}
 data.forEach (cover) ->
     for category in <[events people entities]>
         tag_category = tags_categories[category]
@@ -18,6 +33,19 @@ data.forEach (cover) ->
                 tag_category['assoc'][tag] = 0
             tag_category['assoc'][tag]++
     cover.tags = cover.events ++ cover.people ++ cover.entities
+    cover.tags.push switch cover.file.substr 0, 2
+        | \01 => "Leden"
+        | \02 => "Únor"
+        | \03 => "Březen"
+        | \04 => "Duben"
+        | \05 => "Květen"
+        | \06 => "Červen"
+        | \07 => "Červenec"
+        | \08 => "Srpen"
+        | \09 => "Září"
+        | \10 => "Říjen"
+        | \11 => "Listopad"
+        | \12 => "Prosinec"
     if cover.dds
         dds_assoc[cover.dds] = 1
         cover.tags.push cover.dds

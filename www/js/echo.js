@@ -3,7 +3,11 @@ window.Echo = (function (window, document, undefined) {
 
   'use strict';
 
-  var store = [], offset, throttle, poll;
+  var store = [],
+    offset,
+    throttle,
+    poll = null,
+    lastPoll = 0;
 
   var _inView = function (el) {
     var coords = el.getBoundingClientRect();
@@ -11,6 +15,7 @@ window.Echo = (function (window, document, undefined) {
   };
 
   var _pollImages = function () {
+    lastPoll = new Date().getTime();
     for (var i = store.length; i--;) {
       var self = store[i];
       if (_inView(self)) {
@@ -21,8 +26,14 @@ window.Echo = (function (window, document, undefined) {
   };
 
   var _throttle = function () {
-    clearTimeout(poll);
-    poll = setTimeout(_pollImages, throttle);
+    var timeDiff = new Date().getTime() - lastPoll;
+    if(poll === null && timeDiff > throttle) {
+        _pollImages();
+    } else {
+        clearTimeout(poll);
+        poll = null;
+        poll = setTimeout(_pollImages, throttle - timeDiff);
+    }
   };
 
   var init = function (obj) {

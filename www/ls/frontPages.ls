@@ -1,4 +1,5 @@
 window.FrontPages = class FrontPages
+    firstRun: yes
     (@parentElement, @detail, @data) ->
         @update!
 
@@ -41,4 +42,15 @@ window.FrontPages = class FrontPages
             ..style "left" ({index}) -> "#{index % 3 * (width + margin_x)}px"
             ..style "top" ({index}) -> "#{(Math.floor (index / 3)) * (height + margin_y)}px"
         @parentElement.style \height "#{((Math.floor(data.length / 3)) + 1) * ((height + margin_y))}px"
-        Echo.rescan!
+        if @firstRun
+            @firstRun = no
+            Echo.init do
+                offset: 300
+                throttle: 250
+                target: document.querySelector '.frontPages'
+        else
+            Echo.rescan!
+            setTimeout Echo.rescan, 400
+            setTimeout Echo.rescan, 810
+
+

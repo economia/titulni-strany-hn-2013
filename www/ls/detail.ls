@@ -4,6 +4,7 @@ window.Detail = class Detail
         @date = @parentElement.select \h1
         @links = @parentElement.select \ul
         @parentElement.select \.close .on \click @~hide
+        @parentElement.select \.bg .on \click @~hide
 
     display: (page) ->
         @date.html @getDate page

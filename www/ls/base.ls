@@ -17,7 +17,7 @@ for tag, count of tags_assoc
     tags.push {tag, count}
 dds = for tag of dds_assoc => {tag}
 tags.sort (a, b) -> b.count - a.count
-
+tags = window.topics.map (tag) -> {tag}
 detail = new Detail d3.select \.detail
 
 frontPages = new FrontPages do

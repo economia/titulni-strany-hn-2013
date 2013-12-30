@@ -9,7 +9,7 @@ window.LeftMenu = class LeftMenu
             ..selectAll "li"
                 .data tags
                 .enter!append \li
-                    ..html -> "#{it.tag} (#{it.count})"
+                    ..html -> "#{it.tag}"
         ddsList = @parentElement.select "ul.dds"
             ..selectAll "li"
                 .data dds

@@ -4534,7 +4534,8 @@
   {
     "file": "1029.pdf",
     "events": [
-      "Předčasné volby"
+      "Předčasné volby",
+      "Sestavování koalice"
     ],
     "people": [
       "Andrej Babiš",
@@ -4555,7 +4556,7 @@
   {
     "file": "1030.pdf",
     "events": [
-      "Předčasné volby",
+      "Sestavování koalice",
       "Reformy"
     ],
     "people": [
@@ -4578,7 +4579,7 @@
   {
     "file": "1031.pdf",
     "events": [
-      "Předčasné volby",
+      "Sestavování koalice",
       "Média",
       "Showbyznys"
     ],
@@ -4598,6 +4599,494 @@
       "http://hn.ihned.cz/c1-61112930-velky-pad-akcii-majitele-novy",
       "http://hn.ihned.cz/c1-61112950-piratske-servery-zacnou-prodavat-filmy-k-legalnimu-stazeni",
       "http://hn.ihned.cz/c1-61112940-99-slov-jindricha-sidlo"
+   ]
+  },
+  {
+    "file": "1101.pdf",
+    "events": [
+      "Sestavování koalice",
+      "Pohonné hmoty"
+    ],
+    "people": [
+      "Bohuslav Sobotka",
+      "Andrej Babiš",
+      "Marian Jurečka"
+    ],
+    "entities": [
+      "ČSSD",
+      "ANO",
+      "KDU-ČSL",
+      "USA"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-61121430-ano-a-lidovci-hledaji-jak-zatlacit-cssd-do-kouta",
+      "http://hn.ihned.cz/c1-61121420-akcie-rostou-dalsi-osud-trhu-ma-v-rukou-sefka-fedu",
+      "http://hn.ihned.cz/c1-61121410-pocet-prodejcu-pohonnych-hmot-spadne-na-desetinu",
+      "http://hn.ihned.cz/c1-61121400-99-slov"
+   ]
+  },
+  {
+    "file": "1104.pdf",
+    "events": [
+      "Energetika"
+    ],
+    "people": [
+      "Karel Komárek",
+      "Miroslava Němcová",
+      "Petr Fiala"
+    ],
+    "entities": [
+      "KKCG",
+      "ODS"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-61142520-komarek-zdvojnasobi-tezbu-ropy-a-plynu",
+      "http://hn.ihned.cz/c1-61142510-obcansti-demokrate-hledaji-nove-vedeni-lakaji-exministra-fialu",
+      "http://hn.ihned.cz/c1-61142500-99-slov-martina-denemarka"
+   ]
+  },
+  {
+    "file": "1105.pdf",
+    "events": [
+      "Telekomunikace",
+      "Obchody roku",
+      "Úřednická vláda"
+    ],
+    "people": [
+      "Petr Kellner",
+      "Jiří Rusnok"
+    ],
+    "entities": [
+      "PPF",
+      "Telefónica",
+      "Pražský magistrát"
+    ],
+    "dds": "Jindřich Šídlo",
+    "links": [
+      "http://hn.ihned.cz/c1-61151490-ppf-zaplati-za-telefoniku-mene-nez-se-cekalo",
+      "http://hn.ihned.cz/c1-61151480-jiri-rusnok-zakazal-dalsi-cistky-na-uradech-pokud-je-sam-neschvali",
+      "http://hn.ihned.cz/c1-61151470-konec-tajnosti-urednik-bemovy-ery-bral-stejne-jako-vicepremier",
+      "http://hn.ihned.cz/c1-61151460-99-slov"
+   ]
+  },
+  {
+    "file": "1106.pdf",
+    "events": [
+      "Předčasné volby",
+      "Telefónica"
+    ],
+    "people": [
+      "Andrej Babiš",
+      "Alexander Braun",
+      "Petr Kellner"
+    ],
+    "entities": [
+      "PPF",
+      "Telefónica",
+      "ANO",
+      "PSB"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-61162910-muz-ktery-dostal-babise-do-snemovny",
+      "http://hn.ihned.cz/c1-61162900-telefoniku-ceka-propousteni-a-spojovani-sluzeb-s-ppf",
+      "http://hn.ihned.cz/c1-61162890-99-slov-martina-denemarka"
+   ]
+  },
+  {
+    "file": "1107.pdf",
+    "events": [
+      "Reality",
+      "Technologie"
+    ],
+    "people": [
+      "Mirek Topolánek",
+      "Andrej Babiš"
+    ],
+    "entities": [
+      "Twitter",
+      "ANO"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-61173110-topolankuv-fond-skoupi-budovy-za-2-5-miliardy",
+      "http://hn.ihned.cz/c1-61173100-babis-zapojuje-velke-byznysmeny-bude-se-s-nimi-radit-o-politice",
+      "http://hn.ihned.cz/c1-61173090-99-slov-petra-honzejka"
+   ]
+  },
+  {
+    "file": "1108.pdf",
+    "events": [
+      "Koruna",
+      "Telekomunikace",
+      "Sestavování koalice"
+    ],
+    "people": [
+      "Bohuslav Sobotka",
+      "Michal Hašek",
+      "Miroslav Singer"
+    ],
+    "entities": [
+      "ČSSD",
+      "ČNB",
+      "Telefónica",
+      "PPF"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-61182770-prikaz-shora-euro-za-27-korun",
+      "http://hn.ihned.cz/c1-61182760-ceskou-telefoniku-jsme-koupili-doslova-za-mesic",
+      "http://hn.ihned.cz/c1-61182750-sobotkovo-dilema-jak-tvrde-ma-porazit-haska",
+      "http://hn.ihned.cz/c1-61182740-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "1111.pdf",
+    "events": [
+      "Daně",
+      "Sestavování koalice",
+      "Média"
+    ],
+    "people": [
+      "Bohuslav Sobotka",
+      "Vladimír Železný"
+    ],
+    "entities": [
+      "ČSSD",
+      "Policie",
+      "Mostecká uhelná",
+      "ANO"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-61205240-sobotka-couva-dan-ze-zisku-asi-nevzroste",
+      "http://hn.ihned.cz/c1-61205230-zelezny-o-divaky-prichazi-barrandov-i-kvuli-hlasatelum",
+      "http://hn.ihned.cz/c1-61205220-od-policie-odchazi-dustojnik-ktery-vedel-nejvic-o-mostecke-uhelne",
+      "http://hn.ihned.cz/c1-61205210-99-slov-petra-honzejka"
+   ]
+  },
+  {
+    "file": "1112.pdf",
+    "events": [
+      "Důchody",
+      "Sestavování koalice",
+      "Korupce"
+    ],
+    "people": [
+      "David Rath"
+    ],
+    "entities": [
+      "ČSSD",
+      "ANO",
+      "KDU-ČSL",
+      "Itálie"
+    ],
+    "dds": "Jindřich Šídlo",
+    "links": [
+      "http://hn.ihned.cz/c1-61215680-plan-cssd-reforma-penzi-skonci-1-ledna-2015",
+      "http://hn.ihned.cz/c1-61215670-david-rath-je-volny-soud-ho-pustil-z-vazby",
+      "http://hn.ihned.cz/c1-61215660-nejlepe-placeny-urednik-v-italii-ma-naucit-statni-spravu-setrit",
+      "http://hn.ihned.cz/c1-61215650-99-slov"
+   ]
+  },
+  {
+    "file": "1113.pdf",
+    "events": [
+      "Daně",
+      "Reformy",
+      "Maloobchod",
+      "Sestavování koalice"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "ČSSD",
+      "ANO",
+      "KDU-ČSL",
+      "ČEZ"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-61223220-danovi-urednici-maji-misto-pokut-vice-radit",
+      "http://hn.ihned.cz/c1-61223190-cez-oznamil-slabsi-vysledky",
+      "http://hn.ihned.cz/c1-61223210-sefku-retezce-siko-jaroslavu-valovou-nahradi-v-cele-firmy-synove",
+      "http://hn.ihned.cz/c1-61223200-99-slov"
+   ]
+  },
+  {
+    "file": "1114.pdf",
+    "events": [
+      "Diplomacie",
+      "Potraviny",
+      "Úřednická vláda",
+      "Koruna"
+    ],
+    "people": [
+      "Jiří Rusnok",
+      "Jan Fischer"
+    ],
+    "entities": [
+      "ČNB",
+      "Agrofert",
+      "Vláda"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-61230500-rysuje-se-trafika-pro-fischera",
+      "http://hn.ihned.cz/c1-61230490-se-slabou-korunou-bude-ekonomika-zit-dlouho-cnb-ceka-zisk-65-miliard",
+      "http://hn.ihned.cz/c1-61230470-zebricek-hn-prvni-damou-ceskeho-byznysu-je-simona-sokolova",
+      "http://hn.ihned.cz/c1-61230480-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "1115.pdf",
+    "events": [
+      "Krize",
+      "Technologie"
+    ],
+    "people": [
+      "Pavel Telička"
+    ],
+    "entities": [
+      "Evropská unie",
+      "Microsoft",
+      "Sony"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-61238090-konec-dohaneni-evropy-cesko-poroste-jen-pomalu",
+      "http://hn.ihned.cz/c1-61238060-predvanocni-souboj-hernich-konzoli-od-sony-a-microsoftu",
+      "http://hn.ihned.cz/c1-61238080-telicka-zavira-svoji-lobbistickou-firmu-soustredi-se-na-politiku",
+      "http://hn.ihned.cz/c1-61238070-99-slov"
+   ]
+  },
+  {
+    "file": "1118.pdf",
+    "events": [
+      "Veřejné zakázky",
+      "Úřednická vláda",
+      "Daně",
+      "Pohonné hmoty",
+      "Sport"
+    ],
+    "people": [
+      "Zdeněk Žák"
+    ],
+    "entities": [
+      "Vláda"
+    ],
+    "dds": "Petr Fischer",
+    "links": [
+      "http://hn.ihned.cz/c1-61257410-zak-nestiha-klicove-zakazky-v-doprave",
+      "http://hn.ihned.cz/c1-61257400-nejvetsi-letosni-razie-proti-podvodum-s-naftou-stat-zabavil-i-cele-pumpy",
+      "http://hn.ihned.cz/c1-61257420-cesti-teniste-obhajili-vitezstvi-v-davis-cupu",
+      "http://hn.ihned.cz/c1-61257390-99-slov-petra-fischera"
+   ]
+  },
+  {
+    "file": "1119.pdf",
+    "events": [
+      "Restituce",
+      "Doprava",
+      "Investice",
+      "Potraviny"
+    ],
+    "people": [
+    ],
+    "entities": [
+    ],
+    "dds": "Petr Fischer",
+    "links": [
+      "http://hn.ihned.cz/c1-61264630-katolicka-cirkev-spusti-investicni-fond",
+      "http://hn.ihned.cz/c1-61264620-nejvetsi-vyrobce-susenek-na-svete-investuje-v-cesku-dve-miliardy",
+      "http://hn.ihned.cz/c1-61264600-aerolinky-si-objednaly-letadla-za-temer-ctyri-biliony-korun",
+      "http://hn.ihned.cz/c1-61264610-99-slov"
+   ]
+  },
+  {
+    "file": "1120.pdf",
+    "events": [
+      "Média",
+      "Dotace",
+      "Telekomunikace"
+    ],
+    "people": [
+      "Andrej Babiš"
+    ],
+    "entities": [
+      "Agrofert",
+      "Vodafone",
+      "T-Mobile",
+      "Telefónica",
+      "Evropská unie"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-61275760-babis-chce-dal-posilit-svuj-vliv-v-mediich",
+      "http://hn.ihned.cz/c1-61275770-ctvrty-operator-do-ceska-neprijde",
+      "http://hn.ihned.cz/c1-61275750-brusel-patra-kam-odteklo-100-milionu-z-hospodarske-komory",
+      "http://hn.ihned.cz/c1-61275740-99-slov-martina-denemarka"
+   ]
+  },
+  {
+    "file": "1121.pdf",
+    "events": [
+      "Koruna"
+    ],
+    "people": [
+      "Bohuslav Sobotka",
+      "Miroslav Singer"
+    ],
+    "entities": [
+      "ČNB",
+      "Evropská unie"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-61283810-sobotka-se-stretl-s-cnb-kvuli-slabe-korune",
+      "http://hn.ihned.cz/c1-61283800-europoslanci-prosazuji-vyssi-zastoupeni-zen-ve-vedeni-velkych-firem",
+      "http://hn.ihned.cz/c1-61283780-zrzaveho-lezici-hoch-byl-vydrazen-za-rekordni-sumu",
+      "http://hn.ihned.cz/c1-61283790-99-slov"
+   ]
+  },
+  {
+    "file": "1122.pdf",
+    "events": [
+      "Daně",
+      "Showbyznys",
+      "Sestavování koalice"
+    ],
+    "people": [
+      "Bohuslav Sobotka",
+      "Andrej Babiš"
+    ],
+    "entities": [
+      "ČSSD",
+      "ANO"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-61292480-spor-o-dan-vrcholi-firmy-mohou-dostat-zpet-miliardy",
+      "http://hn.ihned.cz/c1-61292470-cssd-na-vyssich-danich-netrvame-potrebujeme-ale-miliardy-navic",
+      "http://hn.ihned.cz/c1-61292450-velky-navrat-monty-python-budou-hrat-nazivo",
+      "http://hn.ihned.cz/c1-61292460-99-slov-petra-honzejka"
+   ]
+  },
+  {
+    "file": "1125.pdf",
+    "events": [
+      "Koruna",
+      "Sestavování koalice"
+    ],
+    "people": [
+      "Václav Klaus",
+      "Andrej Babiš"
+    ],
+    "entities": [
+      "ČNB",
+      "ANO",
+      "Rusko"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-61312310-finance-ma-vest-babis-rika-sef-cssd",
+      "http://hn.ihned.cz/c1-61312320-nemel-jsem-z-ceho-vybirat-kritizuje-klaus-cleny-bankovni-rady-cnb",
+      "http://hn.ihned.cz/c1-61312300-manzel-bobosikove-bude-ridit-velkou-sklarnu-na-sibiri",
+      "http://hn.ihned.cz/c1-61312290-99-slov"
+   ]
+  },
+  {
+    "file": "1126.pdf",
+    "events": [
+      "Daně",
+      "Sestavování koalice"
+    ],
+    "people": [
+      "Bohuslav Sobotka",
+      "Andrej Babiš",
+      "Miloš Zeman"
+    ],
+    "entities": [
+      "ANO",
+      "Prezident"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-61320510-poslanci-zmeni-lustrace-aby-obesli-prezidenta",
+      "http://hn.ihned.cz/c1-61320500-pul-procenta-ceskych-firem-odvadi-statu-ctvrtinu-vsech-dani",
+      "http://hn.ihned.cz/c1-61320490-99-slov"
+   ]
+  },
+  {
+    "file": "1127.pdf",
+    "events": [
+      "Energetika",
+      "Obchody roku"
+    ],
+    "people": [
+      "Pavel Tykač",
+      "Daniel Křetínský",
+      "Miloš Zeman"
+    ],
+    "entities": [
+      "ODS",
+      "Prezident",
+      "Czech Coal",
+      "Energetický průmyslový holding"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-61328610-tykac-s-kretinskym-konci-uhelnou-valku",
+      "http://hn.ihned.cz/c1-61328590-milos-zeman-se-po-mesici-objevil-na-verejnosti",
+      "http://hn.ihned.cz/c1-61328600-tvrdy-pad-ods-ve-snemovne-ziska-misto-v-cele-jedineho-vyboru",
+      "http://hn.ihned.cz/c1-61328580-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "1128.pdf",
+    "events": [
+      "Telekomunikace",
+      "Koruna"
+    ],
+    "people": [
+      "Angela Merkel"
+    ],
+    "entities": [
+      "ČNB",
+      "Senát"
+    ],
+    "dds": "Jindřich Šídlo",
+    "links": [
+      "http://hn.ihned.cz/c1-61337410-operatori-daji-miliardy-vynosy-ale-teprve-hledaji",
+      "http://hn.ihned.cz/c1-61337420-nemecko-ma-dohodu-o-vladni-koalici-ted-ji-jen-schvalit",
+      "http://hn.ihned.cz/c1-61337400-bankovni-radu-cnb-bude-volit-senat-shoduji-se-politici",
+      "http://hn.ihned.cz/c1-61337390-99-slov"
+   ]
+  },
+  {
+    "file": "1129.pdf",
+    "events": [
+      "Maloobchod",
+      "Koruna",
+      "Sestavování koalice"
+    ],
+    "people": [
+    ],
+    "entities": [
+      "ČNB",
+      "KDU-ČSL",
+      "ČSSD",
+      "ANO",
+      "USA"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-61346490-cnb-vysala-z-trhu-eura-koruna-jeste-oslabi",
+      "http://hn.ihned.cz/c1-61346480-je-cerny-patek-vsichni-americane-jdou-nakupovat",
+      "http://hn.ihned.cz/c1-61346470-lidovci-vlada-bude-pozdeji-jednani-se-protahnou",
+      "http://hn.ihned.cz/c1-61346460-99-slov"
    ]
   }
 ]

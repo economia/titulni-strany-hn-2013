@@ -421,7 +421,7 @@
     ],
     "entities": [
       "PPF",
-      "KKCD",
+      "KKCG",
       "Prezident"
     ],
     "dds": "Petr Šabata",
@@ -1945,6 +1945,7 @@
       "Technologie"
     ],
     "people": [
+      "Antonín Koláček"
     ],
     "entities": [
       "Google",
@@ -1965,7 +1966,8 @@
       "Korupce"
     ],
     "people": [
-      "Barack Obama"
+      "Barack Obama",
+      "Antonín Koláček"
     ],
     "entities": [
       "Mostecká uhelná",
@@ -2047,6 +2049,7 @@
       "Sport"
     ],
     "people": [
+      "Antonín Koláček"
     ],
     "entities": [
       "Mostecká uhelná"
@@ -4087,6 +4090,514 @@
       "http://hn.ihned.cz/c1-60920540-lech-walesa-oslavil-sedmdesatiny",
       "http://hn.ihned.cz/c1-60920560-berlusconi-rozlozil-vladu-zemi-ceka-odklad-ekonomickych-reforem",
       "http://hn.ihned.cz/c1-60920550-99-slov"
+   ]
+  },
+  {
+    "file": "1001.pdf",
+    "events": [
+      "Telekomunikace",
+      "Technologie",
+      "Sport"
+   ],
+    "people": [
+      "Jaromír Jágr"
+    ],
+    "entities": [
+      "Google",
+      "Apple",
+      "PPF",
+      "KKCG"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-60929870-do-ceska-miri-ctvrty-mobilni-operator",
+      "http://hn.ihned.cz/c1-60929880-nhl-vyhlizi-nejlepsi-rok-v-historii",
+      "http://hn.ihned.cz/c1-60929860-google-zacina-v-cesku-po-knihach-prodavat-i-hudbu",
+      "http://hn.ihned.cz/c1-60929850-99-slov"
+   ]
+  },
+  {
+    "file": "1002.pdf",
+    "events": [
+      "Výzkum",
+      "Školství",
+      "Úřednická vláda"
+   ],
+    "people": [
+      "Jiří Rusnok",
+      "Barack Obama"
+    ],
+    "entities": [
+      "USA"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60935580-jiri-rusnok-cesti-vedci-mrhaji-penezi",
+      "http://hn.ihned.cz/c1-60935570-americka-vlada-je-bez-penez-zavrela-urady-a-hrozi-ji-bankrot",
+      "http://hn.ihned.cz/c1-60935560-99-slov"
+   ]
+  },
+  {
+    "file": "1003.pdf",
+    "events": [
+      "Investice",
+      "Krize",
+      "Obchody roku"
+   ],
+    "people": [
+      "Martin Kúšik"
+    ],
+    "entities": [
+      "Penta"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-60947030-miliardar-z-penty-zaklada-vlastni-fond",
+      "http://hn.ihned.cz/c1-60947020-pristi-rok-na-tom-budeme-lepe-mysli-si-vetsina-ceskych-firem",
+      "http://hn.ihned.cz/c1-60947010-99-slov-adama-cerneho"
+   ]
+  },
+  {
+    "file": "1004.pdf",
+    "events": [
+      "Zdravotnictví",
+      "Předčasné volby",
+      "Veřejné zakázky"
+   ],
+    "people": [
+      "Bill Gates"
+    ],
+    "entities": [
+      "ČSSD",
+      "Microsoft",
+      "České dráhy",
+      "TOP 09",
+      "ODS"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-60960090-lepsi-peci-za-penize-slibuje-uz-i-cssd",
+      "http://hn.ihned.cz/c1-60960080-drahy-mozna-prijdou-o-moderni-lokomotivy-dostaly-se-k-nim-fintou",
+      "http://hn.ihned.cz/c1-60960060-odejde-bill-gates-definitivne-z-microsoftu",
+      "http://hn.ihned.cz/c1-60960070-99-slov"
+   ]
+  },
+  {
+    "file": "1007.pdf",
+    "events": [
+      "Zaměstnanost",
+      "Reformy",
+      "Krize"
+   ],
+    "people": [
+    ],
+    "entities": [
+      "ČNB"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-60973060-castecne-uvazky-cesko-je-treti-nejhorsi-v-eu",
+      "http://hn.ihned.cz/c1-60973050-cnb-odmitla-pustit-londynsky-pojistovaci-dum-lloyd-s-do-ceska",
+      "http://hn.ihned.cz/c1-60973030-na-akciove-trhy-v-evrope-se-vraci-optimismus",
+      "http://hn.ihned.cz/c1-60973040-99-slov"
+   ]
+  },
+  {
+    "file": "1008.pdf",
+    "events": [
+      "Diplomacie",
+      "Automobilový průmysl",
+      "Daně"
+   ],
+    "people": [
+      "Miloš Zeman"
+    ],
+    "entities": [
+      "Bugatti",
+      "Izrael",
+      "Arcelor Mittal"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-60976860-zivnostnici-odvadeji-mene-nez-zamestnanci-o-ctvrtinu",
+      "http://hn.ihned.cz/c1-60976820-nejdriv-musi-byt-mir-pak-lze-stehovat-ambasady-do-jeruzalema-couva-zeman",
+      "http://hn.ihned.cz/c1-60976850-arcelormittal-pronika-s-ceskou-oceli-k-saudum",
+      "http://hn.ihned.cz/c1-60976830-bugatti-otevre-vlastni-sit-modnich-butiku",
+      "http://hn.ihned.cz/c1-60976840-99-slov"
+   ]
+  },
+  {
+    "file": "1009.pdf",
+    "events": [
+      "Koruna",
+      "Doprava",
+      "Pohonné hmoty",
+      "Korupce"
+   ],
+    "people": [
+      "David Rath"
+    ],
+    "entities": [
+      "Metrostav"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-60980260-benzin-i-nafta-zlevnuji-miri-pod-36-korun-za-litr",
+      "http://hn.ihned.cz/c1-60980590-vitezstvi-tabakove-lobby-bdquo-slimky-ldquo-prezily-konec-mentolek-se-odklada",
+      "http://hn.ihned.cz/c1-60980250-rathova-afera-zasahla-metrostav-jde-o-zakazku-za-98-5-milionu",
+      "http://hn.ihned.cz/c1-60980240-99-slov"
+   ]
+  },
+  {
+    "file": "1010.pdf",
+    "events": [
+      "Daně",
+      "Zdravotnictví",
+      "Automobilový průmysl"
+   ],
+    "people": [
+      "Janet Yellenová"
+    ],
+    "entities": [
+      "ČSSD",
+      "Senát",
+      "USA"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-60984100-senatori-cssd-potapi-danove-ulevy-pro-firmy",
+      "http://hn.ihned.cz/c1-60984130-nejmocnejsi-zenou-sveta-se-stane-janet-yellenova",
+      "http://hn.ihned.cz/c1-60984090-tatru-cekaji-zmeny-bude-delat-auta-na-zakazku",
+      "http://hn.ihned.cz/c1-60984120-soukrome-nemocnice-umi-vydelat-na-rozdil-od-krajskych",
+      "http://hn.ihned.cz/c1-60984110-99-slov-petra-honzejka"
+   ]
+  },
+  {
+    "file": "1011.pdf",
+    "events": [
+      "Reformy",
+      "Občanský zákoník",
+      "Korupce"
+   ],
+    "people": [
+      "Antonín Koláček"
+    ],
+    "entities": [
+      "Mostecká uhelná",
+      "Žalobci"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      "http://hn.ihned.cz/c1-60987820-svycarsky-soud-byvali-sefove-mus-patri-do-vezeni",
+      "http://hn.ihned.cz/c1-60987810-krach-firmy-muze-od-ledna-zruinovat-i-jeji-sefy",
+      "http://hn.ihned.cz/c1-60987800-99-slov-martina-denemarka"
+   ]
+  },
+  {
+    "file": "1014.pdf",
+    "events": [
+      "Korupce",
+      "Předčasné volby",
+      "Školství"
+   ],
+    "people": [
+      "Antonín Koláček"
+    ],
+    "entities": [
+      "Mostecká uhelná",
+      "Žalobci",
+      "Policie",
+      "Škoda Plzeň"
+
+    ],
+    "dds": "Petr Fischer",
+    "links": [
+      "http://hn.ihned.cz/c1-61000230-svycari-navedli-ceske-urady-na-dalsi-stopy",
+      "http://hn.ihned.cz/c1-61000240-do-cile-sve-posledni-velke-pardubicke-sel-josef-vana-pesky",
+      "http://hn.ihned.cz/c1-61000220-strany-pred-volbami-slibuji-vice-skolek",
+      "http://hn.ihned.cz/c1-61000210-99-slov"
+   ]
+  },
+  {
+    "file": "1015.pdf",
+    "events": [
+      "Zaměstnanost",
+      "Korupce"
+   ],
+    "people": [
+    ],
+    "entities": [
+      "Žalobci",
+      "Policie",
+      "Euro"
+
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-61005520-padl-prulomovy-trest-za-podvod-s-pojistnym",
+      "http://hn.ihned.cz/c1-61005510-trichet-pro-hn-prijeti-eura-je-v-ceskem-zajmu",
+      "http://hn.ihned.cz/c1-61005500-druhy-nejbohatsi-francouz-vybira-nastupce-pro-sve-luxusni-imperium",
+      "http://hn.ihned.cz/c1-61005490-99-slov"
+   ]
+  },
+  {
+    "file": "1016.pdf",
+    "events": [
+      "Energetika",
+      "Temelín"
+   ],
+    "people": [
+      "Daniel Beneš"
+    ],
+    "entities": [
+      "ČEZ",
+      "Telefónica"
+
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-61010840-politici-jsou-pro-temelin-ale-jen-bez-zaruk-pro-cez",
+      "http://hn.ihned.cz/c1-61010810-osm-let-telefoniky-v-cesku",
+      "http://hn.ihned.cz/c1-61010830-misto-mrakodrapu-domy-pro-seniory-janku-rozjizdi-novy-byznys",
+      "http://hn.ihned.cz/c1-61010820-99-slov-petra-honzejka"
+   ]
+  },
+  {
+    "file": "1017.pdf",
+    "events": [
+      "Banky",
+      "Obchody roku",
+      "Sport"
+   ],
+    "people": [
+      "Andrej Babiš"
+    ],
+    "entities": [
+      "USA",
+      "Agrofert",
+      "Rusko"
+
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-61016800-babis-by-rad-rozsiril-sve-imperium-i-o-banku",
+      "http://hn.ihned.cz/c1-61016790-cesky-dum-v-soci-skromnejsi-a-skoro-neviditelny",
+      "http://hn.ihned.cz/c1-61016780-usa-na-posledni-chvili-odvracely-rozpoctovy-kolaps",
+      "http://hn.ihned.cz/c1-61016770-99-slov"
+   ]
+  },
+  {
+    "file": "1018.pdf",
+    "events": [
+      "Předčasné volby",
+      "Krize",
+      "Potraviny"
+   ],
+    "people": [
+      "Andrej Babiš"
+    ],
+    "entities": [
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-61023100-firmy-citi-oziveni-strany-po-volbach-slibuji-pomoc",
+      "http://hn.ihned.cz/c1-61023080-kolik-stala-ameriku-hrozba-bankrotu",
+      "http://hn.ihned.cz/c1-61023090-vyzivove-doplnky-leti-prodejci-ocekavaji-rekordni-trzby",
+      "http://hn.ihned.cz/c1-61023070-99-slov"
+   ]
+  },
+  {
+    "file": "1021.pdf",
+    "events": [
+      "Banky",
+      "Krize",
+      "Investice"
+   ],
+    "people": [
+      "Igor Fait"
+    ],
+    "entities": [
+      "ČNB"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-61040260-cnb-urcila-ctyri-banky-jejichz-pad-by-ohrozil-cesko",
+      "http://hn.ihned.cz/c1-61040250-miliardar-fait-meni-svou-firmu-a-shani-nove-investory",
+      "http://hn.ihned.cz/c1-61040240-99-slov"
+   ]
+  },
+  {
+    "file": "1022.pdf",
+    "events": [
+      "Předčasné volby",
+      "Automobilový průmysl",
+      "Investice"
+   ],
+    "people": [
+      "Andrej Babiš"
+    ],
+    "entities": [
+      "ANO",
+      "ČSSD",
+      "Google",
+      "Apple"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-61047560-nova-vladni-varianta-cssd-s-babisem",
+      "http://hn.ihned.cz/c1-61047530-google-se-svoji-hodnotou-priblizuje-applu",
+      "http://hn.ihned.cz/c1-61047550-korejsky-vyrobce-pneumatik-zvazuje-v-cesku-investici-za-19-miliard",
+      "http://hn.ihned.cz/c1-61047540-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "1023.pdf",
+    "events": [
+      "Předčasné volby",
+      "Temelín"
+   ],
+    "people": [
+      "Karel Schwarzenberg"
+    ],
+    "entities": [
+      "ČSSD",
+      "TOP 09",
+      "Nokia",
+      "Apple",
+      "Westinghouse",
+      "Rosatom",
+      "Areva"
+    ],
+    "dds": "Adam Černý",
+    "links": [
+      "http://hn.ihned.cz/c1-61055100-politici-na-lovu-tesne-pred-volbami-cili-na-firmy",
+      "http://hn.ihned.cz/c1-61055090-soud-vysel-vstric-areve-dostavba-temelina-se-muze-znovu-oddalit",
+      "http://hn.ihned.cz/c1-61055070-nokia-ma-prvni-tablet-apple-170-milionu",
+      "http://hn.ihned.cz/c1-61055080-99-slov"
+   ]
+  },
+  {
+    "file": "1024.pdf",
+    "events": [
+      "Předčasné volby",
+      "Veřejné zakázky",
+      "Export",
+      "Školství"
+   ],
+    "people": [
+      "Martin Kuba",
+      "Bohuslav Sobotka"
+    ],
+    "entities": [
+      "Evropská unie",
+      "TOP 09",
+      "ČSSD",
+      "KDU-ČSL",
+      "ANO"
+      
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      "http://hn.ihned.cz/c1-61062770-sliby-levice-nejspis-narazi-v-bruselu",
+      "http://hn.ihned.cz/c1-61062760-na-profesorska-mista-chce-novy-rektor-cvut-dostat-odborniky-z-podniku",
+      "http://hn.ihned.cz/c1-61062750-cesi-postavi-za-pul-miliardy-pivovar-v-etiopii",
+      "http://hn.ihned.cz/c1-61062740-99-slov"
+   ]
+  },
+  {
+    "file": "1025.pdf",
+    "events": [
+      "Předčasné volby",
+      "Energetika"
+   ],
+    "people": [
+      "Andrej Babiš",
+      "Bohuslav Sobotka",
+      "Miloš Zeman",
+      "Martin Roman"
+    ],
+    "entities": [
+      "TOP 09",
+      "ČSSD",
+      "KDU-ČSL",
+      "ANO",
+      "SPOZ",
+      "ODS"
+      
+    ],
+    "dds": null,
+    "links": [
+      "http://hn.ihned.cz/c1-61071850-sobotka-babis-nebo-zeman",
+      "http://hn.ihned.cz/c1-61071840-louceni-martina-romana-s-cez"
+   ]
+  },
+  {
+    "file": "1029.pdf",
+    "events": [
+      "Předčasné volby"
+    ],
+    "people": [
+      "Andrej Babiš",
+      "Bohuslav Sobotka",
+      "Miloš Zeman"
+    ],
+    "entities": [
+      "ČSSD",
+      "ANO"
+      
+    ],
+    "dds": "Vladimír Piskáček",
+    "links": [
+      "http://hn.ihned.cz/c1-61094970-v-zemi-babise-a-zemana",
+      "http://hn.ihned.cz/c1-61094960-99-slov"
+   ]
+  },
+  {
+    "file": "1030.pdf",
+    "events": [
+      "Předčasné volby",
+      "Reformy"
+    ],
+    "people": [
+      "Andrej Babiš",
+      "Bohuslav Sobotka",
+      "Michal Hašek"
+    ],
+    "entities": [
+      "ČSSD",
+      "ANO"
+      
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      "http://hn.ihned.cz/c1-61103720-babis-znovu-vyrazi-na-turne-kvuli-vlade",
+      "http://hn.ihned.cz/c1-61103710-svet-usnadnuje-podminky-pro-podnikani-cesko-stoji-na-miste",
+      "http://hn.ihned.cz/c1-61103700-99-slov-petra-kamberskeho"
+   ]
+  },
+  {
+    "file": "1031.pdf",
+    "events": [
+      "Předčasné volby",
+      "Média",
+      "Showbyznys"
+    ],
+    "people": [
+      "Bohuslav Sobotka",
+      "Michal Hašek",
+      "Miloš Zeman"
+    ],
+    "entities": [
+      "ČSSD",
+      "Nova",
+      "Prezident"
+    ],
+    "dds": "Jindřich Šídlo",
+    "links": [
+      "http://hn.ihned.cz/c1-61112960-lzi-o-lanech-obratily-cssd-proti-haskovi",
+      "http://hn.ihned.cz/c1-61112930-velky-pad-akcii-majitele-novy",
+      "http://hn.ihned.cz/c1-61112950-piratske-servery-zacnou-prodavat-filmy-k-legalnimu-stazeni",
+      "http://hn.ihned.cz/c1-61112940-99-slov-jindricha-sidlo"
    ]
   }
 ]

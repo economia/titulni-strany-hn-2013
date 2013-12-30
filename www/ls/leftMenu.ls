@@ -1,5 +1,5 @@
 window.LeftMenu = class LeftMenu
-    (@parentElement, frontPages, tags, dds) ->
+    (@parentElement, frontPages, tags, tags_categories, dds) ->
         secondaryHeaders = @parentElement.selectAll "h2"
             ..on \mousedown ->
                 d3.event.preventDefault!
@@ -15,6 +15,12 @@ window.LeftMenu = class LeftMenu
                 .data dds
                 .enter!append \li
                     ..html (.tag)
+        for category, {arr} of tags_categories
+            @parentElement.select "ul.#category"
+                ..selectAll \li
+                    .data arr
+                    .enter!append \li
+                        ..html (.tag)
         allItems = @parentElement.selectAll "li"
             ..on \click ->
                 if @className == "active"

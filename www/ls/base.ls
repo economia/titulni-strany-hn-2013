@@ -18,6 +18,7 @@ detail = new Detail d3.select \.detail
 
 frontPages = new FrontPages do
     d3.select ".frontPages .content"
+    d3.select ".frontPages"
     detail
     data
 

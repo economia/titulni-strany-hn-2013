@@ -1,6 +1,6 @@
 window.FrontPages = class FrontPages
     firstRun: yes
-    (@parentElement, @detail, @data) ->
+    (@parentElement, @scrollElement, @detail, @data) ->
         @update!
 
     update: (term) ->
@@ -52,5 +52,6 @@ window.FrontPages = class FrontPages
             Echo.rescan!
             setTimeout Echo.rescan, 400
             setTimeout Echo.rescan, 810
+        @scrollElement.0.0.scrollTop = 0
 
 

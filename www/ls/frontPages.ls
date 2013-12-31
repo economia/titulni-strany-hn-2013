@@ -27,6 +27,7 @@ window.FrontPages = class FrontPages
                 term in it.tags
         else
             @data
+        @detail.allData = data
         sel = @parentElement.selectAll "div.page.active"
             .data data, (.file)
         for datum, index in data

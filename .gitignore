@@ -4,6 +4,7 @@
 .DS_Store
 /node_modules
 /lib
+/srv/publisher.ls
 /www/screen.css
 /www/external.css
 /www/external.js

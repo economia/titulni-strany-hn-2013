@@ -49,12 +49,21 @@ data.forEach (cover) ->
     if cover.dds
         dds_assoc[cover.dds] = 1
         cover.tags.push cover.dds
+sorter = (a, b) ->
+    if a.tag > b.tag
+        1
+    else if b.tag > a.tag
+        -1
+    else
+        0
+
 for category in <[events people entities]>
     tag_category = tags_categories[category]
     for tag, count of tag_category['assoc']
         tag_category['arr'].push {tag, count}
-tag_category['arr'].sort (a, b) -> b.count - a.count
+    tag_category['arr'].sort sorter
 dds = for tag of dds_assoc => {tag}
+dds.sort sorter
 tags = window.topics.map (tag) -> {tag}
 detail = new Detail d3.select \.detail
 

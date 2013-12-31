@@ -15,8 +15,8 @@ window.Detail = class Detail
             .data page.links
             .enter!append \li
                 ..append \a
-                    ..html -> it
-                    ..attr \href -> it
+                    ..html (.title)
+                    ..attr \href (.link)
                     ..attr \target \_top
 
     hide: ->

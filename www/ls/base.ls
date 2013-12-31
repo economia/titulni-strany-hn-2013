@@ -1,4 +1,4 @@
-(err, data) <~ d3.json "../data/meta.json"
+(err, data) <~ d3.json "../data/meta_named.json"
 dds_assoc = []
 tags_categories =
     events:

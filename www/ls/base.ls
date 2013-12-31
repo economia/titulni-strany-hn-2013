@@ -65,6 +65,7 @@ for category in <[events people entities]>
 dds = for tag of dds_assoc => {tag}
 dds.sort sorter
 tags = window.topics.map (tag) -> {tag}
+tags.push tag: "Všechny události"
 detail = new Detail d3.select \.detail
 
 frontPages = new FrontPages do

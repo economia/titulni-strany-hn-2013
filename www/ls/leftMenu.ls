@@ -23,10 +23,14 @@ window.LeftMenu = class LeftMenu
                         ..html (.tag)
         allItems = @parentElement.selectAll "li"
             ..on \click ->
-                if @className == "active"
+                | it.tag == "Všechny události"
+                    @className = "active"
+                    allItems.classed \active no
+                    frontPages.update!
+                | @className == "active"
                     @className = ""
                     frontPages.update!
-                else
+                | otherwise
                     allItems.classed \active no
                     @className = "active"
                     frontPages.update it.tag

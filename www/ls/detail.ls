@@ -5,6 +5,8 @@ window.Detail = class Detail
         @links = @parentElement.select \ul
         @parentElement.select \.close .on \click @~hide
         @parentElement.select \.bg .on \click @~hide
+        @parentElement.select \.arrLeft .on \click @~prev
+        @parentElement.select \.arrRight .on \click @~next
         @currentIndex = 0
         d3.select document .on \keydown ~>
             return if not @displayed

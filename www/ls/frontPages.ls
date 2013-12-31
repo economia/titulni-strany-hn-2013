@@ -1,3 +1,17 @@
+months =
+    "--"
+    "ledna"
+    "února"
+    "března"
+    "dubna"
+    "května"
+    "června"
+    "července"
+    "srpna"
+    "září"
+    "října"
+    "listopadd"
+    "prosince"
 window.FrontPages = class FrontPages
     firstRun: yes
     (@parentElement, @scrollElement, @detail, @data) ->
@@ -28,6 +42,15 @@ window.FrontPages = class FrontPages
                         "../data/thumb/#src"
                     ..attr \width "#{width}px"
                     ..attr \height "#{height}px"
+                ..append \span
+                    ..html ->
+                        month = parseInt do
+                            it.file.substr 0, 2
+                            10
+                        day = parseInt do
+                            it.file.substr 2, 2
+                            10
+                        "#{day}. #{months[month]}"
                 ..on \click ~> @detail.display it
                 ..transition!
                     ..delay 1

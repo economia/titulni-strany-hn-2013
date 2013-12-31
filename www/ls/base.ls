@@ -70,7 +70,9 @@ dds = for tag of dds_assoc => {tag}
 dds.sort sorter
 tags = window.topics.map (tag) -> {tag}
 tags.push tag: "Všechny události"
-detail = new Detail d3.select \.detail
+detail = new Detail do
+    d3.select \.detail
+    data
 
 frontPages = new FrontPages do
     d3.select ".frontPages .content"

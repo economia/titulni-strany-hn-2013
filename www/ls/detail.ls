@@ -1,12 +1,20 @@
 window.Detail = class Detail
-    (@parentElement) ->
+    (@parentElement, @allData) ->
         @img = @parentElement.select \img
         @date = @parentElement.select \h1
         @links = @parentElement.select \ul
         @parentElement.select \.close .on \click @~hide
         @parentElement.select \.bg .on \click @~hide
+        @currentIndex = 0
+        d3.select document .on \keydown ~>
+            return if not @displayed
+            switch d3.event.keyCode
+            | 39 => @next!
+            | 37 => @prev!
 
     display: (page) ->
+        @displayed = yes
+        @currentIndex = @allData.indexOf page
         @date.html @getDate page
         @parentElement.classed \active yes
         @img.attr \src "../data/full/#{page.file.replace '.pdf' '.png'}"
@@ -19,7 +27,19 @@ window.Detail = class Detail
                     ..attr \href (.link)
                     ..attr \target \_blank
 
+    next: ->
+        @currentIndex++
+        @currentIndex = @currentIndex % @allData.length
+        @display @allData[@currentIndex]
+
+    prev: ->
+        if @currentIndex < 1
+            @currentIndex = @allData.length
+        @currentIndex--
+        @display @allData[@currentIndex]
+
     hide: ->
+        @displayed = no
         @parentElement.classed \active no
 
 

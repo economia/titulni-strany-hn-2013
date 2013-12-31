@@ -17,7 +17,7 @@ window.Detail = class Detail
                 ..append \a
                     ..html (.title)
                     ..attr \href (.link)
-                    ..attr \target \_top
+                    ..attr \target \_blank
 
     hide: ->
         @parentElement.classed \active no

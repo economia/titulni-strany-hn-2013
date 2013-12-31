@@ -7535,5 +7535,662 @@
         "title": "99 slov Petra Kamberského"
       }
     ]
+  },
+  {
+    "file": "1202.pdf",
+    "events": [
+      "Reality",
+      "Reformy",
+      "Sestavování koalice"
+    ],
+    "people": [
+      "Věra Jourová"
+    ],
+    "entities": [
+      "ANO",
+      "Penta",
+      "Ukrajina",
+      "ČSSD"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61369290-post-superurednika-by-mohl-vzniknout-do-pul-roku",
+        "title": "Post superúředníka by mohl vzniknout do půl roku"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61369280-praha-brzy-zazije-velke-manazerske-stehovani",
+        "title": "Praha brzy zažije velké manažerské stěhování"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61369270-statisice-lidi-pozaduji-v-kyjeve-novou-revoluci",
+        "title": "Statisíce lidí požadují v Kyjevě novou revoluci"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61369260-99-slov-martina-denemarka",
+        "title": "99 slov Martina Denemarka"
+      }
+    ]
+  },
+  {
+    "file": "1203.pdf",
+    "events": [
+      "Export",
+      "Zdravotnictví"
+    ],
+    "people": [],
+    "entities": [
+      "Rusko",
+      "Ukrajina"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61378250-cesky-export-do-ruska-se-blizi-rekordu",
+        "title": "Český export do Ruska se blíží rekordu"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61378240-lekari-mene-prescasu-nechteji-prisli-by-o-penize",
+        "title": "Lékaři méně přesčasů nechtějí. Přišli by o peníze"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61378220-ukrajinska-opozice-ovladla-ulice-kyjeva-demonstranti-blokuji-sidlo-vlady",
+        "title": "Ukrajinská opozice ovládla ulice Kyjeva, demonstranti blokují sídlo vlády"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61378230-99-slov",
+        "title": "99 slov Martina Denemarka"
+      }
+    ]
+  },
+  {
+    "file": "1204.pdf",
+    "events": [
+      "Koruna",
+      "Banky",
+      "Sport",
+      "Diplomacie"
+    ],
+    "people": [
+      "Miloš Zeman",
+      "Vladimir Putin"
+    ],
+    "entities": [
+      "Rusko",
+      "USA",
+      "ČNB"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61387760-v-bankach-uz-se-euro-nekoupi-pod-28-korun",
+        "title": "V bankách už se euro nekoupí pod 28 korun"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61387750-zeman-pojede-na-zahajeni-her-v-soci-ma-se-tam-potkat-s-putinem",
+        "title": "Zeman pojede na zahájení her v Soči, má se tam potkat s Putinem"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61387740-detroit-zbankrotoval-dluzi-18-miliard-dolaru",
+        "title": "Detroit zbankrotoval. Dluží 18 miliard dolarů"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61387730-99-slov",
+        "title": "99 slov Petra Kamberského"
+      }
+    ]
+  },
+  {
+    "file": "1205.pdf",
+    "events": [
+      "Úřednická vláda",
+      "Zločin a trest"
+    ],
+    "people": [
+      "Jan Fischer"
+    ],
+    "entities": [
+      "ČEZ",
+      "Rumunsko"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61397550-fischer-odvola-ze-statnich-firem-pres-dvacet-lidi",
+        "title": "Fischer odvolá ze státních firem přes dvacet lidí"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61399160-cesky-manazer-byl-odsouzen-v-prvnim-pripadu-spionaze-od-padu-ceauseska",
+        "title": "Český manažer byl odsouzen v prvním případu špionáže od pádu Ceauseska"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61397540-firmou-roku-je-grund-nejlepsim-zivnostnikem-sklar-karel-sobotka",
+        "title": "Firmou roku je Grund, nejlepším živnostníkem sklář Karel Sobotka"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61397530-99-slov",
+        "title": "99 slov Petra Honzejka"
+      }
+    ]
+  },
+  {
+    "file": "1206.pdf",
+    "events": [
+      "Zločin a trest",
+      "Maloobchod"
+    ],
+    "people": [
+      "Miroslava Němcová",
+      "Petr Fiala",
+      "Nelson Mandela"
+    ],
+    "entities": [
+      "Amazon",
+      "ODS"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61405770-soud-tresta-sikanu-podvod-s-rakvemi-miri-do-ucebnic",
+        "title": "Soud trestá šikanu: podvod s rakvemi míří do učebnic"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61405760-zemrel-nelson-mandela-jizni-afrika-ztratila-oporu",
+        "title": "Zemřel Nelson Mandela, Jižní Afrika ztratila oporu"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61405750-",
+        "title": null
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61405740-nemcova-uvolni-cestu-do-cela-ods-exministru-petru-fialovi",
+        "title": "Němcová uvolní cestu do čela ODS exministru Petru Fialovi"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61405730-99-slov",
+        "title": "99 slov Petra Kamberského"
+      }
+    ]
+  },
+  {
+    "file": "1209.pdf",
+    "events": [
+      "Sestavování koalice",
+      "Daně",
+      "Banky"
+    ],
+    "people": [
+      "Martin Pecina",
+      "Petr Lessy"
+    ],
+    "entities": [
+      "Policie",
+      "ČSSD",
+      "ANO",
+      "Policie",
+      "Komerční banka"
+    ],
+    "dds": "Petr Fischer",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61420150-sleva-na-dite-vzroste-prispet-maji-i-banky",
+        "title": "Sleva na dítě vzroste, přispět mají i banky"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61420140-novy-sef-komercni-banky-cesi-maji-zenovy-pristup-k-zivotu",
+        "title": "Nový šéf Komerční banky: Češi mají zenový přístup k životu"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61420130-policejniho-sefa-vybere-pecina-i-navzdory-nazoru-hradu",
+        "title": "Policejního šéfa vybere Pecina i navzdory názoru Hradu"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61420120-99-slov-petra-fischera",
+        "title": "99 slov Petra Fischera"
+      }
+    ]
+  },
+  {
+    "file": "1210.pdf",
+    "events": [
+      "Reality",
+      "Daně",
+      "Banky",
+      "Sestavování koalice"
+    ],
+    "people": [
+      "Andrej Babiš"
+    ],
+    "entities": [
+      "Penta",
+      "Pražský magistrát",
+      "Ukrajina",
+      "ANO"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61424100-penta-ma-ziskat-velke-pozemky-v-centru-prahy",
+        "title": "Penta má získat velké pozemky v centru Prahy"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61424090-babis-o-bankovni-dani-se-muzeme-bavit-nejdriv-za-dva-roky",
+        "title": "Babiš: O bankovní dani se můžeme bavit nejdřív za dva roky"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61424070-kvuli-protestum-prudce-rostou-uroky-ukrajinskych-dluhopisu",
+        "title": "Kvůli protestům prudce rostou úroky ukrajinských dluhopisů"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61424080-99-slov",
+        "title": "99 slov Petra honzejka"
+      }
+    ]
+  },
+  {
+    "file": "1211.pdf",
+    "events": [
+      "Daně",
+      "Sestavování koalice",
+      "Automobilový průmysl"
+    ],
+    "people": [
+      "Bohuslav Sobotka"
+    ],
+    "entities": [
+      "ČSSD"
+    ],
+    "dds": "Petr Kamberský",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61430250-na-vybrane-zivnostniky-se-chysta-nova-dan",
+        "title": "Na vybrané živnostníky se chystá nová daň"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61430220-general-motors-bude-ridit-mary-barraova",
+        "title": "General Motors bude řídit Mary Barraová"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61430240-moderni-je-se-neholit-vyrobcum-ziletek-to-kazi-byznys",
+        "title": "Moderní je se neholit, výrobcům žiletek to kazí byznys"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61430230-99-slov",
+        "title": "99 slov Petra Kamberského"
+      }
+    ]
+  },
+  {
+    "file": "1212.pdf",
+    "events": [
+      "Daně",
+      "Sestavování koalice",
+      "Technologie",
+      "Energetika",
+      "Temelín"
+    ],
+    "people": [],
+    "entities": [
+      "ČSSD",
+      "ČEZ",
+      "Foxconn",
+      "ANO",
+      "KDU-ČSL"
+    ],
+    "dds": "Jndřich Šídlo",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61435240-cssd-zvlastni-dan-bude-pro-banky-i-energetiku",
+        "title": "ČSSD: Zvláštní daň bude pro banky i energetiku"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61435230-cez-chce-pro-temelin-zarucit-podobnou-vysi-ceny-jako-v-britanii",
+        "title": "ČEZ chce pro Temelín zaručit podobnou výši ceny jako v Británii"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61435220-ruske-tablety-z-pardubic-maji-zaplavit-evropu",
+        "title": "Ruské tablety z Pardubic mají zaplavit Evropu"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61435210-99-slov",
+        "title": "99 slov Jindřicha Šídla"
+      }
+    ]
+  },
+  {
+    "file": "1213.pdf",
+    "events": [
+      "Daně",
+      "Sestavování koalice",
+      "Energetika",
+      "Sport"
+    ],
+    "people": [
+      "Jan Mládek"
+    ],
+    "entities": [
+      "ČSSD",
+      "ANO",
+      "Energetický regulační úřad"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61440690-vznika-vlada-docasne-odlozenych-sporu",
+        "title": "Vzniká vláda dočasně odložených sporů"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61440680-vitaskova-stehuje-urad-kteremu-sefuje-do-regionu-odkud-pochazi",
+        "title": "Vitásková stěhuje úřad, kterému šéfuje. Do regionu, odkud pochází"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61440660-tenista-nadal-vyhral-turnaj-v-pokeru",
+        "title": "Tenista Nadal vyhrál turnaj. V pokeru"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61440670-99-slov",
+        "title": "99 slov Petra Honzejka"
+      }
+    ]
+  },
+  {
+    "file": "1216.pdf",
+    "events": [
+      "Investice",
+      "Export",
+      "Odcházení"
+    ],
+    "people": [
+      "Nelson Mandela"
+    ],
+    "entities": [
+      "J&T"
+    ],
+    "dds": "Petr Fischer",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61450850-financni-dravci-si-deli-miliardovy-majetek",
+        "title": "Finanční dravci si dělí miliardový majetek"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61450840-porazka-l-159-v-iraku-miliardovy-obchod-uzavrou-korejci",
+        "title": "Porážka L-159 v Iráku - miliardový obchod uzavřou Korejci"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61450820-svet-se-poklonil-nelsonu-mandelovi",
+        "title": "Svět se poklonil Nelsonu Mandelovi"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61450830-99-slov-petra-fischera",
+        "title": "99 slov Petra Fischera"
+      }
+    ]
+  },
+  {
+    "file": "1217.pdf",
+    "events": [
+      "Reality",
+      "Diplomacie",
+      "Úřednická vláda",
+      "Sport"
+    ],
+    "people": [
+      "Jan Kohout"
+    ],
+    "entities": [
+      "J&T",
+      "Rusko",
+      "USA"
+    ],
+    "dds": "Jindřich Šídlo",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61457700-chysta-se-vymena-klicovych-velvyslancu",
+        "title": "Chystá se výměna klíčových velvyslanců"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61457670-slovenska-j-t-kupuje-prazsky-intercontinental",
+        "title": "Slovenská J&T kupuje pražský Intercontinental"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61457690-nikdy-nestal-na-bezkach-investor-ze-silicon-valley-ale-chce-do-soci",
+        "title": "Nikdy nestál na běžkách. Investor ze Silicon Valley ale chce do Soči"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61457680-99-slov-jindricha-sidla",
+        "title": "99 slov Jindřicha Šídla"
+      }
+    ]
+  },
+  {
+    "file": "1218.pdf",
+    "events": [
+      "Úřednická vláda",
+      "Reality"
+    ],
+    "people": [
+      "Jiří Rusnok",
+      "Miloš Zeman",
+      "Angela Merkel"
+    ],
+    "entities": [
+      "ČNB",
+      "Německo"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61461430-zeman-posle-rusnoka-do-cnb-uz-od-brezna",
+        "title": "Zeman pošle Rusnoka do ČNB už od března"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61461400-merkelova-se-potreti-stala-kanclerkou",
+        "title": "Merkelová se potřetí stala kancléřkou"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61461420-kancelare-v-praze-zastaravaji-najemci-si-proto-mohou-vyjednat-lepsi-ceny",
+        "title": "Kanceláře v Praze zastarávají, nájemci si proto mohou vyjednat lepší ceny"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61461410-99-slov",
+        "title": "99 slov Petra Honzejka"
+      }
+    ]
+  },
+  {
+    "file": "1219.pdf",
+    "events": [
+      "Zaměstnanost",
+      "Školství",
+      "Odcházení",
+      "Sestavování koalice"
+    ],
+    "people": [
+      "Václav Havel",
+      "Pavel Telička",
+      "Bohuslav Sobotka"
+    ],
+    "entities": [
+      "Evropská unie"
+    ],
+    "dds": "Petr Fischer",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61468210-pracovni-trh-zahltili-absolventi-univerzit",
+        "title": "Pracovní trh zahltili absolventi univerzit"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61468220-sobotka-nechce-telicku-navzdy-bude-za-lobbistu",
+        "title": "Sobotka nechce Teličku: Navždy bude za lobbistu"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61468230-cesko-vzpominalo-na-vaclava-havla",
+        "title": "Česko vzpomínalo na Václava Havla"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61468200-99-slov-petra-fischera",
+        "title": "99 slov Petra Fischera"
+      }
+    ]
+  },
+  {
+    "file": "1220.pdf",
+    "events": [
+      "Banky",
+      "Úvěry",
+      "Obchody roku",
+      "Sestavování koalice"
+    ],
+    "people": [
+      "Petr Kellner",
+      "Vladimir Putin",
+      "Bohuslav Sobotka"
+    ],
+    "entities": [
+      "PPF",
+      "ČSSD",
+      "KDU-ČSL",
+      "Rusko"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61472350-kellner-ziskal-nejvetsi-uver-v-ceske-historii",
+        "title": "Kellner získal největší úvěr v české historii"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61472340-sobotka-cekam-na-kdu-do-konce-roku-pak-zacnu-jinak",
+        "title": "Sobotka: Čekám na KDU do konce roku, pak začnu jinak"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61472320-putin-da-pred-olympiadou-milost-chodorkovskemu",
+        "title": "Putin dá před olympiádou milost Chodorkovskému"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61472330-99-slov",
+        "title": "99 slov Petra Honzejka"
+      }
+    ]
+  },
+  {
+    "file": "1223.pdf",
+    "events": [
+      "Obchody roku"
+    ],
+    "people": [
+      "Petr Kellner",
+      "Pavel Tykač"
+    ],
+    "entities": [
+      "PPF",
+      "Telefónica",
+      "RWE",
+      "Czech Coal",
+      "ČEZ"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61479450-pro-ceske-miliardare-je-byznys-doma-opet-in",
+        "title": "Pro české miliardáře je byznys doma opět \"in\""
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61479440-pomahal-s-privatizaci-staropramene-pak-pro-cechy-objevil-nesboho",
+        "title": "Pomáhal s privatizací Staropramene, pak pro Čechy objevil Nesboho"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61479430-99-slov-petra-honzejka",
+        "title": "99 slov Petra Honzejka"
+      }
+    ]
+  },
+  {
+    "file": "1227.pdf",
+    "events": [
+      "Prezidentské volby",
+      "Úřednická vláda",
+      "Sestavování koalice"
+    ],
+    "people": [
+      "Miloš Zeman",
+      "Jiří Rusnok",
+      "Bohuslav Sobotka",
+      "Janet Yellenová"
+    ],
+    "entities": [
+      "ČSSD",
+      "Prezident"
+    ],
+    "dds": "Martin Denemark",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61486080-ceskou-politiku-nejvic-zmenil-nastup-zemana",
+        "title": "Českou politiku nejvíc změnil nástup Zemana"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61486070-schuzka-mezi-svatky-nebude-sobotka-pujde-na-hrad-az-v-lednu",
+        "title": "Schůzka mezi svátky nebude, Sobotka půjde na Hrad až v lednu"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61486060-99-slov-martina-denemarka",
+        "title": "99 slov Martina Denemarka"
+      }
+    ]
+  },
+  {
+    "file": "1230.pdf",
+    "events": [
+      "Sestavování koalice",
+      "Předčasné volby"
+    ],
+    "people": [
+      "Bohuslav Sobotka"
+    ],
+    "entities": [
+      "ČSSD"
+    ],
+    "dds": "Petr Honzejk",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61495140-sobotka-muz-ktery-vyhral-sobe-navzdory",
+        "title": "Sobotka, muž, který vyhrál sobě navzdory"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61495130-roman-vanek-chysta-kucharskou-skolu-po-vzoru-le-cordon-bleu",
+        "title": "Roman Vaněk chystá kuchařskou školu po vzoru Le Cordon Bleu"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61495120-99-slov-petra-honzejka",
+        "title": "99 slov Petra Honzejka"
+      }
+    ]
+  },
+  {
+    "file": "1231.pdf",
+    "events": [
+      "Sport"
+    ],
+    "people": [
+      "Andrej Babiš",
+      "Vladimir Putin"
+    ],
+    "entities": [
+      "Rusko"
+    ],
+    "dds": "Jindřich Šídlo",
+    "links": [
+      {
+        "link": "http://hn.ihned.cz/c1-61498940-olympijske-rusko-desi-teroriste",
+        "title": "Olympijské Rusko děsí teroristé"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61498930-osobnosti-byznysu-je-zbynek-frolik-jednickou-politiky-andrej-babis",
+        "title": "Osobností byznysu je Zbyněk Frolík, jedničkou politiky Andrej Babiš"
+      },
+      {
+        "link": "http://hn.ihned.cz/c1-61498920-99-slov",
+        "title": "99 slov Jindřicha Šídla"
+      }
+    ]
   }
 ]

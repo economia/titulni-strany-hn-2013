@@ -1,5 +1,6 @@
 window.topics =
-    "Amnestie"
+    "Klaus propustil tisíce vězňů"
+    "Konec krize?"
     "Prezidentské volby"
     "Pád vlády"
     "Předčasné volby"

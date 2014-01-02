@@ -23,14 +23,17 @@ window.LeftMenu = class LeftMenu
                         ..html (.tag)
         allItems = @parentElement.selectAll "li"
             ..on \click ->
-                | it.tag == "Všechny titulní strany"
-                    @className = "active"
-                    allItems.classed \active no
-                    frontPages.update!
                 | @className == "active"
                     @className = ""
+                    cancel.classed \active no
                     frontPages.update!
                 | otherwise
                     allItems.classed \active no
+                    cancel.classed \active yes
                     @className = "active"
                     frontPages.update it.tag
+        cancel = d3.select \ul.cancel
+            ..on \click ->
+                allItems.classed \active no
+                cancel.classed \active no
+                frontPages.update!

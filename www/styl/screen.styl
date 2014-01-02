@@ -11,3 +11,27 @@ body
         @import frontPages
     .detail
         @import detail
+    .cancel
+        position absolute
+        bottom 0px
+        left -300px
+        transition left 0.8s
+        list-style-type none
+        padding 0px
+        margin 0px
+        width 220px
+        li
+            font-size 1em
+            margin 0px
+            padding 8px 10px 5px 10px
+            font-weight bold
+            text-transform uppercase
+            background #888
+            color white
+            &:hover
+                cursor pointer
+                background #aaa
+            &:active
+                background #666
+        &.active
+            left 0px

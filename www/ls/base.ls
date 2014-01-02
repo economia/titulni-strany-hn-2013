@@ -71,7 +71,7 @@ for named_category in [dds, tags_categories.people.arr]
     named_category.sort sorter
 
 tags = window.topics.map (tag) -> {tag}
-tags.push tag: "Všechny události"
+tags.push tag: "Všechny titulní strany"
 detail = new Detail do
     d3.select \.detail
     data

@@ -32,7 +32,7 @@ data.forEach (cover) ->
             if tag_category['assoc'][tag] is void
                 tag_category['assoc'][tag] = 0
             tag_category['assoc'][tag]++
-    cover.tags = cover.events ++ cover.people ++ cover.entities
+    cover.tags = cover.events ++ cover.people ++ cover.entities ++ cover.stories
     cover.tags.push switch cover.file.substr 0, 2
         | \01 => "Leden"
         | \02 => "Únor"

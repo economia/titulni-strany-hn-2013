@@ -54,20 +54,26 @@ data.forEach (cover) ->
         dds_assoc[cover.dds] = 1
         cover.tags.push cover.dds
 sorter = (a, b) ->
-    if a.tag > b.tag
+    if (a.sortTag || a.tag) > (b.sortTag || b.tag)
         1
-    else if b.tag > a.tag
+    else if (b.sortTag || b.tag) > (a.sortTag || a.tag)
         -1
     else
         0
-
 for category in <[events people entities]>
     tag_category = tags_categories[category]
     for tag, count of tag_category['assoc']
-        tag_category['arr'].push {tag, count}
+        sortTag = tag.stripDiacritics!
+        tag_category['arr'].push {tag, sortTag, count}
     tag_category['arr'].sort sorter
-dds = for tag of dds_assoc => {tag}
-dds.sort sorter
+dds = for tag of dds_assoc
+    sortTag = tag.stripDiacritics!
+    {tag, sortTag}
+for named_category in [dds, tags_categories.people.arr]
+    for {sortTag}:name in named_category
+        name.sortTag = sortTag.split " " .1
+    named_category.sort sorter
+
 tags = window.topics.map (tag) -> {tag}
 tags.push tag: "Všechny události"
 detail = new Detail do

@@ -25,10 +25,6 @@ tags_categories =
             {tag: "Říjen"}
             {tag: "Listopad"}
             {tag: "Prosinec"}
-data.forEach (cover, index) ->
-    cover.index = index
-data.sort (a, b) ->
-    b.index - a.index
 data.forEach (cover) ->
     for category in <[events people entities]>
         tag_category = tags_categories[category]

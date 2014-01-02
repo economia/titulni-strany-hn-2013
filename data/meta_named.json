@@ -25,8 +25,7 @@
         "link": "http://hn.ihned.cz/c1-59047580-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ],
-    "stories": ["Konec krize?"]
+    ]
   },
   {
     "file": "0103.pdf",
@@ -57,7 +56,7 @@
         "title": "99 slov Petra Kamberského"
       }
     ],
-    "stories": ["Klaus propustil tisíce vězňů"]
+    "stories": ["Tisíce vězňů na svobodě"]
   },
   {
     "file": "0104.pdf",
@@ -93,13 +92,12 @@
         "title": "99 slov Adama Černého"
       }
     ],
-    "stories": ["Klaus propustil tisíce vězňů"]
+    "stories": ["Tisíce vězňů na svobodě", "ČNB torpéduje korunu"]
   },
   {
     "file": "0107.pdf",
     "events": [
-      "Investice",
-      "Obchody roku"
+      "Investice"
     ],
     "people": [],
     "entities": [],
@@ -121,7 +119,7 @@
         "link": "http://hn.ihned.cz/c1-59073790-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ], "stories": ["Obchody roku"]
   },
   {
     "file": "0108.pdf",
@@ -154,7 +152,6 @@
   {
     "file": "0109.pdf",
     "events": [
-      "Obchody roku",
       "Krize"
     ],
     "people": [
@@ -178,7 +175,8 @@
         "link": "http://hn.ihned.cz/c1-59088030-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["Impérium PPF", "Obchody roku"]
   },
   {
     "file": "0110.pdf",
@@ -214,7 +212,7 @@
         "title": "99 slov Petra Kamberského"
       }
     ],
-    "stories": ["Klaus propustil tisíce vězňů"]
+    "stories": ["Tisíce vězňů na svobodě"]
   },
   {
     "file": "0111.pdf",
@@ -234,7 +232,8 @@
         "link": "http://hn.ihned.cz/c1-59104520-zvolme-prezidenta-ktery-spojuje-ne-rozdeluje",
         "title": "Zvolme prezidenta, který spojuje, ne rozděluje"
       }
-    ]
+    ],
+    "stories": ["Bitva o Hrad"]
   },
   {
     "file": "0114.pdf",
@@ -254,7 +253,8 @@
         "link": "http://hn.ihned.cz/c1-59116220-o-hrad-se-stretnou-tezke-vahy-ruznych-kultur",
         "title": "O Hrad se střetnou těžké váhy různých kultur"
       }
-    ]
+    ],
+    "stories": ["Bitva o Hrad"]
   },
   {
     "file": "0115.pdf",
@@ -284,13 +284,13 @@
         "link": "http://hn.ihned.cz/c1-59123940-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["Bitva o Hrad"]
   },
   {
     "file": "0116.pdf",
     "events": [
       "Prezidentské volby",
-      "Obchody roku",
       "Reformy"
     ],
     "people": [
@@ -385,7 +385,8 @@
         "link": "http://hn.ihned.cz/c1-59146060-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["Bitva o Hrad"]
   },
   {
     "file": "0121.pdf",
@@ -461,7 +462,8 @@
         "link": "http://hn.ihned.cz/c1-59168090-99-slov",
         "title": "99 slov Jindřicha Šídla"
       }
-    ]
+    ],
+    "stories": ["Bitva o Hrad"]
   },
   {
     "file": "0123.pdf",
@@ -492,7 +494,8 @@
         "link": "http://hn.ihned.cz/c1-59174080-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["Bitva o Hrad"]
   },
   {
     "file": "0124.pdf",
@@ -521,7 +524,8 @@
         "link": "http://hn.ihned.cz/c1-59183190-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["Bitva o Hrad"]
   },
   {
     "file": "0125.pdf",
@@ -545,7 +549,8 @@
         "link": "http://hn.ihned.cz/c1-59189930-editorial",
         "title": "Editorial Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["Bitva o Hrad"]
   },
   {
     "file": "0128.pdf",
@@ -564,7 +569,8 @@
         "link": "http://hn.ihned.cz/c1-59203620-zeman",
         "title": "Zeman"
       }
-    ]
+    ],
+    "stories": ["Bitva o Hrad"]
   },
   {
     "file": "0129.pdf",
@@ -629,7 +635,7 @@
         "title": "99 slov Petra Šabaty"
       }
     ],
-    "stories": ["Klaus propustil tisíce vězňů"]
+    "stories": ["Tisíce vězňů na svobodě"]
   },
   {
     "file": "0131.pdf",
@@ -655,7 +661,8 @@
         "link": "http://hn.ihned.cz/c1-59226410-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ],
+    "stories": ["Buldozer Babiš"]
   },
   {
     "file": "0201.pdf",
@@ -746,7 +753,7 @@
         "link": "http://hn.ihned.cz/c1-59255900-99-slov",
         "title": "99 slov Petra Fischera"
       }
-    ]
+    ], "stories": ["Podezření, zločiny a tresty"]
   },
   {
     "file": "0206.pdf",
@@ -846,7 +853,7 @@
         "link": "http://hn.ihned.cz/c1-59279330-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ], "stories" : ["ČNB torpéduje korunu"]
   },
   {
     "file": "0211.pdf",
@@ -913,7 +920,7 @@
         "link": "http://hn.ihned.cz/c1-59301900-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ], "stories" : ["Odcházení"]
   },
   {
     "file": "0213.pdf",
@@ -937,7 +944,7 @@
         "link": "http://hn.ihned.cz/c1-59309600-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ], "stories": ["Podezření, zločiny a tresty"]
   },
   {
     "file": "0214.pdf",
@@ -1104,7 +1111,8 @@
         "link": "http://hn.ihned.cz/c1-59357570-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["ČEZká republika"]
   },
   {
     "file": "0221.pdf",
@@ -1133,13 +1141,13 @@
         "link": "http://hn.ihned.cz/c1-59366380-99-slov",
         "title": "99 slov Adama Černého"
       }
-    ]
+    ],
+    "stories": ["ČEZká republika"]
   },
   {
     "file": "0222.pdf",
     "events": [
       "Energetika",
-      "Obchody roku",
       "Výzkum a vývoj"
     ],
     "people": [],
@@ -1166,7 +1174,8 @@
         "link": "http://hn.ihned.cz/c1-59373880-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["ČEZká republika", "Obchody roku"]
   },
   {
     "file": "0225.pdf",
@@ -1283,7 +1292,7 @@
         "link": "http://hn.ihned.cz/c1-59414150-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ], "stories" : ["Odcházení"]
   },
   {
     "file": "0301.pdf",
@@ -1439,7 +1448,8 @@
         "link": "http://hn.ihned.cz/c1-59457730-99-slov",
         "title": "99 slov Adama Černého"
       }
-    ]
+    ],
+    "stories": ["Impérium PPF"]
   },
   {
     "file": "0308.pdf",
@@ -1462,7 +1472,8 @@
         "link": "http://hn.ihned.cz/c1-59465260-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["Bitva o Hrad"]
   },
   {
     "file": "0311.pdf",
@@ -1531,7 +1542,7 @@
         "title": "99 slov Martina Denemarka"
       }
     ],
-    "stories": ["Klaus propustil tisíce vězňů"]
+    "stories": ["Tisíce vězňů na svobodě"]
   },
   {
     "file": "0313.pdf",
@@ -1658,7 +1669,7 @@
         "link": "http://hn.ihned.cz/c1-59522540-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ], "stories" : ["Ženy u kormidla"]
   },
   {
     "file": "0319.pdf",
@@ -1667,7 +1678,6 @@
       "Reformy",
       "Krize eurozóny",
       "Krize",
-      "Obchody roku",
       "Důchody",
       "Energetika"
     ],
@@ -1711,7 +1721,6 @@
       "Energetika",
       "Krize eurozóny",
       "Krize",
-      "Obchody roku",
       "Automobilový průmysl"
     ],
     "people": [
@@ -1745,7 +1754,8 @@
         "link": "http://hn.ihned.cz/c1-59539180-99-slov-petra-sabaty",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["ČEZká republika", "Obchody roku"]
   },
   {
     "file": "0321.pdf",
@@ -1822,7 +1832,7 @@
         "link": "http://hn.ihned.cz/c1-59556110-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ], "stories": ["Obchody roku"]
   },
   {
     "file": "0325.pdf",
@@ -1864,7 +1874,7 @@
         "title": "99 slov Petra Šabaty"
       }
     ],
-    "stories": ["Konec krize?"]
+    "stories": ["Konec krize?", "Odcházení"]
   },
   {
     "file": "0326.pdf",
@@ -1902,7 +1912,8 @@
         "link": "http://hn.ihned.cz/c1-59576610-99-slov",
         "title": "99 slov Adama Černého"
       }
-    ]
+    ],
+    "stories": ["ČEZká republika"]
   },
   {
     "file": "0327.pdf",
@@ -1936,7 +1947,8 @@
         "link": "http://hn.ihned.cz/c1-59584190-99-slov-petra-sabaty",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["ČEZká republika"]
   },
   {
     "file": "0328.pdf",
@@ -2005,7 +2017,7 @@
         "link": "http://hn.ihned.cz/c1-59600740-99-slov",
         "title": "99 slov Martina Denemarka"
       }
-    ]
+    ], "stories": ["Obchody roku"]
   },
   {
     "file": "0402.pdf",
@@ -2175,7 +2187,7 @@
         "link": "http://hn.ihned.cz/c1-59647610-99-slov-petra-kamberskeho",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ], "stories": ["Obchody roku"]
   },
   {
     "file": "0409.pdf",
@@ -2198,12 +2210,11 @@
         "link": "http://hn.ihned.cz/c1-59655780-99-slov-adama-cerneho",
         "title": "99 slov Adama Černého"
       }
-    ]
+    ], "stories" : ["Odcházení", "Ženy u kormidla"]
   },
   {
     "file": "0410.pdf",
     "events": [
-      "Obchody roku",
       "Telekomunikace",
       "Doprava",
       "Dotace",
@@ -2234,15 +2245,15 @@
         "link": "http://hn.ihned.cz/c1-59662160-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["ČEZká republika"]
   },
   {
     "file": "0411.pdf",
     "events": [
       "Reformy",
       "Doprava",
-      "Automobilový průmysl",
-      "Obchody roku"
+      "Automobilový průmysl"
     ],
     "people": [],
     "entities": [
@@ -2455,7 +2466,7 @@
         "link": "http://hn.ihned.cz/c1-59714470-99-slov-petra-kamberskeho",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ], "stories" : ["Odcházení"]
   },
   {
     "file": "0419.pdf",
@@ -2536,7 +2547,6 @@
     "events": [
       "Stavebnictví",
       "Energetika",
-      "Obchody roku",
       "Amnestie",
       "Korupce"
     ],
@@ -2740,7 +2750,8 @@
         "link": "http://hn.ihned.cz/c1-59790740-99-slov",
         "title": "99 slov Adama Černého"
       }
-    ]
+    ],
+    "stories": ["Impérium PPF"]
   },
   {
     "file": "0502.pdf",
@@ -2807,7 +2818,8 @@
         "link": "http://hn.ihned.cz/c1-59808460-99-slov",
         "title": "99 slov Martina Denemarka"
       }
-    ]
+    ],
+    "stories": ["ČEZká republika"]
   },
   {
     "file": "0506.pdf",
@@ -2966,7 +2978,7 @@
         "link": "http://hn.ihned.cz/c1-59865640-99-slov",
         "title": "99 slov Adama Černého"
       }
-    ]
+    ], "stories": ["Podezření, zločiny a tresty"]
   },
   {
     "file": "0514.pdf",
@@ -3000,7 +3012,7 @@
         "link": "http://hn.ihned.cz/c1-59872300-99-slov-jiriho-leschtiny",
         "title": "99 slov Jiřího Leschtiny"
       }
-    ]
+    ], "stories": ["Podezření, zločiny a tresty"]
   },
   {
     "file": "0515.pdf",
@@ -3062,7 +3074,7 @@
         "title": "99 slov"
       }
     ],
-    "stories": ["Konec krize?"]
+    "stories": ["Konec krize?", "ČNB torpéduje korunu"]
   },
   {
     "file": "0517.pdf",
@@ -3125,7 +3137,7 @@
         "link": "http://hn.ihned.cz/c1-59906650-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ], "stories": ["Podezření, zločiny a tresty"]
   },
   {
     "file": "0521.pdf",
@@ -3217,7 +3229,7 @@
         "link": "http://hn.ihned.cz/c1-59929140-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ], "stories" : ["Ženy u kormidla"]
   },
   {
     "file": "0524.pdf",
@@ -3248,7 +3260,8 @@
         "link": "http://hn.ihned.cz/c1-59935570-99-slov",
         "title": "99 slov Martina Denemarka"
       }
-    ]
+    ],
+    "stories": ["ČEZká republika"]
   },
   {
     "file": "0527.pdf",
@@ -3344,7 +3357,8 @@
         "link": "http://hn.ihned.cz/c1-59962600-99-slov",
         "title": "99 slov Martina Denemarka"
       }
-    ]
+    ],
+    "stories": ["ČEZká republika"]
   },
   {
     "file": "0530.pdf",
@@ -3407,12 +3421,12 @@
         "link": "http://hn.ihned.cz/c1-59977970-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ], "stories" : ["Ženy u kormidla"]
   },
   {
     "file": "0603.pdf",
     "events": [
-      "Povodně"
+      "Velká voda"
     ],
     "people": [
       "Petr Nečas"
@@ -3433,7 +3447,7 @@
   {
     "file": "0604.pdf",
     "events": [
-      "Povodně"
+      "Velká voda"
     ],
     "people": [],
     "entities": [],
@@ -3448,7 +3462,7 @@
   {
     "file": "0605.pdf",
     "events": [
-      "Povodně"
+      "Velká voda"
     ],
     "people": [],
     "entities": [],
@@ -3463,7 +3477,7 @@
   {
     "file": "0606.pdf",
     "events": [
-      "Povodně",
+      "Velká voda",
       "Daně"
     ],
     "people": [],
@@ -3485,7 +3499,7 @@
   {
     "file": "0607.pdf",
     "events": [
-      "Povodně",
+      "Velká voda",
       "Daně",
       "Zdravotnictví"
     ],
@@ -3514,7 +3528,7 @@
   {
     "file": "0610.pdf",
     "events": [
-      "Povodně",
+      "Velká voda",
       "Nemovitosti"
     ],
     "people": [
@@ -3607,7 +3621,8 @@
         "link": "http://hn.ihned.cz/c1-60053200-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["Impérium PPF"]
   },
   {
     "file": "0613.pdf",
@@ -3659,7 +3674,8 @@
         "link": "http://hn.ihned.cz/c1-60067230-posledni-boj-premiera-necase",
         "title": "Poslední boj premiéra Nečase"
       }
-    ]
+    ],
+    "stories": ["Konec Nečasovy vlády"]
   },
   {
     "file": "0617.pdf",
@@ -3686,7 +3702,8 @@
         "link": "http://hn.ihned.cz/c1-60081220-policie-jde-po-rittigovych-zakazkach-s-lesy-i-s-povodim-vltavy",
         "title": "Policie jde po \"Rittigových\" zakázkách s Lesy i s Povodím Vltavy"
       }
-    ]
+    ],
+    "stories": ["Konec Nečasovy vlády"]
   },
   {
     "file": "0618.pdf",
@@ -3714,7 +3731,8 @@
         "link": "http://hn.ihned.cz/c1-60088490-99-slov-adama-cerneho",
         "title": "99 slov Adama Černého"
       }
-    ]
+    ],
+    "stories": ["Konec Nečasovy vlády"]
   },
   {
     "file": "0619.pdf",
@@ -3750,7 +3768,8 @@
         "link": "http://hn.ihned.cz/c1-60096500-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["Konec Nečasovy vlády"]
   },
   {
     "file": "0620.pdf",
@@ -3778,7 +3797,8 @@
         "link": "http://hn.ihned.cz/c1-60104080-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ],
+    "stories": ["Konec Nečasovy vlády", "Ženy u kormidla"]
   },
   {
     "file": "0621.pdf",
@@ -3810,7 +3830,8 @@
         "link": "http://hn.ihned.cz/c1-60111340-99-slov",
         "title": "99 slov Petra Fischera"
       }
-    ]
+    ],
+    "stories": ["Konec Nečasovy vlády", "Ženy u kormidla"]
   },
   {
     "file": "0624.pdf",
@@ -3840,7 +3861,7 @@
         "link": "http://hn.ihned.cz/c1-60121550-99-slov-petra-sabaty",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ], "stories" : ["Rusnok & spol."]
   },
   {
     "file": "0625.pdf",
@@ -3912,7 +3933,8 @@
         "link": "http://hn.ihned.cz/c1-60138680-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ],
+    "stories": ["Rusnok & spol."]
   },
   {
     "file": "0627.pdf",
@@ -3923,7 +3945,7 @@
       "Úřednická vláda"
     ],
     "people": [
-      "Andre Babiš",
+      "Andrej Babiš",
       "Miloš Zeman",
       "Jiří Rusnok"
     ],
@@ -3946,7 +3968,8 @@
         "link": "http://hn.ihned.cz/c1-60147690-99-slov-martina-denemarka",
         "title": "99 slov Martina Denemarka"
       }
-    ]
+    ],
+    "stories": ["Buldozer Babiš", "Obchody roku"]
   },
   {
     "file": "0628.pdf",
@@ -3977,7 +4000,8 @@
         "link": "http://hn.ihned.cz/c1-60155320-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["Rusnok & spol."]
   },
   {
     "file": "0701.pdf",
@@ -4050,7 +4074,7 @@
         "link": "http://hn.ihned.cz/c1-60175990-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ], "stories": ["Podezření, zločiny a tresty"]
   },
   {
     "file": "0703.pdf",
@@ -4085,7 +4109,8 @@
         "link": "http://hn.ihned.cz/c1-60184070-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["Buldozer Babiš"]
   },
   {
     "file": "0704.pdf",
@@ -4155,7 +4180,8 @@
         "link": "http://hn.ihned.cz/c1-60204540-99-slov",
         "title": "99 slov Lucie Tvarůžkové"
       }
-    ]
+    ],
+    "stories": ["Rusnok & spol."]
   },
   {
     "file": "0709.pdf",
@@ -4186,7 +4212,8 @@
         "link": "http://hn.ihned.cz/c1-60212340-99-slov",
         "title": "99 slov Martina Denemarka"
       }
-    ]
+    ],
+    "stories": ["Rusnok & spol."]
   },
   {
     "file": "0710.pdf",
@@ -4240,7 +4267,7 @@
         "title": "99 slov Petra Šabaty"
       }
     ],
-    "stories": ["Konec krize?"]
+    "stories": ["Konec krize?", "Rusnok & spol."]
   },
   {
     "file": "0712.pdf",
@@ -4271,7 +4298,7 @@
         "link": "http://hn.ihned.cz/c1-60236410-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ], "stories": ["Obchody roku"]
   },
   {
     "file": "0715.pdf",
@@ -4329,7 +4356,8 @@
         "link": "http://hn.ihned.cz/c1-60256150-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ],
+    "stories": ["Rusnok & spol."]
   },
   {
     "file": "0717.pdf",
@@ -4363,7 +4391,8 @@
         "link": "http://hn.ihned.cz/c1-60263150-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["Konec Nečasovy vlády"]
   },
   {
     "file": "0718.pdf",
@@ -4399,7 +4428,8 @@
         "link": "http://hn.ihned.cz/c1-60271800-99-slov-lucie-tvaruzkove",
         "title": "99 slov Lucie Tvarůžkové"
       }
-    ]
+    ],
+    "stories": ["Konec Nečasovy vlády"]
   },
   {
     "file": "0719.pdf",
@@ -4432,7 +4462,8 @@
         "link": "http://hn.ihned.cz/c1-60278390-99-slov",
         "title": "99 slov"
       }
-    ]
+    ],
+    "stories": ["Bitva o Hrad", "Podezření, zločiny a tresty"]
   },
   {
     "file": "0722.pdf",
@@ -4536,7 +4567,7 @@
         "link": "http://hn.ihned.cz/c1-60305260-99-slov-petra-sabaty",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ], "stories": ["Podezření, zločiny a tresty"]
   },
   {
     "file": "0725.pdf",
@@ -4573,7 +4604,8 @@
         "link": "http://hn.ihned.cz/c1-60313190-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["ČEZká republika"]
   },
   {
     "file": "0726.pdf",
@@ -4672,7 +4704,8 @@
         "link": "http://hn.ihned.cz/c1-60338290-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["ČEZká republika"]
   },
   {
     "file": "0731.pdf",
@@ -4701,7 +4734,8 @@
         "link": "http://hn.ihned.cz/c1-60344920-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["Rusnok & spol.", "Odcházení"]
   },
   {
     "file": "0801.pdf",
@@ -4736,7 +4770,8 @@
         "link": "http://hn.ihned.cz/c1-60353560-99-slov",
         "title": "99 slov Petra Fischera"
       }
-    ]
+    ],
+    "stories": ["Rusnok & spol."]
   },
   {
     "file": "0802.pdf",
@@ -4768,7 +4803,8 @@
         "link": "http://hn.ihned.cz/c1-60360740-99-slov",
         "title": "99 slov Martina Denemarka"
       }
-    ]
+    ],
+    "stories": ["Klopotná koalice"]
   },
   {
     "file": "0805.pdf",
@@ -4842,7 +4878,8 @@
         "link": "http://hn.ihned.cz/c1-60377870-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["Klopotná koalice"]
   },
   {
     "file": "0807.pdf",
@@ -4872,7 +4909,8 @@
         "link": "http://hn.ihned.cz/c1-60385970-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["Rusnok & spol."]
   },
   {
     "file": "0808.pdf",
@@ -4902,7 +4940,8 @@
         "link": "http://hn.ihned.cz/c1-60392000-99-slov-petra-kamberskeho",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ],
+    "stories": ["Předčasně k urnám"]
   },
   {
     "file": "0809.pdf",
@@ -4933,7 +4972,8 @@
         "link": "http://hn.ihned.cz/c1-60397940-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["Předčasně k urnám"]
   },
   {
     "file": "0812.pdf",
@@ -4962,7 +5002,8 @@
         "link": "http://hn.ihned.cz/c1-60407520-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["Buldozer Babiš"]
   },
   {
     "file": "0813.pdf",
@@ -4992,7 +5033,8 @@
         "link": "http://hn.ihned.cz/c1-60413820-99-slov-petra-kamberskeho",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ],
+    "stories": ["Předčasně k urnám", "Buldozer Babiš"]
   },
   {
     "file": "0814.pdf",
@@ -5018,7 +5060,8 @@
         "link": "http://hn.ihned.cz/c1-60420680-99-slov-petra-sabaty",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["ČEZká republika"]
   },
   {
     "file": "0815.pdf",
@@ -5144,7 +5187,8 @@
         "link": "http://hn.ihned.cz/c1-60453240-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["Předčasně k urnám"]
   },
   {
     "file": "0821.pdf",
@@ -5174,7 +5218,8 @@
         "link": "http://hn.ihned.cz/c1-60460990-99-slov-petra-kamberskeho",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ],
+    "stories": ["Předčasně k urnám"]
   },
   {
     "file": "0822.pdf",
@@ -5213,8 +5258,7 @@
     "events": [
       "Spoření",
       "Investice",
-      "Školství",
-      "Obchody roku"
+      "Školství"
     ],
     "people": [],
     "entities": [
@@ -5274,8 +5318,7 @@
     "file": "0827.pdf",
     "events": [
       "Předčasné volby",
-      "Export",
-      "Obchody roku"
+      "Export"
     ],
     "people": [
       "Martin Bursík"
@@ -5297,7 +5340,7 @@
         "link": "http://hn.ihned.cz/c1-60495560-99-slov-petra-fischera",
         "title": "99 slov Petra Fischera"
       }
-    ]
+    ], "stories": ["Obchody roku"]
   },
   {
     "file": "0828.pdf",
@@ -5429,7 +5472,7 @@
         "link": "http://hn.ihned.cz/c1-60554680-99-slov",
         "title": "99 slov"
       }
-    ]
+    ], "stories": ["Podezření, zločiny a tresty"]
   },
   {
     "file": "0903.pdf",
@@ -5465,7 +5508,6 @@
     "file": "0904.pdf",
     "events": [
       "Technologie",
-      "Obchod roku",
       "Krize"
     ],
     "people": [
@@ -5490,7 +5532,7 @@
         "link": "http://hn.ihned.cz/c1-60581050-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ], "stories": ["Obchody roku"]
   },
   {
     "file": "0905.pdf",
@@ -5745,7 +5787,7 @@
         "link": "http://hn.ihned.cz/c1-60741810-99-slov-petra-sabaty",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ], "stories": ["Obchody roku"]
   },
   {
     "file": "0917.pdf",
@@ -5809,7 +5851,8 @@
         "link": "http://hn.ihned.cz/c1-60778240-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["Předčasně k urnám"]
   },
   {
     "file": "0919.pdf",
@@ -5838,7 +5881,8 @@
         "link": "http://hn.ihned.cz/c1-60800200-99-slov-petra-sabaty",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ],
+    "stories": ["Rusnok & spol."]
   },
   {
     "file": "0920.pdf",
@@ -5902,7 +5946,7 @@
         "link": "http://hn.ihned.cz/c1-60850580-99-slov-adama-cerneho",
         "title": "99 slov Adama Černého"
       }
-    ]
+    ], "stories" : ["Ženy u kormidla"]
   },
   {
     "file": "0924.pdf",
@@ -5945,7 +5989,6 @@
     "file": "0925.pdf",
     "events": [
       "Investice",
-      "Obchody roku",
       "Koruna"
     ],
     "people": [
@@ -5977,7 +6020,7 @@
         "link": "http://hn.ihned.cz/c1-60877250-99-slov",
         "title": "99 slov Petra Šabaty"
       }
-    ]
+    ], "stories" : ["ČNB torpéduje korunu", "Obchody roku"]
   },
   {
     "file": "0926.pdf",
@@ -6144,14 +6187,14 @@
         "link": "http://hn.ihned.cz/c1-60935560-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ],
+    "stories": ["Rusnok & spol."]
   },
   {
     "file": "1003.pdf",
     "events": [
       "Investice",
-      "Krize",
-      "Obchody roku"
+      "Krize"
     ],
     "people": [
       "Martin Kúšik"
@@ -6173,7 +6216,7 @@
         "link": "http://hn.ihned.cz/c1-60947010-99-slov-adama-cerneho",
         "title": "99 slov Adama Černého"
       }
-    ]
+    ], "stories": ["Obchody roku"]
   },
   {
     "file": "1004.pdf",
@@ -6353,7 +6396,7 @@
         "link": "http://hn.ihned.cz/c1-60984110-99-slov-petra-honzejka",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ], "stories" : ["Ženy u kormidla"]
   },
   {
     "file": "1011.pdf",
@@ -6383,7 +6426,7 @@
         "link": "http://hn.ihned.cz/c1-60987800-99-slov-martina-denemarka",
         "title": "99 slov Martina Denemarka"
       }
-    ]
+    ], "stories": ["Podezření, zločiny a tresty"]
   },
   {
     "file": "1014.pdf",
@@ -6419,7 +6462,7 @@
         "link": "http://hn.ihned.cz/c1-61000210-99-slov",
         "title": "99 slov"
       }
-    ]
+    ], "stories": ["Podezření, zločiny a tresty"]
   },
   {
     "file": "1015.pdf",
@@ -6451,7 +6494,7 @@
         "link": "http://hn.ihned.cz/c1-61005490-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ], "stories": ["Podezření, zločiny a tresty"]
   },
   {
     "file": "1016.pdf",
@@ -6484,13 +6527,13 @@
         "link": "http://hn.ihned.cz/c1-61010820-99-slov-petra-honzejka",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["ČEZká republika"]
   },
   {
     "file": "1017.pdf",
     "events": [
       "Banky",
-      "Obchody roku",
       "Sport"
     ],
     "people": [
@@ -6519,7 +6562,8 @@
         "link": "http://hn.ihned.cz/c1-61016770-99-slov",
         "title": "99 slov"
       }
-    ]
+    ],
+    "stories": ["Buldozer Babiš"]
   },
   {
     "file": "1018.pdf",
@@ -6616,7 +6660,8 @@
         "link": "http://hn.ihned.cz/c1-61047540-99-slov-petra-kamberskeho",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ],
+    "stories": ["Předčasně k urnám", "Buldozer Babiš"]
   },
   {
     "file": "1023.pdf",
@@ -6654,7 +6699,8 @@
         "link": "http://hn.ihned.cz/c1-61055080-99-slov",
         "title": "99 slov Adama Černého"
       }
-    ]
+    ],
+    "stories": ["Předčasně k urnám"]
   },
   {
     "file": "1024.pdf",
@@ -6725,7 +6771,8 @@
         "link": "http://hn.ihned.cz/c1-61071840-louceni-martina-romana-s-cez",
         "title": "Loučení Martina Romana s ČEZ"
       }
-    ]
+    ],
+    "stories": ["Předčasně k urnám", "Odcházení"]
   },
   {
     "file": "1029.pdf",
@@ -6752,7 +6799,8 @@
         "link": "http://hn.ihned.cz/c1-61094960-99-slov",
         "title": "99 slov Vladimíra Piskáčka"
       }
-    ]
+    ],
+    "stories": ["Předčasně k urnám", "Buldozer Babiš"]
   },
   {
     "file": "1030.pdf",
@@ -6783,7 +6831,8 @@
         "link": "http://hn.ihned.cz/c1-61103700-99-slov-petra-kamberskeho",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ],
+    "stories": ["Buldozer Babiš"]
   },
   {
     "file": "1031.pdf",
@@ -6820,7 +6869,8 @@
         "link": "http://hn.ihned.cz/c1-61112940-99-slov-jindricha-sidlo",
         "title": "99 slov Jindřicha Šídla"
       }
-    ]
+    ],
+    "stories": ["Klopotná koalice"]
   },
   {
     "file": "1101.pdf",
@@ -6857,7 +6907,8 @@
         "link": "http://hn.ihned.cz/c1-61121400-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["Klopotná koalice", "Ženy u kormidla"]
   },
   {
     "file": "1104.pdf",
@@ -6893,7 +6944,6 @@
     "file": "1105.pdf",
     "events": [
       "Telekomunikace",
-      "Obchody roku",
       "Úřednická vláda"
     ],
     "people": [
@@ -6923,7 +6973,8 @@
         "link": "http://hn.ihned.cz/c1-61151460-99-slov",
         "title": "99 slov Jindřicha Šídla"
       }
-    ]
+    ],
+    "stories": ["Impérium PPF", "Obchody roku"]
   },
   {
     "file": "1106.pdf",
@@ -6956,7 +7007,8 @@
         "link": "http://hn.ihned.cz/c1-61162890-99-slov-martina-denemarka",
         "title": "99 slov Martina Denemarka"
       }
-    ]
+    ],
+    "stories": ["Buldozer Babiš"]
   },
   {
     "file": "1107.pdf",
@@ -7024,7 +7076,7 @@
         "link": "http://hn.ihned.cz/c1-61182740-99-slov-petra-kamberskeho",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ], "stories" : ["ČNB torpéduje korunu"]
   },
   {
     "file": "1111.pdf",
@@ -7061,7 +7113,8 @@
         "link": "http://hn.ihned.cz/c1-61205210-99-slov-petra-honzejka",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["Klopotná koalice"]
   },
   {
     "file": "1112.pdf",
@@ -7097,7 +7150,7 @@
         "link": "http://hn.ihned.cz/c1-61215650-99-slov",
         "title": "99 slov Jindřicha Šídla"
       }
-    ]
+    ], "stories": ["Podezření, zločiny a tresty"]
   },
   {
     "file": "1113.pdf",
@@ -7169,7 +7222,8 @@
         "link": "http://hn.ihned.cz/c1-61230480-99-slov-petra-kamberskeho",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ],
+    "stories": ["Rusnok & spol.", "ČNB torpéduje korunou", "Ženy u kormidla"]
   },
   {
     "file": "1115.pdf",
@@ -7239,7 +7293,8 @@
         "link": "http://hn.ihned.cz/c1-61257390-99-slov-petra-fischera",
         "title": "99 slov Petra Fischera"
       }
-    ]
+    ],
+    "stories": ["Rusnok & spol."]
   },
   {
     "file": "1119.pdf",
@@ -7306,7 +7361,8 @@
         "link": "http://hn.ihned.cz/c1-61275740-99-slov-martina-denemarka",
         "title": "99 slov Martina Denemarka"
       }
-    ]
+    ],
+    "stories": ["Buldozer Babiš"]
   },
   {
     "file": "1121.pdf",
@@ -7339,7 +7395,7 @@
         "link": "http://hn.ihned.cz/c1-61283790-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ], "stories" : ["ČNB torpéduje korunu"]
   },
   {
     "file": "1122.pdf",
@@ -7409,7 +7465,8 @@
         "link": "http://hn.ihned.cz/c1-61312290-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ],
+    "stories": ["Buldozer Babiš", "Klopotná koalice"]
   },
   {
     "file": "1126.pdf",
@@ -7440,13 +7497,13 @@
         "link": "http://hn.ihned.cz/c1-61320490-99-slov",
         "title": "99 slov Martina Denemarka"
       }
-    ]
+    ],
+    "stories": ["Buldozer Babiš", "Klopotná koalice"]
   },
   {
     "file": "1127.pdf",
     "events": [
-      "Energetika",
-      "Obchody roku"
+      "Energetika"
     ],
     "people": [
       "Pavel Tykač",
@@ -7477,7 +7534,7 @@
         "link": "http://hn.ihned.cz/c1-61328580-99-slov-petra-kamberskeho",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ], "stories": ["Obchody roku"]
   },
   {
     "file": "1128.pdf",
@@ -7510,7 +7567,7 @@
         "link": "http://hn.ihned.cz/c1-61337390-99-slov",
         "title": "99 slov Jindřicha Šídla"
       }
-    ]
+    ], "stories" : ["ČNB torpéduje korunu", "Ženy u kormidla"]
   },
   {
     "file": "1129.pdf",
@@ -7545,7 +7602,7 @@
         "link": "http://hn.ihned.cz/c1-61346460-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ], "stories" : ["ČNB torpéduje korunu"]
   },
   {
     "file": "1202.pdf",
@@ -7581,7 +7638,8 @@
         "link": "http://hn.ihned.cz/c1-61369260-99-slov-martina-denemarka",
         "title": "99 slov Martina Denemarka"
       }
-    ]
+    ],
+    "stories": ["Klopotná koalice"]
   },
   {
     "file": "1203.pdf",
@@ -7649,13 +7707,13 @@
         "link": "http://hn.ihned.cz/c1-61387730-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ], "stories" : ["ČNB torpéduje korunu"]
   },
   {
     "file": "1205.pdf",
     "events": [
-      "Úřednická vláda",
-      "Zločin a trest"
+      "Úřednická vláda"
+
     ],
     "people": [
       "Jan Fischer"
@@ -7687,7 +7745,6 @@
   {
     "file": "1206.pdf",
     "events": [
-      "Zločin a trest",
       "Maloobchod"
     ],
     "people": [
@@ -7721,7 +7778,7 @@
         "link": "http://hn.ihned.cz/c1-61405730-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ], "stories": ["Podezření, zločiny a tresty"]
   },
   {
     "file": "1209.pdf",
@@ -7829,7 +7886,7 @@
         "link": "http://hn.ihned.cz/c1-61430230-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ], "stories" : ["Ženy u kormidla"]
   },
   {
     "file": "1212.pdf",
@@ -7902,14 +7959,14 @@
         "link": "http://hn.ihned.cz/c1-61440670-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["Klopotná koalice"]
   },
   {
     "file": "1216.pdf",
     "events": [
       "Investice",
-      "Export",
-      "Odcházení"
+      "Export"
     ],
     "people": [
       "Nelson Mandela"
@@ -7935,7 +7992,7 @@
         "link": "http://hn.ihned.cz/c1-61450830-99-slov-petra-fischera",
         "title": "99 slov Petra Fischera"
       }
-    ]
+    ], "stories" : ["Odcházení"]
   },
   {
     "file": "1217.pdf",
@@ -8006,14 +8063,14 @@
         "link": "http://hn.ihned.cz/c1-61461410-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["Rusnok & spol.", "Ženy u kormidla"]
   },
   {
     "file": "1219.pdf",
     "events": [
       "Zaměstnanost",
       "Školství",
-      "Odcházení",
       "Sestavování koalice"
     ],
     "people": [
@@ -8042,14 +8099,13 @@
         "link": "http://hn.ihned.cz/c1-61468200-99-slov-petra-fischera",
         "title": "99 slov Petra Fischera"
       }
-    ]
+    ], "stories" : ["Odcházení"]
   },
   {
     "file": "1220.pdf",
     "events": [
       "Banky",
       "Úvěry",
-      "Obchody roku",
       "Sestavování koalice"
     ],
     "people": [
@@ -8081,12 +8137,12 @@
         "link": "http://hn.ihned.cz/c1-61472330-99-slov",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["Impérium PPF", "Obchody roku"]
   },
   {
     "file": "1223.pdf",
     "events": [
-      "Obchody roku"
     ],
     "people": [
       "Petr Kellner",
@@ -8113,7 +8169,8 @@
         "link": "http://hn.ihned.cz/c1-61479430-99-slov-petra-honzejka",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["Impérium PPF"]
   },
   {
     "file": "1227.pdf",
@@ -8146,7 +8203,8 @@
         "link": "http://hn.ihned.cz/c1-61486060-99-slov-martina-denemarka",
         "title": "99 slov Martina Denemarka"
       }
-    ]
+    ],
+    "stories": ["Bitva o Hrad"]
   },
   {
     "file": "1230.pdf",
@@ -8174,7 +8232,8 @@
         "link": "http://hn.ihned.cz/c1-61495120-99-slov-petra-honzejka",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ],
+    "stories": ["Předčasně k urnám", "Klopotná koalice"]
   },
   {
     "file": "1231.pdf",

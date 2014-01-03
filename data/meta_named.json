@@ -126,7 +126,7 @@
     "events": [
       "Investice",
       "Krize",
-      "Inovace a technologie"
+      "Inovace"
     ],
     "people": [],
     "entities": [
@@ -183,7 +183,7 @@
     "events": [
       "Amnestie",
       "Krize",
-      "Inovace a technologie"
+      "Technologie"
     ],
     "people": [
       "Pavel Rychetský",
@@ -669,7 +669,7 @@
     "events": [
       "Technologie",
       "Média",
-      "Výzkum"
+      "Výzkum a vývoj"
     ],
     "people": [],
     "entities": [
@@ -694,14 +694,14 @@
   {
     "file": "0204.pdf",
     "events": [
-      "Reformy"
+      "Reformy",
+      "Armáda"
     ],
     "people": [
       "Miroslav Kalousek"
     ],
     "entities": [
-      "Vláda",
-      "Armáda"
+      "Vláda"
     ],
     "dds": "Petr Kamberský",
     "links": [
@@ -1607,13 +1607,14 @@
   },
   {
     "file": "0315.pdf",
-    "events": [],
+    "events": [
+      "Automobilový průmysl"
+    ],
     "people": [
       "František I."
     ],
     "entities": [
       "Telekomunikace",
-      "Automobilový průmysl",
       "ČSSD",
       "Český telekomunikační úřad"
     ],
@@ -1642,14 +1643,15 @@
     "events": [
       "Daně",
       "Reformy",
-      "Technologie"
+      "Technologie",
+      "Automobilový průmysl"
     ],
     "people": [
       "Bohuslav Sobotka"
     ],
     "entities": [
-      "ČSSD",
-      "Automobilový průmysl"
+      "ČSSD"
+      
     ],
     "dds": "Petr Kamberský",
     "links": [
@@ -1676,7 +1678,7 @@
     "events": [
       "Daně",
       "Reformy",
-      "Krize eurozóny",
+      "Eurozóna",
       "Krize",
       "Důchody",
       "Energetika"
@@ -1692,7 +1694,6 @@
       "Czech Coal",
       "ČEZ",
       "Energetický průmyslový holding",
-      "Euro",
       "Kypr"
     ],
     "dds": "Petr Kamberský",
@@ -1719,7 +1720,7 @@
     "file": "0320.pdf",
     "events": [
       "Energetika",
-      "Krize eurozóny",
+      "Eurozóna",
       "Krize",
       "Automobilový průmysl"
     ],
@@ -1732,7 +1733,6 @@
       "Czech Coal",
       "ČEZ",
       "Energetický průmyslový holding",
-      "Euro",
       "Škoda",
       "Kypr"
     ],
@@ -1761,7 +1761,7 @@
     "file": "0321.pdf",
     "events": [
       "Reformy",
-      "Krize eurozóny",
+      "Eurozóna",
       "Krize",
       "Korupce"
     ],
@@ -1772,7 +1772,6 @@
     ],
     "entities": [
       "ČSSD",
-      "Euro",
       "Kypr"
     ],
     "dds": "Petr Kamberský",
@@ -1840,16 +1839,16 @@
       "Krize",
       "Korupce",
       "Automobilový průmysl",
-      "Inovace"
+      "Inovace",
+      "Eurozóna"
     ],
     "people": [
       "Boris Berezovskij",
       "David Rath"
     ],
     "entities": [
-      "Kypr",
-      "Krize eurozóny",
-      "Euro"
+      "Kypr"
+
     ],
     "dds": "Petr Šabata",
     "links": [
@@ -1881,15 +1880,14 @@
     "events": [
       "Krize",
       "Energetika",
-      "Sport"
+      "Sport",
+      "Eurozóna"
     ],
     "people": [
       "Tiger Woods"
     ],
     "entities": [
       "Kypr",
-      "Krize eurozóny",
-      "Euro",
       "ČEZ",
       "Westinghouse",
       "Rosatom"
@@ -1919,13 +1917,12 @@
     "file": "0327.pdf",
     "events": [
       "Krize",
-      "Energetika"
+      "Energetika",
+      "Eurozóna"
     ],
     "people": [],
     "entities": [
       "Kypr",
-      "Krize eurozóny",
-      "Euro",
       "ČEZ",
       "ODS"
     ],
@@ -1955,7 +1952,8 @@
     "events": [
       "Krize",
       "Daně",
-      "Korupce"
+      "Korupce",
+      "Eurozóna"
     ],
     "people": [
       "Petr Nečas",
@@ -1963,8 +1961,6 @@
     ],
     "entities": [
       "Kypr",
-      "Krize eurozóny",
-      "Euro",
       "Vláda"
     ],
     "dds": "Petr Šabata",
@@ -1995,13 +1991,12 @@
     "file": "0329.pdf",
     "events": [
       "Showbyznys",
-      "Krize"
+      "Krize",
+      "Eurozóna"
     ],
     "people": [],
     "entities": [
-      "Kypr",
-      "Krize eurozóny",
-      "Euro"
+      "Kypr"
     ],
     "dds": "Martin Denemark",
     "links": [
@@ -2429,8 +2424,7 @@
   {
     "file": "0418.pdf",
     "events": [
-      "Krize eurozóny",
-      "Euro",
+      "Eurozóna",
       "Telekomunikace",
       "Reformy"
     ],
@@ -2473,7 +2467,7 @@
     "events": [
       "Banky",
       "Automobilový průmysl",
-      "Výzkum"
+      "Výzkum a vývoj"
     ],
     "people": [
       "Petr Kellner"
@@ -2787,14 +2781,13 @@
     "file": "0503.pdf",
     "events": [
       "Energetika",
-      "Krize eurozóny",
+      "Eurozóna",
       "Sport",
       "Doprava"
     ],
     "people": [],
     "entities": [
-      "ČEZ",
-      "Euro"
+      "ČEZ"
     ],
     "dds": "Martin Denemark",
     "links": [
@@ -2888,7 +2881,7 @@
     "file": "0509.pdf",
     "events": [
       "Telekomunikace",
-      "Krize eurozóny"
+      "Eurozóna"
     ],
     "people": [],
     "entities": [
@@ -2896,8 +2889,7 @@
       "Telefónica",
       "Vodafone",
       "Google",
-      "Evropská unie",
-      "Euro"
+      "Evropská unie"
     ],
     "dds": "Martin Denemark",
     "links": [
@@ -3109,7 +3101,7 @@
   {
     "file": "0520.pdf",
     "events": [
-      "Výzkum",
+      "Výzkum a vývoj",
       "Korupce",
       "Sport"
     ],
@@ -3365,7 +3357,7 @@
     "events": [
       "Inovace",
       "Banky",
-      "Výzkum"
+      "Výzkum a vývoj"
     ],
     "people": [],
     "entities": [
@@ -3426,7 +3418,7 @@
   {
     "file": "0603.pdf",
     "events": [
-      "Velká voda"
+      "Povodně"
     ],
     "people": [
       "Petr Nečas"
@@ -3442,12 +3434,12 @@
         "link": "http://hn.ihned.cz/c1-59989860-99-slov-petra-honzejka",
         "title": "99 slov Petra Honzejka"
       }
-    ]
+    ], "stories" : ["Velká voda"]
   },
   {
     "file": "0604.pdf",
     "events": [
-      "Velká voda"
+      "Povodně"
     ],
     "people": [],
     "entities": [],
@@ -3457,12 +3449,12 @@
         "link": "http://hn.ihned.cz/c1-59998040-napor-velke-vody-vrcholi",
         "title": "Nápor velké vody vrcholí"
       }
-    ]
+    ], "stories" : ["Velká voda"]
   },
   {
     "file": "0605.pdf",
     "events": [
-      "Velká voda"
+      "Povodně"
     ],
     "people": [],
     "entities": [],
@@ -3472,12 +3464,12 @@
         "link": "http://hn.ihned.cz/c1-60006250-sever-se-potapi",
         "title": "Sever se potápí"
       }
-    ]
+    ], "stories" : ["Velká voda"]
   },
   {
     "file": "0606.pdf",
     "events": [
-      "Velká voda",
+      "Povodně",
       "Daně"
     ],
     "people": [],
@@ -3494,12 +3486,12 @@
         "link": "http://hn.ihned.cz/c1-60015690-99-slov-petra-fischera",
         "title": "99 slov Petra Fischera"
       }
-    ]
+    ], "stories" : ["Velká voda"]
   },
   {
     "file": "0607.pdf",
     "events": [
-      "Velká voda",
+      "Povodně",
       "Daně",
       "Zdravotnictví"
     ],
@@ -3523,12 +3515,12 @@
         "link": "http://hn.ihned.cz/c1-60023960-99-slov",
         "title": "99 slov Petra Kamberského"
       }
-    ]
+    ], "stories" : ["Velká voda"]
   },
   {
     "file": "0610.pdf",
     "events": [
-      "Velká voda",
+      "Povodně",
       "Nemovitosti"
     ],
     "people": [
@@ -3553,14 +3545,14 @@
         "link": "http://hn.ihned.cz/c1-60037350-99-slov-martina-denemarka",
         "title": "99 slov Martina Denemarka"
       }
-    ]
+    ], "stories" : ["Velká voda"]
   },
   {
     "file": "0611.pdf",
     "events": [
       "Zdravotnictví",
       "Soukromí",
-      "Krize eurozóny",
+      "Eurozóna",
       "Sport",
       "Export"
     ],
@@ -3868,7 +3860,7 @@
     "events": [
       "Pád vlády",
       "Úřednická vláda",
-      "Krize eurozóny",
+      "Eurozóna",
       "Krize",
       "Automobilový průmysl",
       "Daně"
@@ -4081,7 +4073,7 @@
     "events": [
       "Maloobchod",
       "Investice",
-      "Výzkum",
+      "Výzkum a vývoj",
       "Zdravotnictví"
     ],
     "people": [
@@ -4804,12 +4796,12 @@
         "title": "99 slov Martina Denemarka"
       }
     ],
-    "stories": ["Klopotná koalice"]
+    "stories": ["Jak sestrojit koalici"]
   },
   {
     "file": "0805.pdf",
     "events": [
-      "Úřednická vláda",
+      "Úřednická vláda", 
       "Krize",
       "Export"
     ],
@@ -4879,7 +4871,7 @@
         "title": "99 slov Petra Honzejka"
       }
     ],
-    "stories": ["Klopotná koalice"]
+    "stories": ["Jak sestrojit koalici"]
   },
   {
     "file": "0807.pdf",
@@ -5546,7 +5538,7 @@
       "Sýrie",
       "USA",
       "ČSSD",
-      "CNB"
+      "ČNB"
     ],
     "dds": "Petr Kamberský",
     "links": [
@@ -5665,8 +5657,7 @@
     "file": "0911.pdf",
     "events": [
       "Korupce",
-      "Veřejné zakázky",
-      "Zahraničí"
+      "Veřejné zakázky"
     ],
     "people": [
       "Vladimir Putin",
@@ -5757,7 +5748,7 @@
     "file": "0916.pdf",
     "events": [
       "Technologie",
-      "Výzkum",
+      "Výzkum a vývoj",
       "Korupce"
     ],
     "people": [
@@ -5795,7 +5786,7 @@
       "Technologie",
       "Telekomunikace",
       "Energetika",
-      "Výzkum"
+      "Výzkum a vývoj"
     ],
     "people": [],
     "entities": [
@@ -6162,7 +6153,7 @@
   {
     "file": "1002.pdf",
     "events": [
-      "Výzkum",
+      "Výzkum a vývoj",
       "Školství",
       "Úřednická vláda"
     ],
@@ -6468,13 +6459,14 @@
     "file": "1015.pdf",
     "events": [
       "Zaměstnanost",
-      "Korupce"
+      "Korupce",
+      "Eurozóna"
     ],
     "people": [],
     "entities": [
       "Žalobci",
-      "Policie",
-      "Euro"
+      "Policie"
+      
     ],
     "dds": "Petr Honzejk",
     "links": [
@@ -6870,7 +6862,7 @@
         "title": "99 slov Jindřicha Šídla"
       }
     ],
-    "stories": ["Klopotná koalice"]
+    "stories": ["Jak sestrojit koalici"]
   },
   {
     "file": "1101.pdf",
@@ -6908,7 +6900,7 @@
         "title": "99 slov Petra Honzejka"
       }
     ],
-    "stories": ["Klopotná koalice", "Ženy u kormidla"]
+    "stories": ["Jak sestrojit koalici", "Ženy u kormidla"]
   },
   {
     "file": "1104.pdf",
@@ -7013,7 +7005,7 @@
   {
     "file": "1107.pdf",
     "events": [
-      "Reality",
+      "Nemovitosti",
       "Technologie"
     ],
     "people": [
@@ -7114,7 +7106,7 @@
         "title": "99 slov Petra Honzejka"
       }
     ],
-    "stories": ["Klopotná koalice"]
+    "stories": ["Jak sestrojit koalici"]
   },
   {
     "file": "1112.pdf",
@@ -7466,7 +7458,7 @@
         "title": "99 slov Petra Kamberského"
       }
     ],
-    "stories": ["Buldozer Babiš", "Klopotná koalice"]
+    "stories": ["Buldozer Babiš", "Jak sestrojit koalici"]
   },
   {
     "file": "1126.pdf",
@@ -7498,7 +7490,7 @@
         "title": "99 slov Martina Denemarka"
       }
     ],
-    "stories": ["Buldozer Babiš", "Klopotná koalice"]
+    "stories": ["Buldozer Babiš", "Jak sestrojit koalici"]
   },
   {
     "file": "1127.pdf",
@@ -7607,7 +7599,7 @@
   {
     "file": "1202.pdf",
     "events": [
-      "Reality",
+      "Nemovitosti",
       "Reformy",
       "Sestavování koalice"
     ],
@@ -7639,7 +7631,7 @@
         "title": "99 slov Martina Denemarka"
       }
     ],
-    "stories": ["Klopotná koalice"]
+    "stories": ["Jak sestrojit koalici"]
   },
   {
     "file": "1203.pdf",
@@ -7821,7 +7813,7 @@
   {
     "file": "1210.pdf",
     "events": [
-      "Reality",
+      "Nemovitosti",
       "Daně",
       "Banky",
       "Sestavování koalice"
@@ -7960,7 +7952,7 @@
         "title": "99 slov Petra Honzejka"
       }
     ],
-    "stories": ["Klopotná koalice"]
+    "stories": ["Jak sestrojit koalici"]
   },
   {
     "file": "1216.pdf",
@@ -7997,7 +7989,7 @@
   {
     "file": "1217.pdf",
     "events": [
-      "Reality",
+      "Nemovitosti",
       "Diplomacie",
       "Úřednická vláda",
       "Sport"
@@ -8034,7 +8026,7 @@
     "file": "1218.pdf",
     "events": [
       "Úřednická vláda",
-      "Reality"
+      "Nemovitosti"
     ],
     "people": [
       "Jiří Rusnok",
@@ -8233,7 +8225,7 @@
         "title": "99 slov Petra Honzejka"
       }
     ],
-    "stories": ["Předčasně k urnám", "Klopotná koalice"]
+    "stories": ["Předčasně k urnám", "Jak sestrojit koalici"]
   },
   {
     "file": "1231.pdf",

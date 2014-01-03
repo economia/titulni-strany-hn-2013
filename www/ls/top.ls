@@ -7,7 +7,7 @@ window.topics =
     "Rusnok & spol."
     "Buldozer Babiš"
     "Předčasně k urnám"
-    "Klopotná koalice"
+    "Jak sestrojit koalici"
     "ČNB torpéduje korunu"
     "ČEZká republika"
     "Impérium PPF"

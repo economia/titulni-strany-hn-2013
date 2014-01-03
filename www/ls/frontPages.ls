@@ -10,7 +10,7 @@ months =
     "srpna"
     "září"
     "října"
-    "listopadd"
+    "listopad"
     "prosince"
 window.FrontPages = class FrontPages
     firstRun: yes
